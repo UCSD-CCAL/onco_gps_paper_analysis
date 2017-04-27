@@ -1,2 +1,1 @@
-# onco-gps
-Onco-GPS Paper Notebook Package
+# Onco-GPS Paper Notebook Package
