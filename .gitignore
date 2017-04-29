@@ -1,6 +1,12 @@
 data
 others
 
-*.ipynb_checkpoints/
+*Icon*
+*.DS_Store
+*_pycache_*
+*.py[cod]
+*.ipynb_checkpoints*
 *__pycache__/
 *.pyc
+*.idea
+*.swp
