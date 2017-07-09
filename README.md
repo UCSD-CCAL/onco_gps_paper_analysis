@@ -1,5 +1,6 @@
 # Onco-GPS Paper Analysis
-NbPackage for Onco-GPS paper analysis
+
+NbPackage for [Onco-GPS paper]() analysis
 
 ## Onco-GPS Notebook Package (NbPackage)
 This is the overview of the Onco-GPS Notebook Package (NbPackage), which is a complete bundle of computational data (or the code to download the data not hosted on this GitHub repository), tools, and results from the Onco-GPS paper. A NbPackage is a self-contained, comprehensive bundle of stuff needed to reproduce a computational analysis. NbPackage model was created to make every Jupyter-based computational analysis fully reproducable. And this NbPackage contains everything you need to reproduce the computational analyses seen in the Onco-GPS paper.
