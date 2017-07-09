@@ -13,7 +13,8 @@ There are 10 notebooks in the notebooks/ directory. They are numbered from 0 to 
 You only need 3 things to be able to run all of the notebooks: 1) python>=3.6, 2) R, and 3) Jupyter Notebook (R is required because, although we don't code in R, some python functions internally use R libraries.) And fortunately, installing Anaconda3 would install all of these requriements! So you only need to install Anaconda3 (if you don't already have it).
 
 #### How to install Anaconda3
-(Show environment set-up video)
+
+Watch [this quick video](https://youtu.be/xKGaGXmy8j4)
 
 ### Feedback & Questions
 If something is not working or if you have any questions, comments, or concerns, please submit XXX here.
