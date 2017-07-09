@@ -1,0 +1,35 @@
+{
+    "library_path": "",
+    "tasks": [{
+            "label": "Just Return",
+            "function_path": "simpli.just_return",
+            "required_args": [{
+                "name": "value",
+                "label": "Value"
+            }],
+            "returns": [{
+                "label": "Variable Name"
+            }]
+        },
+        {
+            "label": "Link JSON",
+            "function_path": "simpli.link_json",
+            "required_args": [{
+                "name": "filepath",
+                "label": "Simpli JSON to be Linked to ~/.simpli/jsons/"
+            }]
+        },
+        {
+            "label": "Reset JSONs",
+            "function_path": "simpli.reset_jsons"
+        },
+        {
+            "label": "Set Theme",
+            "function_path": "simpli.set_notebook_theme",
+            "required_args": [{
+                "name": "filepath",
+                "label": "CSS File"
+            }]
+        }
+    ]
+}

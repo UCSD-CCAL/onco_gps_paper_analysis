@@ -1,0 +1,447 @@
+$jupyter-color: #ff7e2e;
+
+$input-color: #20D9BA;
+$opt-input-color: #9017E6;
+$output-color: #4E41D9;
+$run-color: $jupyter-color;
+
+$cubic: cubic-bezier(0.64, 0.09, 0.08, 1) !default;
+
+$h3-font-size: 16px;
+$widget-spacing: 16px;
+
+@mixin ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@mixin shadow($color: black, $elevation: 1) {
+  @if $elevation == 1 {
+    box-shadow: 0 1px 3px rgba($color, 0.12), 0 1px 2px rgba($color, 0.24);
+  }
+  @else if $elevation == 2 {
+    box-shadow: 0 3px 6px rgba($color, 0.16), 0 3px 6px rgba($color, 0.23);
+  }
+  @else if $elevation == 3 {
+    box-shadow: 0 10px 20px rgba($color, 0.19), 0 6px 6px rgba($color, 0.23);
+  }
+}
+
+/******************** Breakpoints ********************/
+$breakpoints: ("small": (min-width: 767px), "medium": (min-width: 992px), "large": (min-width: 1200px));
+
+@mixin respond-to($name) {
+  // If the key exists in the map
+  @if map-has-key($breakpoints, $name) {
+    // Prints a media query based on the value
+    @media #{inspect(map-get($breakpoints, $name))} {
+      @content;
+    }
+  }
+  @else {
+    @warn "Unfortunately, no value could be retrieved from `#{$breakpoint}`. " + "Please make sure it is defined in `$breakpoints` map.";
+  }
+}
+
+/******************** Notebook Controls ********************/
+body {
+  position: relative;
+}
+
+h2 {
+  margin: 0 !important;
+}
+
+h3 {
+  font-size: $h3-font-size;
+  margin: 0 !important;
+}
+
+#insert_simpli_below {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  height: 50px;
+  width: 50px;
+  margin: 25px;
+  background: $input-color;
+  border-radius: 3px !important;
+}
+
+/******************** General Formatting ********************/
+
+.simpli-cell {
+  padding: 0 !important;
+
+  // box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s $cubic;
+
+  .input {
+    overflow: hidden;
+    height: 0;
+    min-width: 0;
+    padding: 0;
+  }
+
+  .output_area .prompt {
+    height: 0;
+    min-width: 0;
+    padding: 0;
+  }
+
+  .output_subarea {
+    overflow: visible;
+    width: 100%;
+    max-width: 100% !important;
+    padding: 0;
+  }
+}
+
+/******************** Widget ********************/
+
+.task-widget {
+  margin: 6px;
+  padding: $widget-spacing;
+}
+
+.task-widget-header {}
+
+.task-widget-inner {}
+
+.widget-info {
+  padding-top: $widget-spacing;
+  padding-left: $widget-spacing;
+}
+
+.widget-form-panel {
+  margin: 4px;
+  transition: 0.2s all $cubic;
+
+  .field-group {
+    border-radius: 3px;
+    margin: $widget-spacing 0;
+
+    > .item-header {
+      padding: $widget-spacing;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      transition: 0.2s all $cubic;
+
+      &:hover {
+        cursor: pointer;
+        background: #DDD;
+        border-radius: 2px;
+      }
+    }
+
+    > .item-content {
+      display: flex;
+      flex-direction: column;
+      transition: 0.2s all cubic;
+    }
+  }
+
+  .field-group-content {
+    > .input-parent {
+      padding: $widget-spacing;
+      padding-top: 0;
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+
+      paper-input {
+        width: 100%;
+      }
+
+      paper-icon-button {
+        color: grey;
+      }
+    }
+
+    .item-content {
+      padding: $widget-spacing;
+      background: lighten(lightgrey, 10);
+      max-height: 150px;
+      overflow: auto;
+    }
+  }
+
+  @mixin text-input-bg-mixin($color) {
+    border-radius: 3px;
+    border-left: 2px solid $color;
+
+    @include shadow(black, 1);
+  }
+
+  .field-required_args-group {
+    @include text-input-bg-mixin($input-color);
+  }
+
+  .field-optional_args-group {
+    @include text-input-bg-mixin($opt-input-color);
+  }
+
+  .field-returns-group {
+    @include text-input-bg-mixin($output-color);
+  }
+}
+
+.form-submit-button-wrapper {
+  padding: 0;
+  border: none;
+  background: none;
+  width: 100%;
+
+  paper-button {
+    width: 100%;
+    padding: $widget-spacing 0;
+    color: white;
+    background: $run-color;
+    margin: 0;
+    font-size: 18px;
+
+    iron-icon {
+      margin-left: $widget-spacing;
+    }
+  }
+}
+
+/******************** Widget Tooltip Buttons ********************/
+
+.btn[data-toggle="popover"] {
+  box-sizing: content-box;
+  padding: 8px;
+  border-radius: 50%;
+
+  > div {
+    height: 20px;
+    width: 20px;
+  }
+}
+
+button.close, .library-modal-header, .library-modal-footer {
+  display: none;
+}
+
+/******************** Task Library ********************/
+
+@media (min-width: 768px) {
+  .library-modal-dialog {
+    width: 700px !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .library-modal-dialog {
+    width: 800px !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .library-modal-dialog {
+    width: 800px !important;
+  }
+}
+
+.modal-content {
+  overflow: hidden;
+}
+
+.library-modal-body {
+  padding: 0 !important;
+}
+
+#library-parent {
+  min-height: 600px;
+  min-width: 600px;
+  height: 80vh;
+  overflow: hidden;
+}
+
+/******************** Information Panel ********************/
+
+#library-right-panel {
+  background: lightgrey;
+  position: relative;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  border-left: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+#library-right-panel-close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+  padding: $widget-spacing / 2;
+  color: #555;
+  border-bottom-left-radius: 2px;
+  background: rgba(0, 0, 0, 0.1);
+  transition: all 0.2s $cubic;
+
+  &:hover {
+    background: rgba(0, 0, 0, 0.2);
+  }
+}
+
+#library-task-info {
+  flex-grow: 1;
+  margin: 0.5em 2em;
+}
+
+#library-task-heading {
+  @include ellipsis;
+}
+
+#library-task-package {
+  @include ellipsis;
+
+  color: grey;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+#library-task-info > div {
+  * {
+    display: inline-block;
+  }
+
+  span {
+    font-size: 1em;
+  }
+
+  p {
+    margin-left: 1em;
+  }
+}
+
+#library-task-author {
+  @include ellipsis;
+
+  line-height: 2;
+}
+
+#library-task-description {
+  @include ellipsis;
+
+  margin: 0.5em 0;
+  line-height: 1.5;
+}
+
+#library-button-group {
+  margin: 1em;
+  text-align: right;
+
+  * {
+    margin: 0.5em;
+  }
+}
+
+.library-select-btn {
+  border: grey;
+  background: lighten($jupyter-color, 30%);
+  pointer-events: none;
+}
+
+.library-select-btn-activated {
+  border: darken($jupyter-color, 20%);
+  background: $jupyter-color;
+  pointer-events: auto;
+}
+
+/******************** Library Panel ********************/
+
+.library-left-panel {
+  background: white;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  overflow-y: auto;
+}
+
+$left-panel-padding: 16px;
+
+.library-left-panel-header {
+  @include ellipsis;
+
+  padding-left: $left-panel-padding;
+  padding-bottom: 18px;
+  padding-top: 18px;
+  margin: 0;
+}
+
+.library-left-panel-inner {
+  width: 100%;
+  display: flex;
+  background: darken(lightgrey, 10%);
+  flex-direction: column;
+}
+
+.library-load-text {
+  margin: 50px;
+  width: 100px;
+  left: calc(50% - 50px);
+}
+
+.library-load-text-hidden {
+  display: none;
+}
+
+.library-package-header {
+  @include ellipsis;
+
+  width: 100%;
+
+  //
+  // font-size: 16px;
+  padding: $left-panel-padding * 2 / 3;
+  padding-left: $left-panel-padding;
+  background: $jupyter-color;
+  color: white;
+  margin: 0;
+}
+
+.library-card {
+  @include ellipsis;
+
+  box-sizing: border-box;
+  display: block;
+  padding: 18px 16px;
+  background: white;
+  color: #444;
+  width: 100%;
+  text-decoration: none;
+  overflow: visible;
+  vertical-align: middle;
+  margin: 0.5px 0;
+  cursor: pointer;
+  transition: all 0.08s linear;
+  border: 2px solid rgba(0, 0, 0, 0);
+
+  &:hover {
+    color: #444;
+    text-decoration: none;
+    background: lighten(lightgrey, 10%);
+  }
+}
+
+.library-card-selected {
+  font-weight: bold;
+  background: lightgrey !important;
+  color: white !important;
+}
+
+.card-label {
+  @include ellipsis;
+
+  font-weight: normal;
+  margin: 0;
+}
+
+.card-description {
+  line-height: 1.5;
+}

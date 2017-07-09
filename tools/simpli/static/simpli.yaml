@@ -1,0 +1,5 @@
+Type: Jupyter Notebook Extension
+Compatibility: 4.2.3
+Main: main.js
+Name: Simpli
+Description: "In Jupyter Notebook, Simpli converts: [Python Code] <==> [GUI Task Widget]"
