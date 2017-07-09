@@ -16,4 +16,4 @@ You only need 3 things to be able to run all of the notebooks: 1) python>=3.6, 2
 Watch [this](https://youtu.be/xKGaGXmy8j4) to see how to install Anaconda and [this](https://youtu.be/sm_zyacx6C0) to see how to install rpy2 using Anaconda.
 
 ### Feedback & Questions
-If something is not working or if you have any questions, comments, or concerns, please submit XXX here.
+If something is not working or if you have any questions, comments, or concerns, please [creae an issue](https://github.com/UCSD-CCAL/onco-gps-paper-analysis/issues/new)
