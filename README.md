@@ -13,7 +13,7 @@ There are 10 notebooks in the notebooks/ directory. They are numbered from 0 to 
 ### Tools for Analysis
 You only need 3 things to be able to run all of the notebooks: 1) python>=3.6, 2) R, and 3) Jupyter Notebook (R is required because, although we don't code in R, some python functions internally use R libraries.) Fortunately, Jupyter Notebook comes with Anaconda3, and installing rpy2 (which in turn installs R) with Anaconda is easy. So you only need to install Anaconda, then rpy2 (if you dont already have them)! 
 
-Watch [this](https://youtu.be/xKGaGXmy8j4) to see how to install Anaconda and [this]() to see how to install rpy2 using Anaconda.
+Watch [this](https://youtu.be/xKGaGXmy8j4) to see how to install Anaconda and [this](https://youtu.be/sm_zyacx6C0) to see how to install rpy2 using Anaconda.
 
 ### Feedback & Questions
 If something is not working or if you have any questions, comments, or concerns, please submit XXX here.
