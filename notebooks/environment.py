@@ -1,15 +1,6 @@
 import sys
 sys.path.insert(0, '../tools/')
 
-import warnings
-warnings.filterwarnings('ignore')
-
-import numpy as np
-import pandas as pd
-
-import matplotlib as mpl
-import matplotlib.pyplot as plt
-
 import ccal
 
 blue = '#4292C6'
