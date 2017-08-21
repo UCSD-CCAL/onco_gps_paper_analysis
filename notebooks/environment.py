@@ -1,6 +1,11 @@
 import sys
 sys.path.insert(0, '../tools/')
 
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
 import ccal
 
 blue = '#4292C6'
