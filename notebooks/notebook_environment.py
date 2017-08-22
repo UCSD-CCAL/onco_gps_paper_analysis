@@ -1,21 +1,28 @@
+import os
 import sys
 sys.path.insert(0, '../tools/')
 
 import numpy as np
 import pandas as pd
 
-from file.file.gct import read_gct, write_gct
-from match.match.match_panel import make_match_panel, make_summary_match_panel
-from helper.helper.df import get_top_and_bottom_indices
-from plot.plot.plot import plot_heatmap
-from plot.plot.plot_nmf import plot_nmf
-from oncogps.oncogps.oncogps import define_components
-from match.match.comparison_panel import make_comparison_panel
 
-blue = '#4292C6'
-green = '#41AB5D'
-red = '#EF3B2C'
-purple = '#807DBA'
-black = '#000000'
-white = '#FFFFFF' 
-light_blue = '#0099CC'
+from repositories.helper.helper import df
+from repositories.helper.helper import file
+
+from repositories.file.file import gct
+
+from repositories.plot.plot import plot
+from repositories.plot.plot import plot_nmf
+
+from repositories.match.match import match_panel
+from repositories.match.match import comparison_panel
+
+from repositories.oncogps.oncogps import oncogps
+
+BLACK = '#000000'
+WHITE = '#FFFFFF' 
+PURPLE = '#807DBA'
+BLUE = '#4292C6'
+LIGHT_BLUE = '#0099CC'
+GREEN = '#41AB5D'
+RED = '#EF3B2C'
