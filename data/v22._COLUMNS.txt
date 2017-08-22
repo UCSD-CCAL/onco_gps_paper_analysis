@@ -1,0 +1,55 @@
+DATA_FILENAME	COLUMN_HEADER	COLUMN_DESCRIPTION
+v22.anno.ccl_anno_features.txt	cell_line_feature	interpretable cellular feature of CCLs tested in ACME analysis
+v22.anno.ccl_anno_features.txt	index_ccl	cell line serial number specific to ACME analysis
+v22.anno.ccl_mut_features.txt	mutation_call	source of mutation call (CCLE Oncomap or Hybrid Capture)
+v22.anno.ccl_mut_features.txt	hugo_gene_symbol	HUGO gene symbol for genetic feature of CCLs tested in ACME analysis
+v22.anno.ccl_mut_features.txt	cell_line_feature	interpretable genetic feature of CCLs tested in ACME analysis
+v22.anno.ccl_mut_features.txt	index_ccl	cell line serial number specific to ACME analysis
+v22.anno.cpd_protein_targets.txt	gene_symbol_of_protein_target	HUGO gene symbol for gene encoding targeted protein
+v22.anno.cpd_protein_targets.txt	index_cpd	compound serial number specific to ACME analysis
+v22.data.acme_hotspots.txt	enriched_protein_target	HUGO gene symbol of gene encoding protein target of compounds enriched in an ACME hotspot
+v22.data.acme_hotspots.txt	enriched_cell_line_feature	cellular or genetic feature of CCLs enriched in an ACME hotspot
+v22.data.acme_hotspots.txt	gene_symbol_of_enriched_feature	HUGO gene symbol for genetic feature of CCLs enriched in an ACME hotspot
+v22.data.acme_hotspots.txt	hotspot_q_value	Benjamini-Hochberg q-value from ACME hotspot comparison to null distribution using Mann-Whitney rank-sum test
+v22.data.acme_hotspots.txt	hotspot_size	number of non-NaN values in ACME hotspot intersecting compound_cluster_id and cell_line_cluster_id
+v22.data.acme_hotspots.txt	hotspot_log_likelihood	log-likelihood from raw nominal p-value obtained using Mann-Whitney rank-sum test
+v22.data.acme_hotspots.txt	hotspot_median_AUC	median AUC for non-NaN values in ACME hotspot
+v22.data.acme_hotspots.txt	delta_AUC_between_hotspot_and_null	difference between median AUC of ACME hotspot and median AUC of null distribution
+v22.data.acme_hotspots.txt	compound_cluster_id	cluster serial number with compound members for ACME analysis
+v22.data.acme_hotspots.txt	compound_cluster_q_value	Benjamini-Hochberg q-value for enrichment of compound_cluster_id in enriched_protein_target using Fisher exact test
+v22.data.acme_hotspots.txt	compound_cluster_log_odds	log-odds from raw nominal p-value obtained using Fisher exact test
+v22.data.acme_hotspots.txt	compound_cluster_confidence	fraction of compounds annotated with enriched_protein_target contained in the cluster
+v22.data.acme_hotspots.txt	compound_cluster_purity	fraction of cluster members annotated with enriched_protein_target
+v22.data.acme_hotspots.txt	compound_cluster_members	total number of compounds in compound_cluster_id
+v22.data.acme_hotspots.txt	compound_cluster_members_with_enriched_protein_target	number of compounds in compound_cluster_id annotated with enriched_protein_target
+v22.data.acme_hotspots.txt	cell_line_cluster_id	cluster serial number with cell line members for ACME analysis
+v22.data.acme_hotspots.txt	cell_line_cluster_q_value	Benjamini-Hochberg q-value for enrichment of cell_line_cluster_id in enriched_cell_line_feature using Fisher exact test
+v22.data.acme_hotspots.txt	cell_line_cluster_log_odds	log-odds from raw nominal p-value obtained using Fisher exact test
+v22.data.acme_hotspots.txt	cell_line_cluster_confidence	fraction of cell lines annotated with enriched_cell_line_feature contained in the cluster
+v22.data.acme_hotspots.txt	cell_line_cluster_purity	fraction of cluster members annotated with enriched_cell_line_feature
+v22.data.acme_hotspots.txt	cell_line_cluster_members	total number of cell_lines in cell_line_cluster_id
+v22.data.acme_hotspots.txt	cell_line_cluster_members_with_enriched_cell_line_feature	number of cell lines in cell_line_cluster_id annotated with enriched_cell_line_feature
+v22.data.auc_sensitivities.txt	index_cpd	compound serial number specific to ACME analysis
+v22.data.auc_sensitivities.txt	index_ccl	cell line serial number specific to ACME analysis
+v22.data.auc_sensitivities.txt	area_under_curve	integrated area under the sigmoid-fit concentration-response curve
+v22.meta.media_comp.txt	culture_media	code for media and additives used in cell culture
+v22.meta.media_comp.txt	media_composition	text description of base media and components added
+v22.meta.per_cell_line.txt	index_ccl	cell line serial number specific to ACME analysis
+v22.meta.per_cell_line.txt	ccl_name	primary name of cancer cell line
+v22.meta.per_cell_line.txt	snp_fp_status	current status of SNP genotype fingerprinting to confirm cell line identity (2015/10/14)
+v22.meta.per_cell_line.txt	culture_media	code for media and additives used in cell culture
+v22.meta.per_cell_line.txt	ccle_primary_site	cell line tissue of origin (broadly defined) from CCLE
+v22.meta.per_cell_line.txt	ccle_primary_hist	cell line histology type (general) from CCLE
+v22.meta.per_cell_line.txt	ccle_hist_subtype_1	cell line histology type (specific) from CCLE
+v22.meta.per_cell_line.txt	cell_line_cluster_id	cluster serial number with cell line members for ACME analysis
+v22.meta.per_cell_line.txt	master_ccl_id	master cancer cell line identifier for all CTRP versions
+v22.meta.per_compound.txt	index_cpd	compound serial number specific to ACME analysis
+v22.meta.per_compound.txt	cpd_name	name of compound (INN preferred; best available otherwise)
+v22.meta.per_compound.txt	broad_cpd_id	unique compound identifier in Broad Institute LIMS
+v22.meta.per_compound.txt	top_test_conc_umol	starting top concentration for 16-point 2-fold serial dilution of compound
+v22.meta.per_compound.txt	cpd_status	clinical status of small molecule
+v22.meta.per_compound.txt	gene_symbol_of_protein_target	HUGO gene symbol for gene encoding targeted protein
+v22.meta.per_compound.txt	target_or_activity_of_compound	protein or biological process that compound is reported to target (not exhaustive)
+v22.meta.per_compound.txt	compound_cluster_id	cluster serial number with compound members for ACME analysis
+v22.meta.per_compound.txt	cpd_smiles	SMILES representation of chemical structure
+v22.meta.per_compound.txt	master_cpd_id	master compound identifier for all CTRP versions

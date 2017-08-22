@@ -1,0 +1,482 @@
+index_cpd	cpd_name	broad_cpd_id	top_test_conc_umol	cpd_status	gene_symbol_of_protein_target	target_or_activity_of_compound	compound_cluster_id	cpd_smiles	master_cpd_id
+1	ML311	BRD-A40802033	66	probe	MCL1	inhibitor of MCL1	65;132;227;336;358;372;425;447;476;478;479	CCN1CCN(CC1)C(c1ccc(cc1)C(F)(F)F)c1ccc2cccnc2c1O	290356
+2	zebularine	BRD-A01145011	590	probe	DNMT1	inhibitor of DNA methyltransferases	368;429;468;477	OC[C@H]1O[C@H](C(O)[C@H]1O)n1cccnc1=O	411739
+3	BRD-A02303741	BRD-A02303741	55	probe	DOT1L	inhibitor of histone methyltransferases	332;402;453;466;469;472;476;478;479	CC(C)N(CCCNC(=O)Nc1ccc(cc1)C(C)(C)C)C[C@H]1O[C@H](C(O)[C@H]1O)n1cnc2c(N)ncnc12	659371
+4	importazole	BRD-A02481876	200	probe	KPNB1	inhibitor of importin	81;228;345;383;450;471;477	CC(Nc1nc(nc2ccccc12)N1CCCC1)c1ccccc1	46792
+5	SR8278	BRD-A02904414	66	probe	NR1D1	antagonist of Rev-ErbAalpha	378;424;442;456;466;469;472;476;478;479	CCOC(=O)C1Cc2ccccc2CN1C(=O)c1ccc(SC)s1	668858
+6	elocalcitol	BRD-A04287157	66	clinical	VDR	agonist of vitamin D receptor	306;331;410;438;445;467;475;479	CCC(O)(CC)\C=C\CC(C)C1=CC[C@@H]2[C@]1(C)CCC\C2=C/C=C1/C[C@@H](O)C[C@H](F)C1=C	660319
+7	BRD-A05715709	BRD-A05715709	66	probe	IDH1	putative inhibitor of IDH1 R132H	258;390;415;448;468;477	Cc1ccccc1C(N(C(=O)Cc1ccncc1)c1cccc(F)c1)C(=O)NC1CCCCC1	660342
+8	docetaxel	BRD-A05821830	66	FDA		inhibitor of microtubule assembly	87;96;140;199;227;336;358;372;425;447;476;478;479	CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@]1(C)C2[C@H](OC(=O)c2ccccc2)[C@]2(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)OC(C)(C)C)c3ccccc3)C(C)=C([C@@H](O)C1=O)C2(C)C	660364
+9	cyclophosphamide	BRD-A09722536	130	FDA		DNA alkylator	203;339;389;463;473;478;479	ClCCN(CCCl)P1(=O)NCCCO1	32620
+10	3-Cl-AHPC	BRD-A09890259	66	probe	NR0B2	binder of nuclear receptor SHP	15;90;116;184;312;404;423;445;467;475;479	OC(=O)\C=C\c1ccc(c(Cl)c1)-c1ccc(O)c(c1)C12C[C@H]3C[C@H](C[C@H](C3)C1)C2	660796
+11	nutlin-3	BRD-A12230535	150	clinical	MDM2	inhibitor of p53-MDM2 interaction	252;328;374;403;449;461;467;475;479	COc1ccc(C2=NC(C(N2C(=O)N2CCNC(=O)C2)c2ccc(Cl)cc2)c2ccc(Cl)cc2)c(OC(C)C)c1	411722
+12	NVP-231	BRD-A12571627	66	probe	CERK	inhibitor of ceramide kinase	132;227;336;358;372;425;447;476;478;479	O=C(Nc1nc2ccc(NC(=O)C34C[C@H]5C[C@H](C[C@H](C5)C3)C4)cc2s1)c1ccccc1	660331
+13	triptolide	BRD-A13122391	0.3	clinical		natural product; inhibitor of RNA polymerase II	222;260;374;403;449;461;467;475;479	CC(C)[C@]12O[C@H]1[C@@H]1O[C@]11[C@]3(O[C@H]3CC3C4=C(CC[C@]13C)C(=O)OC4)[C@@H]2O	411720
+14	avicin D	BRD-A15100685	66	probe		natural product	426;443;464;469;472;476;478;479	CC1O[C@@H](OCC2O[C@@H](O[C@H]3CC[C@@]4(C)C(CC[C@]5(C)C4CC=C4C6CC(C)(C)[C@H](C[C@@]6([C@H](O)C[C@@]54C)C(=O)O[C@@H]4OC(CO)[C@@H](O)[C@@H](O)[C@@H]4O[C@@H]4OC(C)[C@H](O[C@@H]5O[C@@H](CO)[C@H](O)[C@@H]5O)[C@@H](O[C@@H]5OC(CO)[C@@H](O)[C@@H](O)[C@@H]5O)[C@@H]4O)OC(=O)C(\CO)=C\CC[C@](C)(O[C@@H]4OC(C)[C@@H](OC(=O)C(\CO)=C\CCC(C)(O)C=C)[C@@H](O)[C@@H]4O)C=C)C3(C)C)[C@@H](NC(C)=O)[C@H](O)[C@@H]2O)[C@@H](O[C@@H]2OC[C@@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H]1O	688975
+15	Bax channel blocker	BRD-A18763547	33	probe	BAX	inhibitor of BAX-mediated mitochondrial cytochrome c release	147;213;287;313;371;430;457;461;467;475;479	OC(CN1CCNCC1)Cn1c2ccc(Br)cc2c2cc(Br)ccc12	18311
+16	CCT036477	BRD-A22997170	33	probe		inhibitor of WNT signaling by blocking beta-catenin transcription	223;304;376;394;437;449;461;467;475;479	Cc1[nH]c2ccccc2c1C(Nc1ccccn1)c1ccc(Cl)cc1	417663
+17	erastin	BRD-A25004090	66	probe	SLC7A11;VDAC1;VDAC2	modulator of voltage-dependent anion channels; inhibitor of solute carrier SLC7A11	117;207;333;426;443;464;469;472;476;478;479	CCOc1ccccc1-n1c(=O)c2ccccc2nc1C(C)N1CCN(CC1)C(=O)COc1ccc(Cl)cc1	63578
+18	cucurbitacin I	BRD-A28105619	33	probe		natural product; modulator of NFKB1 and STAT3 signaling	179;222;260;374;403;449;461;467;475;479	CC(C)(O)\C=C\C(=O)[C@](C)(O)C1[C@H](O)C[C@@]2(C)C3CC=C4C(CC(=O)C(=O)C4(C)C)[C@]3(C)C(=O)C[C@]12C	595102
+19	paclitaxel	BRD-A28746609	66	FDA		inhibitor of microtubule assembly	24;39;50;75;85;199;227;336;358;372;425;447;476;478;479	CC(=O)O[C@@H]1C2=C(C)[C@H](C[C@@](O)([C@@H](OC(=O)c3ccccc3)C3[C@@]4(CO[C@@H]4C[C@H](O)[C@@]3(C)C1=O)OC(C)=O)C2(C)C)OC(=O)[C@H](O)[C@@H](NC(=O)c1ccccc1)c1ccccc1	26956
+20	hyperforin	BRD-A30032852	66	clinical	TRPC6	agonist of calcium-permeable ion channels	216;296;350;386;409;450;471;477	CC(C)C(=O)[C@@]12C(=O)C(CC=C(C)C)C(=O)C(CC=C(C)C)(C[C@H](CC=C(C)C)[C@@]1(C)CCC=C(C)C)C2=O	660327
+21	brefeldin A	BRD-A31107743	37	probe	ARF1	modulator of ADP-ribosylation factor 1; inhibitor of protein translocation from ER to Golgi	278;336;358;372;425;447;476;478;479	CC1CCC\C=C/C2CC(O)CC2C(O)\C=C/C(=O)O1	411714
+22	tigecycline	BRD-A34462049	66	FDA		analog of tetracycline	220;393;416;455;464;469;472;476;478;479	CN(C)[C@H]1[C@@H]2C[C@@H]3Cc4c(cc(NC(=O)CNC(C)(C)C)c(O)c4C(=O)C3C(=O)[C@]2(O)C(=O)C(C(N)=O)C1=O)N(C)C	659993
+23	itraconazole	BRD-A34817987	17	FDA		anti-fungal agent; inhibitor of hedgehog signaling pathway	256;381;418;442;456;466;469;472;476;478;479	CCC(C)n1ncn(-c2ccc(cc2)N2CCN(CC2)c2ccc(OCC3COC(Cn4cncn4)(O3)c3ccc(Cl)cc3Cl)cc2)c1=O	63349
+24	dexamethasone	BRD-A35108200	33	FDA	NR3C1	agonist of glucocorticoid receptor	329;359;452;462;471;477	CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO	277354
+25	teniposide	BRD-A35588707	33	FDA	TOP2A;TOP2B	inhibitor of topoisomerase II	42;72;224;240;312;404;423;445;467;475;479	COc1cc(cc(OC)c1O)[C@H]1[C@@H]2C(COC2=O)C(O[C@@H]2O[C@@H]3CO[C@H](OC3[C@H](O)[C@H]2O)c2cccs2)c2cc3OCOc3cc12	27871
+26	ML162	BRD-A36275421	33	probe		selectively kills engineered cells expressing mutant HRAS	2;6;117;207;333;426;443;464;469;472;476;478;479	COc1ccc(cc1Cl)N(C(C(=O)NCCc1ccccc1)c1cccs1)C(=O)CCl	154846
+27	necrostatin-1	BRD-A36318220	530	probe	RIPK1	inhibitor of receptor-interacting protein kinase 1; inhibitor of the necroptosis cell death pathway	209;335;389;463;473;478;479	CN1C(=S)NC(Cc2c[nH]c3ccccc23)C1=O	375435
+28	SN-38	BRD-A36630025	1.3	probe	TOP1	metabolite of irinotecan; inhibitor of topoisomerase I	12;73;129;184;312;404;423;445;467;475;479	CCc1c2Cn3c(cc4c(COC(=O)C4(O)CC)c3=O)-c2nc2ccc(O)cc12	375637
+29	ciclosporin	BRD-A38030642	33	FDA	PPID	inhibitor of calcineurin by binding to cyclophilin D	349;377;427;446;460;465;474;475;479	CCC1NC(=O)C([C@H](O)[C@H](C)C\C=C\C)N(C)C(=O)C(C(C)C)N(C)C(=O)C(CC(C)C)N(C)C(=O)C(CC(C)C)N(C)C(=O)[C@@H](C)NC(=O)C(C)NC(=O)C(CC(C)C)N(C)C(=O)C(NC(=O)C(CC(C)C)N(C)C(=O)CN(C)C1=O)C(C)C	55512
+30	TGX-221	BRD-A41692738	66	probe	PIK3CB	inhibitor of PI3K catalytic subunit beta	84;97;281;431;460;465;474;475;479	CC(Nc1ccccc1)c1cc(C)cn2c1nc(cc2=O)N1CCOCC1	606356
+31	bleomycin A2	BRD-A42083487	66	FDA		inducer of DNA damage	224;240;312;404;423;445;467;475;479	C[C@@H](O)[C@@H](NC(=O)[C@H](C)[C@@H](O)[C@H](C)NC(=O)[C@@H](NC(=O)c1nc(nc(N)c1C)[C@H](CC(N)=O)NC[C@@H](N)C(N)=O)C(O[C@H]1O[C@H](CO)[C@H](O)[C@@H](O)[C@H]1O[C@H]1O[C@H](CO)[C@@H](O)[C@H](OC(N)=O)[C@@H]1O)c1c[nH]cn1)C(=O)NCCc1nc(cs1)-c1nc(cs1)C(=O)NCCC[S+](C)C	639531
+32	compound 1B	BRD-A42556028	66	probe		screening hit	55;408;453;466;469;472;476;478;479	CCN(CC)c1ccc(cc1[N+]([O-])=O)C1=NNC(=O)CC1C	62111
+33	968	BRD-A43210826	66	probe	GLS	inhibitor of glutaminase	367;417;437;449;461;467;475;479	CN(C)c1ccc(cc1Br)C1Nc2ccc3ccccc3c2C2=C1C(=O)CC(C)(C)C2	660080
+34	fluvastatin	BRD-A52530402	66	FDA	HMGCR	inhibitor of HMG-CoA reductase	172;397;443;464;469;472;476;478;479	CC(C)N1C(\C=C\C(O)CC(O)CC(O)=O)C(c2ccccc12)c1ccc(F)cc1	660322
+35	PX-12	BRD-A56592690	100	clinical	TXN	inhibitor of thioredoxin-1	57;223;304;376;394;437;449;461;467;475;479	CCC(C)SSc1ncc[nH]1	609124
+36	PD318088	BRD-A57798112	66	probe	MAP2K1;MAP2K2	inhibitor of MEK1 and MEK2	1;33;348;436;470;474;475;479	OCC(O)CONC(=O)c1cc(Br)c(F)c(F)c1Nc1ccc(I)cc1F	660410
+37	COL-3	BRD-A59431241	66	clinical		analog of tetracycline	220;393;416;455;464;469;472;476;478;479	NC(=O)C1C(=O)C[C@@H]2C[C@@H]3Cc4cccc(O)c4C(=O)C3C(=O)[C@]2(O)C1=O	665914
+38	YK 4-279	BRD-A62182663	33	probe	DHX9;ERG;ETV1	inhibitor of RNA helicase A (RHA) binding to EWS-FLI1; inhibitor of ERG and ETV1 activity	4;58;87;96;140;199;227;336;358;372;425;447;476;478;479	COc1ccc(cc1)C(=O)CC1(O)C(=O)Nc2c1c(Cl)ccc2Cl	632103
+39	fumonisin B1	BRD-A63646118	500	probe	CERS1;CERS2;CERS3;CERS4;CERS5;CERS6	inhibitor of ceramide synthase	204;377;427;446;460;465;474;475;479	CCCC[C@@H](C)[C@@H](OC(=O)C[C@@H](CC(O)=O)C(O)=O)[C@H](CC(C)C[C@H](O)CCCC[C@@H](O)C[C@H](O)[C@H](C)N)OC(=O)C[C@@H](CC(O)=O)C(O)=O	616353
+40	ifosfamide	BRD-A67097164	66	FDA		DNA alkylator	415;448;468;477	ClCCNP1(=O)OCCCN1CCCl	35319
+41	salermide	BRD-A67788537	400	probe	SIRT1;SIRT2	inhibitor of sirtuin 1 and sirtuin 2	230;337;409;450;471;477	CC(C(=O)Nc1cccc(c1)\N=C\c1c(O)ccc2ccccc12)c1ccccc1	616352
+42	BCL-LZH-4	BRD-A68258842	66	probe		inhibitor of BCL2, BCL-xL, and MCL1	244;400;441;459;473;478;479	COc1ccc(cc1)C1C(C(=O)Nc2ccccc2)=C(C)N=c2s\c(=C/c3cn(Cc4ccccc4)c4ccccc34)c(=O)n12	688516
+43	isoevodiamine	BRD-A68631409	33	probe		natural product	4;58;87;96;140;199;227;336;358;372;425;447;476;478;479	CN1C2N(CCc3c2[nH]c2ccccc32)C(=O)c2ccccc12	594664
+44	lovastatin	BRD-A70155556	130	FDA	HMGCR	inhibitor of HMG-CoA reductase	37;172;397;443;464;469;472;476;478;479	CCC(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC(O)CC(O)CC(O)=O)C12	30620
+45	BRD-A71883111	BRD-A71883111	33	probe	IDH1	putative inhibitor of IDH1 R132H	210;300;349;377;427;446;460;465;474;475;479	Fc1cccc(c1)N(C(C(=O)NC1CCCCC1)c1ccccc1Cl)C(=O)Cc1cccs1	660145
+46	blebbistatin	BRD-A75817871	130	probe	MYH1;MYH2	inhibitor of myosin II ATPases	264;319;435;459;473;478;479	Cc1ccc2N=C3N(CCC3(O)C(=O)c2c1)c1ccccc1	50140
+47	myriocin	BRD-A76279427	33	probe	SPTLC1;SPTLC2;SPTLC3	inhibitor of serine palmitoyltransferase	280;433;451;454;470;474;475;479	CCCCCCC(=O)CCCCCC\C=C\C[C@H](O)[C@@H](O)C(N)(CO)C(O)=O	417977
+48	IPR-456	BRD-A76527075	66	probe	PLAUR	inhibitor of the interaction of urokinase receptor with binding partners	92;143;288;395;411;446;460;465;474;475;479	CC1CC(C)CN(C1)c1cc(Nc2ccccc2C(O)=O)c2C(=O)c3ccccc3-c3onc1c23	660084
+49	NSC23766	BRD-A80213327	530	probe	RAC1;TIAM1;TRIO	inhibitor of RAC1-GEF interaction; prevents Rac1 activation by Rac-specific guanine nucleotide exchange factors (GEFs) TrioN and Tiam1	164;310;371;430;457;461;467;475;479	CCN(CC)CCCC(C)Nc1nc(C)cc(Nc2ccc3nc(C)cc(N)c3c2)n1	44503
+50	oligomycin A	BRD-A81541225	33	probe	ATP5L2	inhibitor of mitochondrial ATP synthase	32;64;139;298;424;442;456;466;469;472;476;478;479	CCC1CCC2OC3(CC[C@@H](C)C(C[C@H](C)O)O3)[C@H](C)C(OC(=O)\C=C\[C@@H](C)[C@H](O)[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@H](C)C(=O)[C@@](C)(O)[C@H](O)[C@@H](C)C\C=C\C=C\1)[C@H]2C	411869
+51	ML258	BRD-A82720512	66	probe	BCL2L10	inhibitor of BIM-BCL-B interaction	302;319;435;459;473;478;479	COc1ccc(CN2c3nnnn3C3C(C2=O)C2(CCCC2)Cc2ccccc32)cc1	660314
+52	ML050	BRD-A83255679	66	probe	GPER1	antagonist of GPR30	149;346;398;440;458;465;474;475;479	Brc1cc2OCOc2cc1C1Nc2ccccc2C2C=CCC12	153820
+53	fulvestrant	BRD-A85667082	66	FDA	ESR1;GPER1	antagonist of the estrogen receptor	277;406;456;466;469;472;476;478;479	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)[C@H](CCCCCCCCCS(=O)CCCC(F)(F)C(F)(F)F)Cc1cc(O)ccc31	464880
+54	BRD-A86708339	BRD-A86708339	66	probe		screening hit	160;325;396;439;457;461;467;475;479	Cc1ccc(cc1)C(NC(=O)c1ccccc1)c1ccc2cccnc2c1O	687769
+55	CID-5951923	BRD-A86956638	66	probe	KLF5	modulator of KLF5 expression	225;262;338;363;462;471;477	CN(C1CCS(=O)(=O)C1)C(=O)COC(=O)\C=C\c1cccc(c1)[N+]([O-])=O	267119
+56	FQI-1	BRD-A91658086	33	probe		inhibitor of LSF1-mediated transcription	20;140;199;227;336;358;372;425;447;476;478;479	CCOc1ccccc1C1CC(=O)Nc2cc3OCOc3cc12	102193
+57	thalidomide	BRD-A93255169	66	FDA	CRBN	immunomodulatory drug; binder of cereblon	226;340;398;440;458;465;474;475;479	O=C1N(C2CCC(=O)NC2=O)C(=O)c2ccccc12	24197
+58	temozolomide	BRD-A94153989	66	FDA		DNA alkylator	390;415;448;468;477	CN1N=Nc2c(ncn2C1=O)C(=O)N	351043
+59	BRD-A94377914	BRD-A94377914	33	probe	HDAC1;HDAC2;HDAC3;HDAC6;HDAC8	inhibitor of HDAC1, HDAC2, HDAC3, HDAC6, and HDAC8	192;282;356;432;451;454;470;474;475;479	CN1CCCCC1NC(=O)[C@H](CCCCCC(C)=O)C(=O)Nc1nc(cs1)-c1ccccc1	61724
+60	cyanoquinoline 11	BRD-K00088062	130	clinical	MAP3K8	inhibitor of MAP3K8; inhibitor of phosphorylated EGFR in cells	330;351;403;449;461;467;475;479	Fc1ccc(Nc2c(cnc3c(Cl)cc(NCc4cnc[nH]4)cc23)C#N)cc1Cl	417415
+61	RITA	BRD-K00317371	33	probe	MDM2;TP53	inhibitor of p53-MDM2 interaction	369;417;437;449;461;467;475;479	OCc1ccc(s1)-c1ccc(o1)-c1ccc(CO)s1	375492
+62	tubastatin A	BRD-K00627859	33	probe	HDAC6	inhibitor of tubulin deacetylase activity of HDAC6	142;205;354;435;459;473;478;479	CN1CCc2c(C1)c1ccccc1n2Cc1ccc(cc1)C(=O)NO	411749
+63	ML239	BRD-K01121114	66	probe		ML239; inhibitor of breast cancer stem cell proliferation	391;418;442;456;466;469;472;476;478;479	Clc1cc(Cl)c(OCC(=O)N\N=C\c2ccc[nH]2)c(Cl)c1	609781
+64	LRRK2-IN-1	BRD-K01436366	66	probe	DCLK1;LRRK2	inhibitor of leucine-rich repeat kinase 2; inhibitor of doublecortin-like kinase	125;328;374;403;449;461;467;475;479	COc1cc(ccc1Nc1ncc2N(C)C(=O)c3ccccc3N(C)c2n1)C(=O)N1CCC(CC1)N1CCN(C)CC1	607696
+65	pyrazolanthrone	BRD-K01567962	66	probe	MAPK10;MAPK8;MAPK9	inhibitor of Jun N-terminal kinase (JNK) 1/2/3	146;245;323;404;423;445;467;475;479	O=C1c2ccccc2-c2n[nH]c3cccc1c23	44511
+66	BRD-K01737880	BRD-K01737880	66	probe		screening hit	352;416;455;464;469;472;476;478;479	COc1ccc(NC(=O)Nc2ccc3O[C@@H](CN(C)Cc4ccc5OCOc5c4)[C@@H](C)CN([C@@H](C)CO)C(=O)c3c2)cc1	438345
+67	ML210	BRD-K01877528	33	probe		selectively kills engineered cells expressing mutant HRAS	6;117;207;333;426;443;464;469;472;476;478;479	Cc1onc(C(=O)N2CCN(CC2)C(c2ccc(Cl)cc2)c2ccc(Cl)cc2)c1[N+]([O-])=O	609110
+68	NVP-BSK805	BRD-K02017404	66	probe	JAK2	inhibitor of Janus kinase 2	56;137;198;293;370;380;421;438;445;467;475;479	Fc1cc(cc(F)c1CN1CCOCC1)-c1cccc2ncc(nc12)-c1cnn(c1)C1CCNCC1	660434
+69	olaparib	BRD-K02113016	150	clinical	PARP1;PARP2	inhibitor of poly (ADP-ribose) polymerase 1 and 2	161;260;374;403;449;461;467;475;479	Fc1ccc(Cc2n[nH]c(=O)c3ccccc23)cc1C(=O)N1CCN(CC1)C(=O)C1CC1	411867
+70	LBH-589	BRD-K02130563	66	clinical	HDAC1;HDAC2;HDAC3;HDAC6;HDAC8	inhibitor of HDAC1, HDAC2, HDAC3, HDAC6, and HDAC8	71;155;238;297;392;439;457;461;467;475;479	Cc1[nH]c2ccccc2c1CCNCc1ccc(\C=C\C(=O)NO)cc1	54210
+71	BRD-K02251932	BRD-K02251932	66	GE-active		product of diversity oriented synthesis	88;231;375;428;458;465;474;475;479	C[C@H](CO)N1C[C@H](C)[C@H](CN(C)C(=O)NC2CCCCC2)Oc2c(NS(=O)(=O)c3ccc(F)cc3)cccc2C1=O	442141
+72	parbendazole	BRD-K02407574	66	probe		inhibitor of microtubule assembly	9;10;19;39;50;75;85;199;227;336;358;372;425;447;476;478;479	CCCCc1ccc2[nH]c(NC(=O)OC)nc2c1	28172
+73	BRD-K02492147	BRD-K02492147	66	GE-active		product of diversity oriented synthesis	151;195;271;308;382;434;454;470;474;475;479	CN1CCN(CC1)C(=O)C[C@@H]1O[C@H](CO)[C@@H](NS(=O)(=O)c2cccc(F)c2)C=C1	415688
+74	QS-11	BRD-K02526760	33	probe	ARFGAP1	inhibitor of GTPase activating protein of ARF 1 (ARFGAP1)	361;384;429;468;477	OC[C@H](Cc1ccccc1)Nc1nc(Oc2ccc3CCCc3c2)nc2n(Cc3ccc(cc3)-c3ccccc3)cnc12	609681
+75	AT-406	BRD-K02834582	66	probe	XIAP	SMAC mimetic; inhibitor of inhibitor of apoptosis proteins (IAPs)	173;311;432;451;454;470;474;475;479	CNC(C)C(=O)NC1CN(CCC2CCC(N2C1=O)C(=O)NC(c3ccccc3)c4ccccc4)C(=O)CC(C)C	710154
+76	SU11274	BRD-K02965346	66	probe	MET	inhibitor of MET	232;306;331;410;438;445;467;475;479	CN(c1cccc(Cl)c1)S(=O)(=O)c1ccc2NC(=O)\C(=C/c3[nH]c(C)c(C(=O)N4CCN(C)CC4)c3C)c2c1	606586
+77	HC-067047	BRD-K03391209	66	probe	TRPV4	inhibitor of cation channel TRPV4	300;349;377;427;446;460;465;474;475;479	Cc1c(cc(-c2ccccc2)n1CCCN1CCOCC1)C(=O)Nc1cccc(c1)C(F)(F)F	660083
+78	azacitidine	BRD-K03406345	66	FDA	DNMT1	inhibitor of DNA methyltransferase	316;368;429;468;477	Nc1ncn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)n1	26874
+79	foretinib	BRD-K03449891	66	clinical	KDR;MET	inhibitor of MET and VEGFR2	40;126;292;301;347;421;438;445;467;475;479	COc1cc2c(Oc3ccc(NC(=O)C4(CC4)C(=O)Nc4ccc(F)cc4)cc3F)ccnc2cc1OCCCN1CCOCC1	628607
+80	Merck60	BRD-K04466929	33	probe	HDAC1;HDAC2	inhibitor of HDAC1 and HDAC2	23;66;93;155;238;297;392;439;457;461;467;475;479	CC(=O)Nc1ccc(cc1)C(=O)Nc1cc(ccc1N)-c1cccs1	61674
+81	BIBR-1532	BRD-K04623885	270	probe	TERT	inhibitor of telomerase reverse transcriptase	236;350;386;409;450;471;477	C\C(=C/C(=O)Nc1ccccc1C(O)=O)c1ccc2ccccc2c1	417982
+82	BRD-K04800985	BRD-K04800985	67	GE-active		product of diversity oriented synthesis	231;375;428;458;465;474;475;479	C[C@@H](CO)N1C[C@@H](C)[C@@H](CN(C)CC2CCCCC2)Oc2ccc(NC(=O)Nc3c(C)noc3C)cc2C1=O	435086
+83	BMS-270394	BRD-K04905989	66	probe	RARG	antagonist of retinoic acid receptor gamma	149;346;398;440;458;465;474;475;479	CC1(C)CCC(C)(C)c2cc(ccc12)[C@@H](O)C(=O)Nc1ccc(cc1F)C(O)=O	660321
+84	GSK-3 inhibitor IX	BRD-K04923131	66	probe		inhibitor of JAK/STAT signaling	150;365;397;443;464;469;472;476;478;479	O\N=C1/C(Nc2ccccc12)=C1/C(=O)Nc2cc(Br)ccc12	52582
+85	CIL41	BRD-K05392795	160	probe		screening hit	279;333;426;443;464;469;472;476;478;479	N=C(NOC(=O)C12CC3CC(CC(C3)C1)C2)c1ccccc1	176181
+86	triazolothiadiazine	BRD-K05402890	66	probe	PDE4A;PDE4B;PDE4D	inhibitor of phosphdiesterase 4A/B/D	19;39;50;75;85;199;227;336;358;372;425;447;476;478;479	COc1ccc(OC)c(c1)-c1nnc2SCC(=Nn12)c1ccc(OC)c(OC)c1	385240
+87	BRD9647	BRD-K05649647	33	probe		screening hit	92;143;288;395;411;446;460;465;474;475;479	COc1ccc(cc1)N(C(=O)c1ccccc1)S(=O)(=O)c1cc(OC)ccc1OC	37479
+88	PDMP	BRD-K05653692	210	probe	UGCG	inhibitor of ceramide glucosyltransferase	303;362;396;439;457;461;467;475;479	CCCCCCCCCC(=O)N[C@H](CN1CCOCC1)[C@H](O)c1ccccc1	58472
+89	LE-135	BRD-K06593056	66	probe	RARB	antagonist of retinoic acid receptor beta	250;359;452;462;471;477	CN1c2cc3c(cc2N=C(c2ccc(cc2)C(O)=O)c2ccccc12)C(C)(C)CCC3(C)C	375354
+90	GSK1059615	BRD-K06750613	33	clinical	MTOR;PIK3CA;PIK3CB;PIK3CD;PIK3CG	inhibitor of PI3K and mTOR kinase activity	200;284;380;421;438;445;467;475;479	O=C1NC(=O)\C(S1)=C\c1ccc2nccc(-c3ccncc3)c2c1	606471
+91	narciclasine	BRD-K06792661	33	probe	RHOA	activates cellular activity of RhoA; modulator of Rho/Rho kinase/LIM kinase/cofilin signaling	41;61;105;166;257;315;372;425;447;476;478;479	O[C@H]1C=C2[C@@H](NC(=O)c3c(O)c4OCOc4cc23)[C@H](O)[C@@H]1O	632243
+92	AM-580	BRD-K06854232	530	probe	RARA	agonist of retinoic acid receptor alpha	190;228;345;383;450;471;477	CC1(C)CCC(C)(C)c2cc(ccc12)C(=O)Nc1ccc(cc1)C(O)=O	58455
+93	AA-COCF3	BRD-K07303502	270	probe	FAAH;PLA2G4A;PLA2G4B;PLA2G4C;PLA2G4D	inhibitor of cytosolic phospholipase A2; inhibitor of fatty acid amide hydrolase	317;337;409;450;471;477	CCCCC\C=C/C\C=C/C\C=C/C\C=C/CCCC(=O)C(F)(F)F	411724
+94	GSK525762A	BRD-K08109215	66	probe	BRD2;BRD3;BRD4	inhibitor of bromodomain (BRD) and extra-C terminal domain (BET) proteins	14;22;125;328;374;403;449;461;467;475;479	CCNC(=O)C[C@@H]1N=C(c2ccc(Cl)cc2)c2cc(OC)ccc2-n2c(C)nnc12	660245
+95	temsirolimus	BRD-K08177763	66	FDA	MTOR	inhibitor of mTOR	51;153;370;380;421;438;445;467;475;479	CO[C@@H]1C[C@H](C[C@@H](C)[C@@H]2CC(=O)[C@H](C)\C=C(C)\[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)\C=C\C=C\C=C(C)\[C@H](C[C@@H]3CC[C@@H](C)[C@@](O)(O3)C(=O)C(=O)N3CCCC[C@H]3C(=O)O2)OC)CC[C@H]1OC(=O)C(C)(CO)CO	660358
+96	SID 26681509	BRD-K08417745	300	probe	CTSL1	inhibitor of cathepsin L	243;344;410;438;445;467;475;479	CCc1ccccc1NC(=O)CSC(=O)NNC(=O)[C@@H](Cc1c[nH]c2ccccc12)NC(=O)OC(C)(C)C	411731
+97	linsitinib	BRD-K08589866	33	clinical	IGF1R;INSR	inhibitor of insulin-like growth factor 1 receptor and insulin receptor	98;175;351;403;449;461;467;475;479	CC1(O)CC(C1)c2nc(c3ccc4ccc(nc4c3)c5ccccc5)c6c(N)nccn26	705300
+98	C6-ceramide	BRD-K08608874	66	probe	MAPK1;PPP2CA;UGCG	inhibitor of glucosylceramide synthase; activator of MAP kinase (ERK); stimulator of protein phosphatase 2A	186;288;395;411;446;460;465;474;475;479	CCCCCCCCCCCCC\C=C\[C@@H](O)[C@H](CO)NC(=O)CCCCC	44554
+99	BRD-K09344309	BRD-K09344309	33	probe		screening hit	208;305;384;429;468;477	C[C@H](CO)N1C[C@@H](C)[C@H](CN(C)Cc2ccc3OCOc3c2)Oc2c(NC(=O)c3ccncc3)cccc2C1=O	439882
+100	GANT-61	BRD-K09485525	66	probe		inhibitor of hedgehog signaling pathway	263;407;430;457;461;467;475;479	CN(C)c1ccccc1CN1CCCN(Cc2ccccc2N(C)C)C1c1ccncc1	609332
+101	KU 0060648	BRD-K09499853	33	probe	PRKDC	inhibitor of DNA-dependent protein kinase	107;134;284;380;421;438;445;467;475;479	CCN1CCN(CC(=O)Nc2ccc(-c3cccc4c3oc(cc4=O)N3CCOCC3)c3sc4ccccc4c23)CC1	632119
+102	BRD-K09587429	BRD-K09587429	66	GE-active		product of diversity oriented synthesis	170;214;357;414;427;446;460;465;474;475;479	C[C@@H](NC(=O)C[C@@H]1CC[C@@H](NC(=O)CN2CCOCC2)[C@H](CO)O1)c1ccccc1	416842
+103	FGIN-1-27	BRD-K09778810	33	probe	TSPO	activator of peripheral benzodiazepine receptor/translocator protein	271;308;382;434;454;470;474;475;479	CCCCCCN(CCCCCC)C(=O)Cc1c([nH]c2ccccc12)-c1ccc(F)cc1	61775
+104	PRL-3 inhibitor I	BRD-K09907482	130	probe	PTP4A3	inhibitor of phosphatase of regenerating liver-3 (PRL3)	322;345;383;450;471;477	Brc1ccc(OCc2ccccc2Br)c(\C=C2\SC(=S)NC2=O)c1	411727
+105	dabrafenib	BRD-K09951645	66	clinical	BRAF	inhibitor of BRAF	106;177;283;420;455;464;469;472;476;478;479	CC(C)(C)c1nc(c(s1)-c1ccnc(N)n1)-c1cccc(NS(=O)(=O)c2c(F)cccc2F)c1F	687954
+106	avrainvillamide	BRD-K10466330	33	probe	NPM1	natural product; inhibitor of nucleophosmin	239;280;433;451;454;470;474;475;479	CC1(C)Oc2ccc3C4=C[C@@]56NC(=O)[C@]7(CCCN7C5=O)C[C@H]6C(C)(C)C4=[N+]([O-])c3c2C=C1	411856
+107	GW-405833	BRD-K10705233	130	probe	CNR2	partial agonist of cannabinoid receptor 2	94;213;287;313;371;430;457;461;467;475;479	COc1ccc2n(C(=O)c3cccc(Cl)c3Cl)c(C)c(CCN3CCOCC3)c2c1	375447
+108	B02	BRD-K10882151	130	probe	RAD51	inhibitor of RAD51	113;338;363;462;471;477	O=c1n(Cc2ccccc2)c(\C=C\c2cccnc2)nc2ccccc12	122255
+109	SR-II-138A	BRD-K11172604	33	probe	EIF4A2;EIF4E;EIF4G1	silvestrol analog; inhibits translation by modulating the eIF4F complex	5;41;61;105;166;257;315;372;425;447;476;478;479	CON(C)C(=O)[C@H]1[C@@H](O)[C@@]2(O)c3c(O[C@]2([C@@H]1c1ccccc1)c1ccc(OC)cc1)cc(OC)cc3OC	411770
+110	BRD-K11533227	BRD-K11533227	66	probe	HDAC1;HDAC2	inhibitor of HDAC1 and HDAC2	285;392;439;457;461;467;475;479	CC(=O)NC1CCN(CC1)C(=O)Nc1cc(ccc1N)-c1cccs1	389297
+111	PF-184	BRD-K11593101	66	probe	IKBKB	inhibitor of IKK-2	129;184;312;404;423;445;467;475;479	C[C@@]1(CO)CN(C[C@]1(C)CO)c1cc(C(=O)Nc2ccc3CCc4c(nn(c4-c3c2)-c2ccc(F)cc2)C(N)=O)c(Cl)cn1	660208
+112	CIL56	BRD-K11740178	2.5	probe		screening hit	207;333;426;443;464;469;472;476;478;479	ON=C1c2cc(ccc2-c2ccc(cc12)S(=O)(=O)N1CCCCC1)S(=O)(=O)N1CCCCC1	100490
+113	AT7867	BRD-K12040459	66	probe	AKT1;AKT2;AKT3;RPS6KB2	inhibitor of AKT1/2/3 and S6K	211;293;370;380;421;438;445;467;475;479	Clc1ccc(cc1)C1(CCNCC1)c1ccc(cc1)-c1cn[nH]c1	660409
+114	NVP-BEZ235	BRD-K12184916	17	clinical	MTOR;PIK3CA;PIK3CB;PIK3CD;PIK3CG	inhibitor of PI3K and mTOR kinase activity	101;200;284;380;421;438;445;467;475;479	Cn1c2cnc3ccc(cc3c2n(-c2ccc(cc2)C(C)(C)C#N)c1=O)-c1cnc2ccccc2c1	348992
+115	trametinib	BRD-K12343256	66	clinical	MAP2K1;MAP2K2	inhibitor of MEK1 and MEK2	33;348;436;470;474;475;479	CC(=O)Nc1cccc(c1)-n1c2c(C)c(=O)n(C)c(Nc3ccc(I)cc3F)c2c(=O)n(C2CC2)c1=O	687418
+116	TG-101348	BRD-K12502280	37	clinical	JAK2	inhibitor of Janus kinase 2	56;137;198;293;370;380;421;438;445;467;475;479	Cc1cnc(Nc2ccc(OCCN3CCCC3)cc2)nc1Nc1cccc(c1)S(=O)(=O)NC(C)(C)C	411808
+117	valdecoxib	BRD-K12994359	600	FDA	PTGS2	inhibitor of cyclooxygenase-2 (COX2)	104;188;273;381;418;442;456;466;469;472;476;478;479	Cc1onc(c1-c1ccc(cc1)S(N)(=O)=O)-c1ccccc1	32372
+118	procarbazine	BRD-K13032584	66	FDA		inducer of DNA damage	335;389;463;473;478;479	CNNCc1ccc(cc1)C(=O)NC(C)C	28183
+119	ciclopirox	BRD-K13044802	66	FDA	RRM1	substituted pyridone antimycotic; inhibitor of the iron-dependent enzyme ribonucleotide reductase	112;160;325;396;439;457;461;467;475;479	Cc1cc(C2CCCCC2)n(O)c(=O)c1	28784
+120	BMS-754807	BRD-K13049116	33	probe	IGF1R	inhibitor of insulin-like growth factor 1 receptor and insulin receptor	53;76;175;351;403;449;461;467;475;479	C[C@]1(CCCN1c1nc(Nc2cc(n[nH]2)C2CC2)c2cccn2n1)C(=O)Nc1ccc(F)nc1	417981
+121	BMS-345541	BRD-K13566078	66	probe	IKBKB	inhibitor of IKK-2	145;166;257;315;372;425;447;476;478;479	Cc1cnc2c(NCCN)nc3ccc(C)cc3n12	622911
+122	dinaciclib	BRD-K13662825	66	clinical	CDK1;CDK2;CDK5;CDK9	inhibitor of cyclin-dependent kinases	11;145;166;257;315;372;425;447;476;478;479	CCc1cnn2c(NCc3ccc[n+]([O-])c3)cc(nc12)N1CCCC[C@H]1CCO	687578
+123	BRD-K13999467	BRD-K13999467	67	GE-active		product of diversity oriented synthesis	282;356;432;451;454;470;474;475;479	C[C@@H](CO)N1C[C@H](C)[C@H](CN(C)C(=O)Cc2ccncc2)Oc2cc(ccc2S1(=O)=O)C#Cc1ccccc1F	410270
+124	BRD-K14844214	BRD-K14844214	66	GE-active		product of diversity oriented synthesis	88;231;375;428;458;465;474;475;479	CC(C)CC#Cc1ccc2c(O[C@@H](CN(C)C(=O)c3cnccn3)[C@H](C)CN([C@H](C)CO)S2(=O)=O)c1	402775
+125	R428	BRD-K14870255	66	probe	AXL	inhibitor of the tyrosine-protein kinase receptor UFO	310;371;430;457;461;467;475;479	Nc1nc(Nc2ccc3CC[C@@H](CCc3c2)N2CCCC2)nn1-c1cc2CCCc3ccccc3-c2nn1	660993
+126	gemcitabine	BRD-K15108141	33	FDA	CMPK1;RRM1;TYMS	inhibitor of DNA replication; inhibitor of ribonucleotide reductase, thymidylate synthetase, and cytidine monophosphate (UMP-CMP) kinase	36;90;116;184;312;404;423;445;467;475;479	Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)C2(F)F)c(=O)n1	411863
+127	NVP-ADW742	BRD-K15179513	66	probe	IGF1R	inhibitor of insulin-like growth factor 1 receptor	98;175;351;403;449;461;467;475;479	Nc1ncnc2n(cc(-c3cccc(OCc4ccccc4)c3)c12)[C@H]1C[C@H](CN2CCCC2)C1	660287
+128	PRIMA-1	BRD-K15318909	170	probe	TP53	re-activator of the pro-apoptotic activity of mutant p53	57;223;304;376;394;437;449;461;467;475;479	OCC1(CO)N2CCC(CC2)C1=O	50131
+129	phloretin	BRD-K15563106	590	probe	SLC5A1	natural product; inhibitor of glucose uptake	188;273;381;418;442;456;466;469;472;476;478;479	Oc1ccc(CCC(=O)c2c(O)cc(O)cc2O)cc1	24173
+130	obatoclax	BRD-K15600710	66	clinical	BCL2;BCL2L1;MCL1	inhibitor of MCL1, BCL2, and BCL-xL	180;325;396;439;457;461;467;475;479	COC1=CC(=N\C\1=C/c1[nH]c(C)cc1C)c1cc2ccccc2[nH]1	606142
+131	BRD-K16147474	BRD-K16147474	66	GE-active		product of diversity oriented synthesis	233;382;434;454;470;474;475;479	CC(C)NC(=O)Nc1ccc2O[C@@H](CN(C)S(C)(=O)=O)[C@@H](C)CN([C@H](C)CO)C(=O)Cc2c1	447732
+132	CHIR-99021	BRD-K16189898	80	probe	GSK3B	inhibitor of GSK3 beta	150;365;397;443;464;469;472;476;478;479	Cc1c[nH]c(n1)-c1cnc(NCCNc2ccc(cn2)C#N)nc1-c1ccc(Cl)cc1Cl	347812
+133	PLX-4720	BRD-K16478699	33	probe	BRAF	inhibitor of BRAF	106;177;283;420;455;464;469;472;476;478;479	CCCS(=O)(=O)Nc1ccc(F)c(C(=O)c2c[nH]c3ncc(Cl)cc23)c1F	606256
+134	regorafenib	BRD-K16730910	66	FDA	BRAF;KDR;KIT;RET	inhibitor of BRAF, RET, KIT, and VEGFR2	67;194;216;296;350;386;409;450;471;477	CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(c3)C(F)(F)F)c(F)c2)ccn1	628613
+135	sotrastaurin	BRD-K16761703	66	clinical	PRKCB	inhibitor of protein kinase C beta	261;362;396;439;457;461;467;475;479	CN1CCN(CC1)c1nc(C2=C(C(=O)NC2=O)c2c[nH]c3ccccc23)c2ccccc2n1	661032
+136	BRD-K17060750	BRD-K17060750	67	GE-active		product of diversity oriented synthesis	108;133;195;271;308;382;434;454;470;474;475;479	CN(C)CC(=O)N[C@@H]1CC[C@@H](CCNC(=O)Nc2ccc(F)cc2)O[C@H]1CO	600054
+137	bendamustine	BRD-K17068645	66	FDA		DNA alkylator	268;326;363;462;471;477	Cn1c(CCCC(O)=O)nc2cc(ccc12)N(CCCl)CCCl	374755
+138	SCH-79797	BRD-K17140735	37	probe	F2R	antagonist of proteinase-activated receptor 1 (PAR1)	201;422;447;476;478;479	CC(C)c1ccc(Cn2ccc3c2ccc2nc(NC4CC4)nc(N)c32)cc1	375264
+139	HLI 373	BRD-K17349619	33	probe	MDM2	inhibitor of MDM2	165;252;328;374;403;449;461;467;475;479	CN(C)CCCNc1c2ccccc2n(C)c2nc(=O)n(C)c(=O)c12	481311
+140	indisulam	BRD-K17610631	33	clinical	CA9	inhibitor of carbonic anhydrase isoform IX	154;240;312;404;423;445;467;475;479	NS(=O)(=O)c1ccc(cc1)S(=O)(=O)Nc1cccc2c(Cl)c[nH]c12	411874
+141	belinostat	BRD-K17743125	66	clinical	HDAC1;HDAC2;HDAC3;HDAC6;HDAC8	inhibitor of HDAC1, HDAC2, HDAC3, HDAC6, and HDAC8	71;155;238;297;392;439;457;461;467;475;479	ONC(=O)\C=C\c1cccc(c1)S(=O)(=O)Nc1ccccc1	60225
+142	staurosporine	BRD-K17953061	3.3	probe		inhibitor of multiple kinases	365;397;443;464;469;472;476;478;479	CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4CNC(=O)c4c4c5ccccc5n2c4c13	50769
+143	birinapant	BRD-K18589165	66	clinical	DIABLO;XIAP	SMAC mimetic; inhibitor of inhibitor of apoptosis proteins (IAPs)	173;311;432;451;454;470;474;475;479	CC[C@H](NC(=O)[C@H](C)NC)C(=O)N1C[C@@H](O)C[C@H]1Cc1c([nH]c2cc(F)ccc12)-c1cc2c(C[C@@H]3C[C@H](O)CN3C(=O)[C@H](CC)NC(=O)[C@H](C)NC)cc(F)cc2[nH]1	660778
+144	MK-0752	BRD-K18850819	66	clinical	APH1A;NCSTN;PSEN1;PSENEN	inhibitor of gamma-secretase	254;419;452;462;471;477	OC(=O)CC[C@H]1CC[C@@](CC1)(c1cc(F)ccc1F)S(=O)(=O)c1ccc(Cl)cc1	660332
+145	BRD-K19103580	BRD-K19103580	66	GE-active		product of diversity oriented synthesis	89;214;357;414;427;446;460;465;474;475;479	C[C@H](CO)N1C[C@H](C)[C@H](CN(C)Cc2ccc(Cl)c(Cl)c2)Oc2ccc(cc2C1=O)N(C)C	436211
+146	gossypol	BRD-K19295594	37	clinical	BCL2;BCL2L1;LDHA;LDHB;LDHC	inhibitor of lactate dehydrogenase; inhibitor of BCL2 family members	158;237;327;391;418;442;456;466;469;472;476;478;479	CC(C)c1c(O)c(O)c(C=O)c2c(O)c(c(C)cc12)-c1c(C)cc2c(C(C)C)c(O)c(O)c(C=O)c2c1O	25036
+147	prochlorperazine	BRD-K19352500	66	FDA	DRD2	inhibitor of dopamine receptor D2	124;197;313;371;430;457;461;467;475;479	CN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc23)CC1	33166
+148	sitagliptin	BRD-K19416115	66	FDA	DPP4	inhibitor of dipetidyl peptidase-4	307;412;434;454;470;474;475;479	N[C@@H](CC(=O)N1CCn2c(C1)nnc2C(F)(F)F)Cc1cc(F)c(F)cc1F	58442
+149	SGX-523	BRD-K19477839	66	clinical	MET	inhibitor of MET	307;412;434;454;470;474;475;479	Cn1cc(cn1)-c1ccc2nnc(Sc3ccc4ncccc4c3)n2n1	635882
+150	saracatinib	BRD-K19540840	66	clinical	ABL1;SRC	inhibitor of SRC and ABL1	34;169;355;431;460;465;474;475;479	CN1CCN(CCOc2cc(OC3CCOCC3)c3c(Nc4c5OCOc5ccc4Cl)ncnc3c2)CC1	606035
+151	lapatinib	BRD-K19687926	66	FDA	EGFR;ERBB2	inhibitor of EGFR and HER2	21;47;59;79;102;168;202;355;431;460;465;474;475;479	CS(=O)(=O)CCNCc1ccc(o1)-c1ccc2ncnc(Nc3ccc(OCc4cccc(F)c4)c(Cl)c3)c2c1	634309
+152	erismodegib	BRD-K19796430	33	probe		screening hit	259;265;405;448;468;477	C[C@H]1CN(C[C@@H](C)O1)c1ccc(NC(=O)c2cccc(-c3ccc(OC(F)(F)F)cc3)c2C)cn1	636425
+153	MST-312	BRD-K19894101	33	probe	TERT	inhibitor of telomerase reverse transcriptase	122;237;327;391;418;442;456;466;469;472;476;478;479	Oc1cccc(C(=O)Nc2cccc(NC(=O)c3cccc(O)c3O)c2)c1O	411865
+154	CIL70	BRD-K20215950	40	probe		screening hit	279;333;426;443;464;469;472;476;478;479	Clc1ccc(CC(=N)NOC(=O)c2cccc3ccccc23)cc1	183526
+155	tamatinib	BRD-K20285085	33	clinical	SYK	inhibitor of spleen tyrosine kinase	176;292;301;347;421;438;445;467;475;479	COc1cc(Nc2ncc(F)c(Nc3ccc4OC(C)(C)C(=O)Nc4n3)n2)cc(OC)c1OC	417818
+156	SKI-II	BRD-K20755323	130	probe	SPHK1	inhibitor of sphingosine kinase 1	277;406;456;466;469;472;476;478;479	Oc1ccc(Nc2nc(cs2)-c2ccc(Cl)cc2)cc1	375366
+157	KW-2449	BRD-K21718444	66	clinical	AURKA;FLT3	inhibitor of FLT3 and AURKA	82;118;221;347;421;438;445;467;475;479	O=C(N1CCNCC1)c1ccc(cc1)\C=C\c1n[nH]c2ccccc12	660413
+158	RO4929097	BRD-K22024824	66	clinical	APH1A;NCSTN;PSEN1;PSENEN	inhibitor of gamma-secretase	348;436;470;474;475;479	CC(C)(C(=O)NCC(F)(F)C(F)(F)F)C(=O)N[C@H]1c2ccccc2-c2ccccc2NC1=O	687577
+159	simvastatin	BRD-K22134346	33	FDA	HMGCR	inhibitor of HMG-CoA reductase	37;172;397;443;464;469;472;476;478;479	CCC(C)(C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12	27894
+160	STF-31	BRD-K22477529	66	probe	NAMPT	inhibitor of nicotinamide phosphoribosyltransferase	16;43;217;385;422;447;476;478;479	CC(C)(C)c1ccc(cc1)S(=O)(=O)NCc1ccc(cc1)C(=O)Nc1cccnc1	652975
+161	BRD8899	BRD-K22828899	33	probe	STK33	inhibitor of serine/threonine kinasase STK33	329;359;452;462;471;477	CC(=O)NC[C@@H]1C[C@H](CN1)NS(=O)(=O)c1cccc2cncc(C)c12	608062
+162	CR-1-31B	BRD-K23547378	33	probe	EIF4A2;EIF4E;EIF4G1	silvestrol analog; inhibits translation by modulating the eIF4F complex	5;41;61;105;166;257;315;372;425;447;476;478;479	CONC(=O)[C@H]1[C@@H](O)[C@@]2(O)c3c(O[C@]2([C@@H]1c1ccccc1)c1ccc(OC)cc1)cc(OC)cc3OC	418209
+163	1S,3R-RSL-3	BRD-K23853216	33	probe	GPX4	synthetic lethal with HRAS in engineered cells; inhibitor of GPX4	2;6;117;207;333;426;443;464;469;472;476;478;479	COC(=O)[C@H]1Cc2c([nH]c3ccccc23)[C@@H](N1C(=O)CCl)c1ccc(cc1)C(=O)OC	609060
+164	sorafenib	BRD-K23984367	66	FDA	BRAF;FLT3;KDR;RAF1	inhibitor of BRAF, CRAF, and VEGFR2	67;194;216;296;350;386;409;450;471;477	CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(c3)C(F)(F)F)cc2)ccn1	349006
+165	piperlongumine	BRD-K24132293	33	probe		natural product; modulator of ROS levels	70;120;159;215;304;376;394;437;449;461;467;475;479	COc1cc(cc(OC)c1OC)\C=C\C(=O)N1CCC=CC1=O	39782
+166	SCH-529074	BRD-K24376488	33	probe	TP53	activator of mutant p53	111;287;313;371;430;457;461;467;475;479	CN(C)CCCNc1nc(CN2CCN(CC2)C(c2ccc(Cl)cc2)c2ccc(Cl)cc2)nc2ccccc12	609062
+167	ETP-46464	BRD-K24556407	66	probe	ATM;ATR	inhibitor of serine/threonine-protein kinase ATR	246;299;344;410;438;445;467;475;479	CC(C)(C#N)c1ccc(cc1)N1C(=O)OCc2cnc3ccc(cc3c12)-c1cnc2ccccc2c1	666716
+168	BRD-K24690302	BRD-K24690302	66	probe	HDAC1	inhibitor of HDAC1	136;250;359;452;462;471;477	CN(C)CC1CN(C1)C(=O)Nc1cc(ccc1N)-c1ccc(F)cc1	641721
+169	FSC231	BRD-K24784241	270	probe	PICK1	inhibitor of PDZ domain of protein interacting with PRKCA 1 (PICK1)	264;319;435;459;473;478;479	CCOC(=O)NC(=O)C(=C\c1ccc(Cl)c(Cl)c1)\C#N	660079
+170	fluorouracil	BRD-K24844714	130	FDA	TYMS	pyrimidine analog; inhibitor of thymidylate synthase	196;276;385;422;447;476;478;479	Fc1c[nH]c(=O)[nH]c1=O	25344
+171	KU-55933	BRD-K25311561	66	probe	ATM	inhibitor of ataxia telangiectasia mutated (ATM)	77;263;407;430;457;461;467;475;479	O=c1cc(oc(c1)-c1cccc2Sc3ccccc3Sc12)N1CCOCC1	58339
+172	OSI-930	BRD-K25340465	66	clinical	KDR;KIT	inhibitor of c-KIT and VEGFR2	255;360;423;445;467;475;479	FC(F)(F)Oc1ccc(NC(=O)c2sccc2NCc2ccnc3ccccc23)cc1	628620
+173	CD-1530	BRD-K25737009	130	probe	RARG	agonist of retinoic acid receptor gamma	100;190;228;345;383;450;471;477	OC(=O)c1ccc(cc1)-c1ccc2cc(c(O)cc2c1)C12CC3CC(CC(C3)C1)C2	375562
+174	austocystin D	BRD-K25987073	37	probe		natural product; inducer of DNA damage	330;351;403;449;461;467;475;479	CC(C)(O)CCc1ccc(O)c2c1oc1cc3O[C@H]4OC=C[C@@]4(O)c3c(O)c1c2=O	416775
+175	BRD-K26531177	BRD-K26531177	330	probe		analog of the natural product piperlongumine	187;215;304;376;394;437;449;461;467;475;479	COc1cc(CCC(=O)N2CCC=CC2=O)cc(OC)c1OC	42319
+176	PD 153035	BRD-K26603252	33	probe	EGFR	inhibitor of EGFR	86;103;202;355;431;460;465;474;475;479	COc1cc2ncnc(Nc3cccc(Br)c3)c2cc1OC	52133
+177	cytochalasin B	BRD-K26664453	33	probe		inhibitor of actin polymerization	211;293;370;380;421;438;445;467;475;479	C[C@H]1[C@H]2[C@H](Cc3ccccc3)NC(=O)[C@]22OC(=O)\C=C\[C@H](O)CCC[C@@H](C)C\C=C\[C@H]2[C@H](O)C1=C	50163
+178	BIX-01294	BRD-K26818574	33	probe	EHMT2	inhibitor of G9a histone methyltransferase	69;164;310;371;430;457;461;467;475;479	COc1cc2nc(nc(NC3CCN(Cc4ccccc4)CC3)c2cc1OC)N1CCCN(C)CC1	53705
+179	BRD-K27224038	BRD-K27224038	66	GE-active		product of diversity oriented synthesis	95;109;191;321;354;435;459;473;478;479	C[C@@H](CO)N1C[C@H](C)[C@@H](CN(C)C(=O)C2CCOCC2)Oc2ncc(cc2C1=O)C#CC1(O)CCCC1	397964
+180	leptomycin B	BRD-K27624156	66	probe	XPO1	inhibitor of exportin 1	61;105;166;257;315;372;425;447;476;478;479	CCC(\C=C\[C@@H]1OC(=O)C=C[C@@H]1C)=C\[C@H](C)C\C=C\C(C)=C\[C@@H](C)C(=O)[C@@H](C)[C@H](O)[C@@H](C)C\C(C)=C\C(O)=O	660086
+181	lomeguatrib	BRD-K27955832	66	clinical	MGMT	inhibitor of methylguanine-DNA methyltransferase	178;373;433;451;454;470;474;475;479	Nc1nc(OCc2cc(Br)cs2)c2[nH]cnc2n1	660207
+182	BRD-K27986637	BRD-K27986637	66	probe		product of diversity oriented synthesis; screening hit	270;357;414;427;446;460;465;474;475;479	C[C@H](CO)N1C[C@H](C)[C@H](CN(C)Cc2ccc3OCCOc3c2)OCc2cn(CCCC1=O)nn2	452570
+183	TW-37	BRD-K28360340	33	probe	BCL2;BCL2L1	inhibitor of BCL2 and BCL-xL	122;237;327;391;418;442;456;466;469;472;476;478;479	CC(C)c1ccccc1Cc1cc(C(=O)Nc2ccc(cc2)S(=O)(=O)c2ccccc2C(C)(C)C)c(O)c(O)c1O	609596
+184	AZD4547	BRD-K28392481	66	clinical	FGFR1;FGFR2;FGFR3	inhibitor of fibroblast growth factor receptors	82;118;221;347;421;438;445;467;475;479	COc1cc(CCc2cc(NC(=O)c3ccc(cc3)N3C[C@H](C)N[C@H](C)C3)n[nH]2)cc(OC)c1	660325
+185	brivanib	BRD-K28428262	66	clinical	FLT1;KDR	inhibitor of VEGFR 1/2	275;361;384;429;468;477	C[C@@H](O)COc1cn2ncnc(Oc3ccc4[nH]c(C)cc4c3F)c2c1C	606246
+186	BRD-K28456706	BRD-K28456706	66	probe	HNF4A	inhibitor of hepatocyte nuclear factor 4 alpha	269;376;394;437;449;461;467;475;479	Cc1c(oc2ccc3ccccc3c12)[N+]([O-])=O	651642
+187	CD-437	BRD-K28907958	37	probe	RARG	agonist of retinoic acid receptor gamma	15;90;116;184;312;404;423;445;467;475;479	OC(=O)c1ccc2cc(ccc2c1)-c1ccc(O)c(c1)C12CC3CC(CC(C3)C1)C2	375256
+188	BRD-K29086754	BRD-K29086754	66	GE-active		product of diversity oriented synthesis	334;414;427;446;460;465;474;475;479	C[C@H](CO)N1C[C@@H](C)[C@@H](CN(C)Cc2ccc(cc2)C(O)=O)Oc2ccc(NC(=O)Nc3ccc(F)cc3)cc2CC1=O	448891
+189	BRD-K29313308	BRD-K29313308	66	probe	HDAC3	inhibitor of HDAC3	115;324;402;453;466;469;472;476;478;479	CC(=O)Nc1ccc(cc1)C(=O)Nc1ccc(F)cc1N	634814
+190	PIK-93	BRD-K29395450	66	probe	PIK3CG	inhibitor of PI3K catalytic subunit gamma	134;284;380;421;438;445;467;475;479	CC(=O)Nc1nc(C)c(s1)-c1ccc(Cl)c(c1)S(=O)(=O)NCCO	660774
+191	chlorambucil	BRD-K29458283	270	FDA		DNA alkylator	73;129;184;312;404;423;445;467;475;479	OC(=O)CCCc1ccc(cc1)N(CCCl)CCCl	25334
+192	NSC30930	BRD-K29711668	66	probe	SRD5A2	inhibitor of steroid 5-alpha reductase	235;387;412;434;454;470;474;475;479	OC(=O)c1cc2cc(OCc3ccccc3)ccc2[nH]1	182395
+193	axitinib	BRD-K29905972	66	FDA	FLT1;FLT3;KDR;KIT;PDGFRA;PDGFRB	inhibitor of VEGFRs, c-KIT, and PDGFR alpha and beta	44;91;181;221;347;421;438;445;467;475;479	CNC(=O)c1ccccc1Sc1ccc2c(\C=C\c3ccccn3)n[nH]c2c1	348990
+194	KX2-391	BRD-K29968218	66	clinical	SRC	peptide mimetic; inhibitor of SRC activity in cells	9;10;19;39;50;75;85;199;227;336;358;372;425;447;476;478;479	O=C(Cc1ccc(cn1)-c1ccc(OCCN2CCOCC2)cc1)NCc1ccccc1	660779
+195	BRD-K30019337	BRD-K30019337	66	GE-active		product of diversity oriented synthesis	119;191;321;354;435;459;473;478;479	CC(C)NC(=O)N(C)C[C@H]1Oc2ccc(cc2C(=O)N(C[C@H]1C)[C@H](C)CO)N(C)C	437263
+196	Compound 1541A	BRD-K30064966	37	probe	CASP3;CASP6;CASP7	activators of executioner procaspases 3, 6, and 7	205;354;435;459;473;478;479	Oc1cccc2cc(C(=O)Nc3cccc(c3)-c3cn4ccccc4n3)c(=O)oc12	411827
+197	BRD-K30748066	BRD-K30748066	66	probe	CDK9	inhibitor of CDK9	401;425;447;476;478;479	Cc1c(sc(=O)n1C)-c1ccnc(Nc2ccc(cc2)N2CCNCC2)n1	689506
+198	VU0155056	BRD-K31406481	66	probe	PLD1;PLD2	inhibitor of phospholipase D1/D2	138;186;288;395;411;446;460;465;474;475;479	O=C(NCCN1CCC(CC1)n1c2ccccc2[nH]c1=O)c1ccc2ccccc2c1	660119
+199	ceranib-2	BRD-K31514534	66	probe	ACER1;ACER2;ACER3;ASAH1;ASAH2;ASAH2B	inhibitor of ceramidase activity	29;31;60;75;85;199;227;336;358;372;425;447;476;478;479	COc1ccc(\C=C\C(=O)c2c(-c3ccccc3)c3ccccc3[nH]c2=O)cc1	660078
+200	VER-155008	BRD-K32330832	37	probe	HSPA1A;HSPA1B;HSPA1L	inhibitor of HSP70	143;288;395;411;446;460;465;474;475;479	Nc1ncnc2n([C@@H]3O[C@H](COCc4ccc(cc4)C#N)[C@@H](O)[C@H]3O)c(NCc3ccc(Cl)c(Cl)c3)nc12	411815
+201	AGK-2	BRD-K32536677	33	probe	SIRT2	inhibitor of sirtuin 2	219;334;414;427;446;460;465;474;475;479	Clc1ccc(Cl)c(c1)-c1ccc(\C=C(/C#N)C(=O)Nc2cccc3ncccc23)o1	411716
+202	cytarabine hydrochloride	BRD-K33106058	66	FDA		inducer of DNA damage	25;116;184;312;404;423;445;467;475;479	Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2O)c(=O)n1	62690
+203	BRD-K33199242	BRD-K33199242	67	GE-active		product of diversity oriented synthesis	219;334;414;427;446;460;465;474;475;479	CNC[C@@H]1Oc2ccc(cc2CC(=O)N(C[C@@H]1C)[C@@H](C)CO)N(C)C	449707
+204	tivantinib	BRD-K33379087	66	clinical	MET	inhibitor of MET; inhibitor of microtubule assembly	58;87;96;140;199;227;336;358;372;425;447;476;478;479	O=C1NC(=O)[C@H]([C@@H]1c1c[nH]c2ccccc12)c1cn2CCCc3cccc1c23	687406
+205	BRD-K33514849	BRD-K33514849	34	probe		screening hit	375;428;458;465;474;475;479	C[C@H](CO)N1C[C@@H](C)[C@H](CN(C)C(=O)Nc2ccc3OCOc3c2)Oc2cc(ccc2S1(=O)=O)C#Cc1ccncc1	401251
+206	isoliquiritigenin	BRD-K33583600	33	probe		natural product	393;416;455;464;469;472;476;478;479	Oc1ccc(cc1)\C=C\C(=O)c1ccc(O)cc1O	25393
+207	clofarabine	BRD-K34022604	66	FDA		inducer of DNA damage	25;116;184;312;404;423;445;467;475;479	Nc1nc(Cl)nc2n(cnc12)[C@@H]1O[C@H](CO)[C@@H](O)[C@@H]1F	660288
+208	BRD-K34099515	BRD-K34099515	66	probe		screening hit	405;448;468;477	CC(C)N1C[C@@H](C)[C@H](CN(C)Cc2ccc(Oc3ccccc3)cc2)Oc2c(NC(=O)c3ccncc3)cccc2C1=O	660064
+209	cimetidine	BRD-K34157611	270	FDA	HRH2	inhibitor of histidine receptor H2	364;406;456;466;469;472;476;478;479	CN\C(NCCSCc1nc[nH]c1C)=N/C#N	26870
+210	BRD-K34222889	BRD-K34222889	66	probe		analog of the natural product piperlongumine	54;70;120;159;215;304;376;394;437;449;461;467;475;479	COc1ccc(cc1)C#CC1=CCCN(C(=O)\C=C\c2cc(OC)c(OC)c(OC)c2)C1=O	688888
+211	BRD-K34485477	BRD-K34485477	33	GE-active		product of diversity oriented synthesis	253;342;463;473;478;479	CNC[C@@H]1Oc2ccc(NC(=O)CCN3CCOCC3)cc2CC(=O)N(C[C@@H]1C)[C@H](C)CO	446716
+212	BMS-536924	BRD-K34581968	37	probe	IGF1R;INSR	inhibitor of insulin-like growth factor 1 receptor (IGF1R) and insulin receptor (INSR)	53;76;175;351;403;449;461;467;475;479	Cc1cc(cc2[nH]c(nc12)-c1c(NC[C@@H](O)c2cccc(Cl)c2)cc[nH]c1=O)N1CCOCC1	411859
+213	FQI-2	BRD-K35498412	33	probe		inhibitor of LSF1-mediated transcription	20;140;199;227;336;358;372;425;447;476;478;479	CCOc1ccccc1-c1cc(=O)[nH]c2cc3OCOc3cc12	609091
+214	dacarbazine	BRD-K35520305	66	FDA		DNA alkylator	276;385;422;447;476;478;479	CN(C)\N=N\c1[nH]cnc1C(N)=O	32622
+215	BRD-K35604418	BRD-K35604418	270	probe	MCL1	inhibitor of MCL1	299;344;410;438;445;467;475;479	Cc1cs\c(=N/C2CCCCC2)n1\N=C\c1ccc(O)c(O)c1O	660230
+216	ouabain	BRD-K35708212	270	probe	ATP1A1;ATP1A2;ATP1A3;ATP1A4;ATP1B1;ATP1B2;ATP1B3;ATP1B4	cardiac glycoside; inhibitor of the Na+/K+-ATPase	278;336;358;372;425;447;476;478;479	C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@]3(CO)[C@H]4[C@H](O)C[C@]5(C)[C@H](CC[C@]5(O)[C@@H]4CC[C@]3(O)C2)C2=CC(=O)OC2)[C@H](O)[C@H](O)[C@H]1O	37190
+217	BRD6340	BRD-K35716340	33	probe		screening hit	320;400;441;459;473;478;479	C(Cn1c2ccccc2c2ccccc12)c1nc2ccccc2[nH]1	12877
+218	darinaparsin	BRD-K35723520	33	clinical		inducer of ROS; inhibitor of microtubule assembly	353;399;444;472;476;478;479	C[As](C)SC[C@H](NC(=O)CC[C@H](N)C(O)=O)C(=O)NCC(O)=O	609121
+219	niclosamide	BRD-K35960502	33	FDA	STAT3	inhibitor of STAT3 signaling	236;350;386;409;450;471;477	Oc1ccc(Cl)cc1C(=O)Nc1ccc(cc1Cl)[N+]([O-])=O	32653
+220	KU-60019	BRD-K36016295	66	probe	ATM	inhibitor of ataxia telangiectasia mutated (ATM)	77;263;407;430;457;461;467;475;479	C[C@H]1CN(CC(=O)Nc2ccc3Sc4c(Cc3c2)cccc4-c2cc(=O)cc(o2)N2CCOCC2)C[C@@H](C)O1	660411
+221	I-BET151	BRD-K36363294	66	probe	BRD2;BRD3;BRD4	inhibitor of bromodomain (BRD) and extra-C terminal domain (BET) proteins	14;22;125;328;374;403;449;461;467;475;479	COc1cc2c3n([C@H](C)c4ccccn4)c(=O)[nH]c3cnc2cc1-c1c(C)noc1C	660206
+222	StemRegenin 1	BRD-K36739687	66	probe	AHR	inhibitor of aryl hydrocarbon receptor	94;213;287;313;371;430;457;461;467;475;479	CC(C)n1cnc2c(NCCc3ccc(O)cc3)nc(nc12)-c1csc2ccccc12	609063
+223	NPC-26	BRD-K36852164	40	probe		induces cell death through a non-apoptotic, mitochondrial-dependent mechanism	167;322;345;383;450;471;477	CCOC(=O)c1c(NC(=O)c2ccc(s2)[N+]([O-])=O)sc2c1CC(C)(C)NC2(C)C	609058
+224	BRD-K37390332	BRD-K37390332	33	GE-active		product of diversity oriented synthesis	182;253;342;463;473;478;479	C[C@H](CO)N1C[C@H](C)[C@@H](CN(C)C(=O)Nc2cccc3ccccc23)Oc2ccc(NC(=O)c3ccncc3)cc2CC1=O	463198
+225	SB-525334	BRD-K37720887	66	probe	TGFBR1	inhibitor of the transforming growth factor beta type 1 receptor	273;381;418;442;456;466;469;472;476;478;479	Cc1cccc(n1)-c1[nH]c(nc1-c1ccc2nccnc2c1)C(C)(C)C	639962
+226	PF-3758309	BRD-K37764012	66	probe	PAK4	inhibitor of serine/threonine p21-activating kinase 4	114;257;315;372;425;447;476;478;479	CN(C)C[C@@H](NC(=O)N1Cc2c(Nc3nc(C)nc4ccsc34)n[nH]c2C1(C)C)c1ccccc1	687953
+227	etoposide	BRD-K37798499	28	FDA	TOP2A	inhibitor of topoisomerase II	42;72;224;240;312;404;423;445;467;475;479	COc1cc(cc(OC)c1O)[C@H]1[C@@H]2[C@H](COC2=O)[C@H](O[C@@H]2O[C@@H]3CO[C@@H](C)O[C@H]3[C@H](O)[C@H]2O)c2cc3OCOc3cc12	48589
+228	LY-2183240	BRD-K37865504	33	probe	FAAH	inhibitor of fatty acid amide hydrolase; inhibitor of anandamide uptake	85;199;227;336;358;372;425;447;476;478;479	CN(C)C(=O)n1nnnc1Cc1ccc(cc1)-c1ccccc1	375496
+229	nakiterpiosin	BRD-K38264551	33	probe		natural product; inhibitor of microtubule assembly	26;29;31;60;75;85;199;227;336;358;372;425;447;476;478;479	C[C@H]1C[C@@H](OC1=O)[C@@H](O)[C@@H](C(Cl)Cl)c1ccc2[C@@H]3C[C@@H](Br)[C@]45O[C@H](C[C@]4(C)[C@H]3C(=O)c2c1C)CO[C@H]5O	417452
+230	ML031	BRD-K38985961	530	probe	S1PR2	inhibitor of sphingosine 1-phosphate receptor 2	113;338;363;462;471;477	Cc1cc(C(=O)CN2C(=O)CCC2=O)c(C)n1Cc1ccccc1	96171
+231	NSC19630	BRD-K39706510	66	probe	WRN	inhibitor of Werner syndrome helicase activity	261;362;396;439;457;461;467;475;479	CCC(=O)OCN1C(=O)C=CC1=O	580922
+232	lenvatinib	BRD-K39974922	66	FDA	FLT1;FLT3;KDR;KIT;PDGFRA;PDGFRB	inhibitor of VEGFRs, c-KIT, and PDGFR alpha and beta	52;181;221;347;421;438;445;467;475;479	COc1cc2nccc(Oc3ccc(NC(=O)NC4CC4)c(Cl)c3)c2cc1C(N)=O	628639
+233	NSC 74859	BRD-K40853697	530	probe	STAT3	inhibitor of STAT3	152;332;402;453;466;469;472;476;478;479	Cc1ccc(cc1)S(=O)(=O)OCC(=O)Nc1ccc(C(O)=O)c(O)c1	411734
+234	BRD-K41334119	BRD-K41334119	66	GE-active		product of diversity oriented synthesis	109;191;321;354;435;459;473;478;479	CNC[C@@H]1Oc2ccc(NS(C)(=O)=O)cc2CC(=O)N(C[C@@H]1C)[C@H](C)CO	446546
+235	BRD-K41597374	BRD-K41597374	67	GE-active		product of diversity oriented synthesis	89;214;357;414;427;446;460;465;474;475;479	C[C@H](CO)N1C[C@H](C)[C@H](CN(C)C(=O)Nc2cc(F)ccc2F)Oc2cc(ccc2S1(=O)=O)C#CC1CCCC1	404452
+236	palmostatin B	BRD-K42137908	66	probe	LYPLA1	inhibitor of acyl-protein thioesterase 1	110;399;444;472;476;478;479	CCCCCCCCCC[C@H]1[C@H](CCc2ccc(OC)c(OC)c2)OC1=O	679844
+237	BRD-K42260513	BRD-K42260513	66	probe	EZH2	inhibitor of enhancer of zeste polycomb repressive complex 2 subunit	314;441;459;473;478;479	CC(C)n1ncc2c(cc(cc12)-c1ccc(nc1)N1CCNCC1)C(=O)NCc1c(C)cc(C)[nH]c1=O	687715
+238	sunitinib	BRD-K42828737	66	FDA	FLT1;FLT3;KDR;KIT;PDGFRA;PDGFRB	inhibitor of VEGFRs, c-KIT, and PDGFR alpha and beta	118;221;347;421;438;445;467;475;479	CCN(CC)CCNC(=O)c1c(C)[nH]c(\C=C2/C(=O)Nc3ccc(F)cc23)c1C	374750
+239	myricetin	BRD-K43149758	66	probe		flavonoid antioxidant	157;212;316;368;429;468;477	Oc1cc(O)c2c(c1)oc(-c1cc(O)c(O)c(O)c1)c(O)c2=O	29985
+240	SNS-032	BRD-K43389698	66	clinical	CDK16;CDK17;CDK2;CDK7;CDK9;CDKL5	inhibitor of cyclin-dependent kinases	48;105;166;257;315;372;425;447;476;478;479	CC(C)(C)c1cnc(CSc2cnc(NC(=O)C3CCNCC3)s2)o1	606254
+241	MLN2480	BRD-K43410529	66	clinical	ARAF;BRAF;RAF1	inhibitor of RAF kinases	283;420;455;464;469;472;476;478;479	C[C@@H](NC(=O)c1ncnc(N)c1Cl)c1ncc(s1)C(=O)Nc1cc(c(Cl)cn1)C(F)(F)F	687579
+242	PF-4800567 hydrochloride	BRD-K43428468	66	probe	CSNK1D;CSNK1E	inhibitor of casein kinase isoforms delta and epsilon	185;244;400;441;459;473;478;479	Nc1ncnc2n(nc(COc3cccc(Cl)c3)c12)C1CCOCC1	688962
+243	WP1130	BRD-K43644456	66	probe	UCHL5;USP14;USP5;USP9X	inhibitor of the deubiquitinase activity of USP9X, USP5, USP14, and UCH37	193;294;383;450;471;477	CCC[C@H](NC(=O)C(=C\c1cccc(Br)n1)\C#N)c1ccccc1	660432
+244	BRD-K44224150	BRD-K44224150	34	GE-active		product of diversity oriented synthesis	182;253;342;463;473;478;479	CNC[C@@H]1Oc2ccc(NC(=O)C3CCCCC3)cc2C(=O)N(C[C@@H]1C)[C@@H](C)CO	438564
+245	ML083	BRD-K44241590	37	probe	PKM	activator of muscle pyruvate kinase	203;339;389;463;473;478;479	COc1ccc(cc1)S(=O)(=O)N1CCN(CC1)S(=O)(=O)c1ccc2OCCOc2c1	255961
+246	pandacostat	BRD-K44741158	33	probe	HDAC1;HDAC2;HDAC3;HDAC6;HDAC8	inhibitor of HDAC1, HDAC2, HDAC3, HDAC6, and HDAC8	185;244;400;441;459;473;478;479	ONC(=O)\C=C\c1ccc(cc1)C(=O)N\N=C\c1ccc(O)c(O)c1O	417098
+247	ELCPK	BRD-K44847641	0.4	probe		screening hit	96;140;199;227;336;358;372;425;447;476;478;479	O=S(=O)(N1CCCc2ccccc12)c1ccc(cc1)-c1cnc(o1)C1CC1	609056
+248	betulinic acid	BRD-K45401373	66	probe		natural product; inhibitor of specificity protein 1 transcription factor in cells	167;322;345;383;450;471;477	CC(=C)[C@@H]1CC[C@@]2(CC[C@]3(C)[C@H](CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@@]34C)[C@@H]12)C(O)=O	23256
+249	BRD-K45681478	BRD-K45681478	66	probe		product of diversity oriented synthesis; screening hit	269;376;394;437;449;461;467;475;479	ClC1=C(NCC=C)C(=O)c2ccccc2C1=O	142931
+250	NSC48300	BRD-K45748132	66	probe	TASP1	inhibitor of threonine endopeptidase taspase 1	162;246;299;344;410;438;445;467;475;479	O[As](O)(=O)c1ccc(Cc2ccc(cc2)[As](O)(O)=O)cc1	594399
+251	IU1	BRD-K45841694	66	probe	USP14	inhibitor of the deubiquitinase activity of USP14	291;314;441;459;473;478;479	Cc1cc(C(=O)CN2CCCC2)c(C)n1-c1ccc(F)cc1	272805
+252	BMS-195614	BRD-K45935533	66	probe	RARA;RARB;RARG	antagonist of retinoic acid receptors	148;309;373;433;451;454;470;474;475;479	CC1(C)CC=C(c2cnc3ccccc3c2)c2cc(ccc12)C(=O)Nc1ccc(cc1)C(O)=O	660228
+253	CIL55	BRD-K46556387	10	probe		screening hit	142;205;354;435;459;473;478;479	CN(C)CCNC(=O)c1cc2CSc3cc(Cl)ccc3-c2s1	1788
+254	Ki8751	BRD-K47150025	66	probe	KDR;KIT;PDGFRA	inhibitor of VEGFR2, c-KIT, and PDGFRA	44;91;181;221;347;421;438;445;467;475;479	COc1cc2nccc(Oc3ccc(NC(=O)Nc4ccc(F)cc4F)c(F)c3)c2cc1OC	375560
+255	GMX-1778	BRD-K47335880	0.3	clinical	NAMPT	inhibitor of nicotinamide phosphoribosyltransferase	43;217;385;422;447;476;478;479	Clc1ccc(OCCCCCC\N=C(\NC#N)Nc2ccncc2)cc1	411843
+256	Repligen 136	BRD-K47503321	66	probe	HDAC3	inhibitor of HDAC3	360;423;445;467;475;479	Cc1ccc(cc1)C(=O)NCCCCCC(=O)Nc1ccc(F)cc1N	628408
+257	SR1001	BRD-K47981327	66	probe	RORA;RORC	synthetic ROR ligand; suppressor of TH17 differentiation	309;373;433;451;454;470;474;475;479	CC(=O)Nc1nc(C)c(s1)S(=O)(=O)Nc1ccc(cc1)C(O)(C(F)(F)F)C(F)(F)F	660317
+258	BRD-K48334597	BRD-K48334597	66	GE-active		product of diversity oriented synthesis	270;357;414;427;446;460;465;474;475;479	C[C@H](CO)N1C[C@H](C)[C@@H](CN(C)C(=O)NC2CCCCC2)Oc2ccc(NC(=O)Cc3cn(C)c4ccccc34)cc2C1=O	431987
+259	BRD-K48477130	BRD-K48477130	66	probe		screening hit	258;390;415;448;468;477	Cc1n[nH]c2NC3=C([C@@H](c12)c1ccccc1)C(=O)CC(C)(C)C3	649754
+260	nintedanib	BRD-K49075727	66	clinical	FGFR1;FGFR2;FGFR3;FLT1;FLT3;KDR;PDGFRA;PDGFRB	inhibitor of c-KIT, VEGFRs, PDGFRs, and FGFRs	176;292;301;347;421;438;445;467;475;479	COC(=O)c1ccc2c(NC(=O)\C2=C(/Nc2ccc(cc2)N(C)C(=O)CN2CCN(C)CC2)c2ccccc2)c1	628601
+261	GSK2636771	BRD-K49215523	66	clinical	PIK3CB	inhibitor of PI3K catalytic subunit beta	341;388;436;470;474;475;479	Cc1nc2c(cc(cc2n1Cc1cccc(c1C)C(F)(F)F)N1CCOCC1)C(O)=O	668723
+262	BRD-K49290616	BRD-K49290616	66	GE-active		product of diversity oriented synthesis	308;382;434;454;470;474;475;479	OC[C@@H]1O[C@@H](CC(=O)NCc2ccncn2)CC[C@H]1NC(=O)c1ccc(F)cc1	414479
+263	dasatinib	BRD-K49328571	66	FDA	EPHA2;KIT;LCK;SRC;YES1	inhibitor of SRC, YES1, EPHA2, c-KIT, and LCK	34;169;355;431;460;465;474;475;479	Cc1nc(Nc2ncc(s2)C(=O)Nc2c(C)cccc2Cl)cc(n1)N1CCN(CCO)CC1	52882
+264	PRIMA-1-Met	BRD-K49456190	33	probe	TP53	re-activator of the pro-apoptotic activity of mutant p53	290;341;388;436;470;474;475;479	COC[C@]1(CO)[N@@]2CC[C@@H](CC2)C1=O	594663
+265	abiraterone	BRD-K50071428	17	FDA	CYP17A1	inhibitor of 17 alpha-hydroxylase and C17,20 lyase	259;265;405;448;468;477	C[C@]12CC[C@H]3[C@@H](CC=C4C[C@@H](O)CC[C@]34C)[C@@H]1CC=C2c1cccnc1	660363
+266	sildenafil	BRD-K50128260	530	FDA	PDE5A	inhibitor of phosphodiesterase 5A	209;335;389;463;473;478;479	CCCc1nn(C)c2C(=O)NC(=Nc12)c3cc(ccc3OCC)S(=O)(=O)N4CCN(C)CC4	27872
+267	NVP-TAE684	BRD-K50140147	66	probe	ALK	inhibitor of ALK and ALK-NPM fusion protein	76;175;351;403;449;461;467;475;479	COc1cc(ccc1Nc1ncc(Cl)c(Nc2ccccc2S(=O)(=O)C(C)C)n1)N1CCC(CC1)N1CCN(C)CC1	606249
+268	necrostatin-7	BRD-K50145167	66	probe		inhibitor of necroptosis	251;339;389;463;473;478;479	Fc1ccc(cc1)-c1n[nH]cc1C=C1SC(=N)N(C1=O)c1nccs1	660201
+269	canertinib	BRD-K50168500	66	clinical	EGFR;ERBB2	inhibitor of EGFR and HER2	47;59;79;102;168;202;355;431;460;465;474;475;479	Fc1ccc(Nc2ncnc3cc(OCCCN4CCOCC4)c(NC(=O)C=C)cc23)cc1Cl	606138
+270	HBX-41108	BRD-K50501969	66	probe	USP7	inhibitor of the deubiquitinase activity of USP7	234;295;394;437;449;461;467;475;479	Clc1ccc-2c(c1)C(=O)c1nc(C#N)c(nc-21)C#N	679843
+271	BRD-K50799972	BRD-K50799972	66	GE-active		product of diversity oriented synthesis	135;343;413;444;472;476;478;479	COc1ccccc1-c1cccc(c1)-c1nc(cc2CN([C@@H](CCO)c12)[S@@](=O)C(C)(C)C)C(=O)NCc1ccncc1	596868
+272	BRD-K51490254	BRD-K51490254	66	probe	HDAC6;HDAC8	inhibitor of HDAC6 and HDAC8	131;326;363;462;471;477	ONC(=O)c1cccc(c1)C(=O)Nc1ccccc1	616355
+273	cabozantinib	BRD-K51544265	66	FDA	FLT3;KDR;MET;RET	inhibitor of c-MET, VEGFR2/3, and RET	40;126;292;301;347;421;438;445;467;475;479	COc1cc2nccc(Oc3ccc(NC(=O)C4(CC4)C(=O)Nc4ccc(F)cc4)cc3)c2cc1OC	660840
+274	TPCA-1	BRD-K51575138	66	probe	IKBKB	inhibitor of IKK-2	146;245;323;404;423;445;467;475;479	NC(=O)Nc1sc(cc1C(N)=O)-c1ccc(F)cc1	375564
+275	CAY10576	BRD-K51781482	66	probe	IKBKE	inhibitor of IKK-epsilon	321;354;435;459;473;478;479	COc1cc2ncn(-c3cc(OCc4ccccc4S(C)(=O)=O)c(s3)C#N)c2cc1OC	622913
+276	BRD-K51831558	BRD-K51831558	66	probe	EZH2	inhibitor of enhancer of zeste polycomb repressive complex 2 subunit	241;388;436;470;474;475;479	CC(C)n1ncc2c(cc(Br)cc12)C(=O)NCc1c(C)cc(C)[nH]c1=O	687661
+277	BRD-K52037352	BRD-K52037352	66	GE-active		product of diversity oriented synthesis	170;214;357;414;427;446;460;465;474;475;479	C[C@@H](CO)N1C[C@H](C)[C@H](CN(C)C(=O)Nc2cccc3ccccc23)Oc2ccc(NC(=O)NC3CCCCC3)cc2CC1=O	450415
+278	cerulenin	BRD-K52075040	150	probe	FASN;HMGCS1	inhibitor of fatty acid synthase; inhibitor of HMG-CoA synthase	54;70;120;159;215;304;376;394;437;449;461;467;475;479	C\C=C\C\C=C\CCC(=O)[C@H]1O[C@H]1C(N)=O	52430
+279	tacedinaline	BRD-K52313696	33	probe	HDAC1;HDAC2;HDAC3;HDAC6;HDAC8	inhibitor of HDAC1, HDAC2, HDAC3, HDAC6, and HDAC8	238;297;392;439;457;461;467;475;479	CC(=O)Nc1ccc(cc1)C(=O)Nc1ccccc1N	54200
+280	methylstat	BRD-K52560704	66	probe	KDM3A;KDM4A;KDM4B;KDM4C;KDM4D	inhibitor of lysine specific demethylases	159;215;304;376;394;437;449;461;467;475;479	COC(=O)\C=C\C(=O)N(O)CCCCNCc1ccc(COC(=O)Nc2cccc3ccccc23)cc1	667933
+281	AZD7545	BRD-K52836380	74	probe	PDK2	inhibitor of pyruvate dehydrogenase kinase 2	152;332;402;453;466;469;472;476;478;479	CN(C)C(=O)c1ccc(cc1)S(=O)(=O)c1ccc(NC(=O)[C@@](C)(O)C(F)(F)F)c(Cl)c1	411814
+282	GDC-0941	BRD-K52911425	66	clinical	PIK3CA;PIK3CB;PIK3CD;PIK3CG	inhibitor of PI3K kinase activity	46;80;107;134;284;380;421;438;445;467;475;479	CS(=O)(=O)N1CCN(Cc2cc3nc(nc(N4CCOCC4)c3s2)-c2cccc3[nH]ncc23)CC1	639759
+283	JW-55	BRD-K53328210	66	probe	TNKS	inhibitor of tankyrase	218;241;388;436;470;474;475;479	COc1ccc(cc1)C1(CNC(=O)c2ccc(NC(=O)c3ccco3)cc2)CCOCC1	682993
+284	tivozanib	BRD-K53414658	33	clinical	FLT1;FLT3;KDR	inhibitor of VEGFRs	91;181;221;347;421;438;445;467;475;479	COc1cc2nccc(Oc3ccc(NC(=O)Nc4cc(C)on4)c(Cl)c3)c2cc1OC	418170
+285	BEC	BRD-K53792571	270	probe	ARG1;ARG2	inhibitor of arginase I and II	320;400;441;459;473;478;479	N[C@H](CSCCB(O)O)C(O)=O	60679
+286	SRT-1720	BRD-K53855319	37	probe	SIRT1	activator of sirtuin-1	248;356;432;451;454;470;474;475;479	O=C(Nc1cc(CN2CCNCC2)cc(c1)-c1nc2ccccc2[nH]1)c1cnc2ccccc2n1	411820
+287	neuronal differentiation inducer III	BRD-K53903639	270	probe		induction of rat HCN cell differentiation as judged by induction of neuronal reporter neuroD activity	285;392;439;457;461;467;475;479	O=C(NC1CC1)c1cc(on1)-c1cccs1	411733
+288	ruxolitinib	BRD-K53972329	66	FDA	JAK1;JAK2	inhibitor of Janus kinases 1 and 2	323;404;423;445;467;475;479	N#CC[C@H](C1CCCC1)n1cc(cn1)-c1ncnc2[nH]ccc12	639450
+289	MK-1775	BRD-K54256913	33	clinical	WEE1	inhibitor of WEE1	121;242;272;315;372;425;447;476;478;479	CN1CCN(CC1)c1ccc(Nc2ncc3c(n2)n(-c2cccc(n2)C(C)(C)O)n(CC=C)c3=O)cc1	418167
+290	JQ-1	BRD-K54606188	66	probe	BRDT	inhibitor of bromodomain (BRD) and extra-C terminal domain (BET) proteins	22;125;328;374;403;449;461;467;475;479	Cc1sc-2c(c1C)C(=N[C@@H](CC(=O)OC(C)(C)C)c1nnc(C)n-21)c1ccc(Cl)cc1	616354
+291	WAY-362450	BRD-K54640016	66	probe	NR1H4	agonist of farnesoid X receptor	247;318;366;440;458;465;474;475;479	CC(C)OC(=O)C1=CN(CC(C)(C)c2c1[nH]c1ccccc21)C(=O)c1ccc(F)c(F)c1	660821
+292	BYL-719	BRD-K54997624	66	clinical	PIK3CA	inhibitor of PI3K catalytic subunit alpha	101;200;284;380;421;438;445;467;475;479	Cc1nc(NC(=O)N2CCC[C@H]2C(N)=O)sc1-c1ccnc(c1)C(C)(C)C(F)(F)F	668495
+293	BRD-K55116708	BRD-K55116708	66	probe		product of diversity oriented synthesis; inhibitor of leukemic stem cells	135;343;413;444;472;476;478;479	C[C@@H](CO)N1C[C@@H](C)[C@@H](CN(C)Cc2ccc(cc2)C(=O)Nc2ccccc2N)Oc2c(NC(=O)Nc3ccccc3)cccc2C1=O	444779
+294	SZ4TA2	BRD-K55125219	66	probe	BCL2L1	inhibitor of BCL-xL	83;226;340;398;440;458;465;474;475;479	CC1(C)CCN(CC1)c1ccc(cc1)C(=O)NS(=O)(=O)c1ccc(NCCSc2ccccc2)c(c1)[N+]([O-])=O	688138
+295	rigosertib	BRD-K55187425	66	clinical	PIK3CA;PIK3CB;PLK1	inhibitor of polo-like kinase 1; inhibitor of PI3K catalytic subunits alpha and beta	18;31;60;75;85;199;227;336;358;372;425;447;476;478;479	COc1cc(OC)c(\C=C\S(=O)(=O)Cc2ccc(OC)c(NCC(O)=O)c2)c(OC)c1	660397
+296	isonicotinohydroxamic acid	BRD-K55478147	33	probe	HDAC6	inhibitor of HDAC6	208;305;384;429;468;477	ONC(=O)c1ccncc1	478694
+297	epigallocatechin-3-monogallate	BRD-K55591206	300	probe		natural product	248;356;432;451;454;470;474;475;479	Oc1cc(O)c2C[C@@H](OC(=O)c3cc(O)c(O)c(O)c3)[C@H](Oc2c1)c1cc(O)c(O)c(O)c1	28801
+298	topotecan	BRD-K55696337	66	FDA	TOP1	inhibitor of topoisomerase I	12;73;129;184;312;404;423;445;467;475;479	CC[C@@]1(O)C(=O)OCc2c1cc1-c3nc4ccc(O)c(CN(C)C)c4cc3Cn1c2=O	44580
+299	MGCD-265	BRD-K56277358	66	clinical	FLT1;FLT3;KDR;MET	inhibitor of c-MET and VEGFRs	126;292;301;347;421;438;445;467;475;479	Cn1cnc(c1)-c1cc2nccc(Oc3ccc(NC(=S)NC(=O)Cc4ccccc4)cc3F)c2s1	628622
+300	ABT-737	BRD-K56301217	37	clinical	BCL2;BCL2L1;BCL2L2	inhibitor of BCL2, BCL-xL, and BCL-W	28;229;369;417;437;449;461;467;475;479	CN(C)CC[C@H](CSc1ccccc1)Nc1ccc(cc1[N+]([O-])=O)S(=O)(=O)NC(=O)c1ccc(cc1)N1CCN(Cc2ccccc2-c2ccc(Cl)cc2)CC1	411738
+301	PLX-4032	BRD-K56343971	33	FDA	BRAF	inhibitor of BRAF	408;453;466;469;472;476;478;479	CCCS(=O)(=O)Nc1ccc(F)c(C(=O)c2c[nH]c3ncc(cc23)-c2ccc(Cl)cc2)c1F	649420
+302	selumetinib	BRD-K57080016	270	clinical	MAP2K1;MAP2K2	inhibitor of MEK1 and MEK2	1;33;348;436;470;474;475;479	Cn1cnc2c(F)c(Nc3ccc(Br)cc3Cl)c(cc12)C(=O)NOCCO	348991
+303	marinopyrrole A	BRD-K57261999	66	probe	MCL1	natural product; putative inhibitor of MCL1	303;362;396;439;457;461;467;475;479	Oc1ccccc1C(=O)c1[nH]c(Cl)c(Cl)c1-n1c(cc(Cl)c1Cl)C(=O)c1ccccc1O	666910
+304	AT13387	BRD-K58435339	66	clinical	HSP90AA1	inhibitor of HSP90	127;358;372;425;447;476;478;479	CC(C)c1cc(C(=O)N2Cc3ccc(CN4CCN(C)CC4)cc3C2)c(O)cc1O	688229
+305	daporinad	BRD-K58550667	2	clinical	NAMPT	inhibitor of nicotinamide phosphoribosyltransferase	3;16;43;217;385;422;447;476;478;479	O=C(NCCCCC1CCN(CC1)C(=O)c1ccccc1)\C=C\c1cccnc1	418166
+306	AZD6482	BRD-K58772419	66	clinical	PIK3CB;PIK3CD	inhibitor of PI3K catalytic subunits beta and delta	97;281;431;460;465;474;475;479	C[C@@H](Nc1ccccc1C(O)=O)c1cc(C)cn2c1nc(cc2=O)N1CCOCC1	639390
+307	AZ-3146	BRD-K59146805	66	probe	TTK	inhibitor of TTK protein kinase	163;331;410;438;445;467;475;479	COc1cc(OC2CCN(C)CC2)ccc1Nc1ncc2n(C)c(=O)n(C3CCCC3)c2n1	660087
+308	DBeQ	BRD-K59204667	66	probe	VCP	inhibitor of p97 in cells	225;262;338;363;462;471;477	C(Nc1nc(NCc2ccccc2)c2ccccc2n1)c1ccccc1	199337
+309	VX-680	BRD-K59369769	66	clinical	AURKA;AURKB;AURKC	inhibitor of aurora kinases	352;416;455;464;469;472;476;478;479	CN1CCN(CC1)c1cc(Nc2cc(C)[nH]n2)nc(Sc2ccc(NC(=O)C3CC3)cc2)n1	340501
+310	bardoxolone methyl	BRD-K59437938	66	clinical		electrophilic inducer of the NFE2L2-KEAP1 pathway	296;350;386;409;450;471;477	COC(=O)[C@@]12CCC(C)(C)C[C@@H]1[C@@H]1C(=O)C=C3[C@]4(C)C=C(C#N)C(=O)C(C)(C)[C@H]4CC[C@]3(C)[C@@]1(C)CC2	660318
+311	methotrexate	BRD-K59456551	66	FDA	DHFR	inhibitor of dihydrofolate reductase	201;422;447;476;478;479	CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(cc1)C(=O)N[C@@H](CCC(O)=O)C(O)=O	30371
+312	mitomycin	BRD-K59670716	50	FDA		DNA crosslinker	36;90;116;184;312;404;423;445;467;475;479	CO[C@]12[C@H]3N[C@H]3CN1C1=C([C@H]2COC(N)=O)C(=O)C(N)=C(C)C1=O	50732
+313	ML029	BRD-K59962020	33	probe		inhibitor of antigen receptor-mediated NFkappaB activity	274;367;417;437;449;461;467;475;479	Cc1cc2nc(NCCCO)n(CC(=O)c3cc(c(O)c(c3)C(C)(C)C)C(C)(C)C)c2cc1C	350548
+314	serdemetan	BRD-K60219430	33	clinical	MDM2	inhibitor of MDM2	165;252;328;374;403;449;461;467;475;479	C(Cc1c[nH]c2ccccc12)Nc1cccc(Nc2ccncc2)c1	418164
+315	MG-132	BRD-K60230970	20	probe	PSMB1;PSMB2;PSMB5;PSMD1;PSMD2	inhibitor of the proteosome	171;379;401;425;447;476;478;479	CC(C)C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)OCc1ccccc1)C=O	58948
+316	PYR-41	BRD-K60750172	66	probe	UBA1	inhibitor of ubiquitin-activating enzyme in cells	268;326;363;462;471;477	CCOC(=O)c1ccc(cc1)N1NC(=O)C(=Cc2ccc(o2)[N+]([O-])=O)C1=O	660202
+317	CAL-101	BRD-K60866521	66	clinical	PIK3CD	inhibitor of PI3K catalytic subunit delta	84;97;281;431;460;465;474;475;479	CC[C@H](Nc1ncnc2[nH]cnc12)c1nc2cccc(F)c2c(=O)n1-c1ccccc1	660430
+318	Mdivi-1	BRD-K61128465	66	probe	DNM1	inhibitor of dynamin 1; inhibitor of mitrochondrial division inhibitor	163;331;410;438;445;467;475;479	COc1cc(c(Cl)cc1Cl)-n1c(=S)[nH]c2ccccc2c1=O	215497
+319	BRD-K61166597	BRD-K61166597	66	probe		inhibitor of HDAC1 and HDAC2	23;66;93;155;238;297;392;439;457;461;467;475;479	Nc1ccc(cc1NC(=O)c1ccc(cc1)C(=O)NCCc1ccncc1)-c1cccs1	348633
+320	SB-225002	BRD-K61323504	37	probe	CXCR2	inhibitor of chemokine receptor 2	35;60;75;85;199;227;336;358;372;425;447;476;478;479	Oc1cc(ccc1NC(=O)Nc1ccccc1Br)[N+]([O-])=O	52123
+321	CAY10594	BRD-K61662457	66	probe	PLD2	inhibitor of phospholipase D2	294;383;450;471;477	O=C(NCCN1CCC2(CC1)N(CNC2=O)c1ccccc1)c1ccc2ccccc2c1	411824
+322	Compound 7d-cis	BRD-K61829047	33	probe	XPO1	inhibitor of CRM1-mediated nucleocytoplasmic transport	130;192;282;356;432;451;454;470;474;475;479	CCOC(=O)\C=C/n1nnc(n1)-c1cccc(Cl)c1	411805
+323	SB-743921	BRD-K62358710	33	clinical	KIF11	inhibitor of kinesin 11	24;39;50;75;85;199;227;336;358;372;425;447;476;478;479	CC(C)[C@H](N(CCCN)C(=O)c1ccc(C)cc1)c1oc2cc(Cl)ccc2c(=O)c1Cc1ccccc1	660238
+324	ABT-199	BRD-K62391742	66	clinical	BCL2	inhibitor of BCL2	229;369;417;437;449;461;467;475;479	CC1(C)CCC(CN2CCN(CC2)c2ccc(C(=O)NS(=O)(=O)c3ccc(NCC4CCOCC4)c(c3)[N+]([O-])=O)c(Oc3cnc4[nH]ccc4c3)c2)=C(C1)c1ccc(Cl)cc1	666541
+325	neopeltolide	BRD-K62479592	33	probe		inhibitor of cellular respiration	298;424;442;456;466;469;472;476;478;479	CCC[C@H]1C[C@H](C[C@H](C)C[C@@H]2C[C@H](C[C@H](CC(=O)O1)O2)OC(=O)\C=C/CCc1coc(\C=C/CNC(=O)OC)n1)OC	411774
+326	BRD1835	BRD-K62801835	130	probe	EZH2	product of diversity oriented synthesis; screening hit	232;306;331;410;438;445;467;475;479	C[C@@H](CO)N1C[C@H](C)[C@@H](CN(C)Cc2ccc(cc2)C(O)=O)Oc2cc(ccc2S1(=O)=O)C#CCC1CCCC1	404070
+327	BRD-K70511574	BRD-K62825658	66	probe	PLK1	inhibitor of polo-like kinase 1 (PLK1)	18;31;60;75;85;199;227;336;358;372;425;447;476;478;479	COc1ccc(cc1)S(=O)(=O)N(C(=O)C)c2ccccc2C=Cc3cc[n+]([O-])cc3	648987
+328	tipifarnib-P2	BRD-K62965247	33	probe	FNTA	inhibitor of farnesyltransferase	130;192;282;356;432;451;454;470;474;475;479	Cn1cncc1[C@@](N)(c1ccc(Cl)cc1)c1ccc2n(C)c(=O)cc(-c3cccc(Cl)c3)c2c1	417416
+329	ZSTK474	BRD-K63068307	66	clinical	PIK3CB;PIK3CD;PIK3CG	inhibitor of PI3K catalytic subunits beta, delta, and gamma	46;80;107;134;284;380;421;438;445;467;475;479	FC(F)c1nc2ccccc2n1-c1nc(nc(n1)N1CCOCC1)N1CCOCC1	606144
+330	tipifarnib-P1	BRD-K63195589	33	clinical	FNTA	inhibitor of farnesyltransferase	183;262;338;363;462;471;477	Cn1cncc1[C@](N)(c1ccc(Cl)cc1)c1ccc2n(C)c(=O)cc(-c3cccc(Cl)c3)c2c1	417417
+331	BRD-K63431240	BRD-K63431240	66	probe		product of diversity oriented synthesis; screening hit	180;325;396;439;457;461;467;475;479	C[C@@H](CO)N1C[C@H](C)[C@@H](CN(C)C(=O)Nc2ccc3OCOc3c2)Oc2cc(ccc2S1(=O)=O)C#Cc1ccncc1	404566
+332	barasertib	BRD-K63923597	66	clinical	AURKB	inhibitor of aurora kinase B	45;154;240;312;404;423;445;467;475;479	CCN(CCO)CCCOc1ccc2c(Nc3cc(CC(=O)Nc4cccc(F)c4)[nH]n3)ncnc2c1	601923
+333	gefitinib	BRD-K64052750	66	FDA	AKT1;EGFR	inhibitor of EGFR and AKT1	30;79;102;168;202;355;431;460;465;474;475;479	COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1	52926
+334	necrosulfonamide	BRD-K64117221	66	probe		inhibitor of downstream signaling of RIP3 associated with MLKL	295;394;437;449;461;467;475;479	COc1nccnc1NS(=O)(=O)c1ccc(NC(=O)\C=C\c2ccc(s2)[N+]([O-])=O)cc1	677522
+335	MI-1	BRD-K64497429	33	probe	MEN1	binder of menin; inhibitor of menin-MLL fusion protein	63;289;395;411;446;460;465;474;475;479	CC1(C)CN=C(S1)N1CCN(CC1)c1ncnc2sc3CCCCc3c12	185987
+336	apicidin	BRD-K64606589	33	probe	HDAC1;HDAC2;HDAC3;HDAC6;HDAC8	inhibitor of HDAC1, HDAC2, HDAC3, HDAC6, and HDAC8	38;62;93;155;238;297;392;439;457;461;467;475;479	CC[C@@H](C)[C@@H]1NC(=O)[C@H](Cc2cn(OC)c3ccccc23)NC(=O)[C@H](CCCCCC(=O)CC)NC(=O)[C@H]2CCCCN2C1=O	61097
+337	BRD-K64610608	BRD-K64610608	33	probe		product of diversity oriented synthesis; screening hit	157;212;316;368;429;468;477	COc1ccc(cc1)S(=O)(=O)N(C)C[C@@H]1Oc2c(NC(=O)Nc3cccc4ccccc34)cccc2C(=O)N(C[C@H]1C)[C@@H](C)CO	438776
+338	tretinoin	BRD-K64634304	130	FDA	RARA;RARB;RARG	agonist of retinoid acid receptors	74;210;300;349;377;427;446;460;465;474;475;479	CC(=CC=CC(=CC(=O)O)C)C=CC1=C(C)CCCC1(C)C	23151
+339	Ko-143	BRD-K64642496	130	probe	ABCG2	inhibitor of breast cancer resistance protein multidrug transporter (BCRP)	138;186;288;395;411;446;460;465;474;475;479	COc1ccc2c3C[C@@H]4N([C@@H](CC(C)C)c3[nH]c2c1)C(=O)[C@H](CCC(=O)OC(C)(C)C)NC4=O	418172
+340	TG-100-115	BRD-K64785675	66	clinical	PIK3CD;PIK3CG	inhibitor of PI3K catalytic subunits delta and gamma	281;431;460;465;474;475;479	Nc1nc(N)c2nc(-c3cccc(O)c3)c(nc2n1)-c1cccc(O)c1	606470
+341	PHA-793887	BRD-K64800655	66	clinical	CDK1;CDK2;CDK4;CDK5;CDK7;CDK9	inhibitor of cyclin-dependent kinases	48;105;166;257;315;372;425;447;476;478;479	CC(C)CC(=O)Nc1n[nH]c2c1CN(C(=O)C1CCN(C)CC1)C2(C)C	640007
+342	BI-2536	BRD-K64890080	33	clinical	PLK1	inhibitor of polo-like kinase 1 (PLK1)	7;50;75;85;199;227;336;358;372;425;447;476;478;479	CC[C@H]1N(C2CCCC2)c2nc(Nc3ccc(cc3OC)C(=O)NC3CCN(C)CC3)ncc2N(C)C1=O	347813
+343	semagacestat	BRD-K65592642	66	clinical	APH1A;NCSTN;PSEN1;PSENEN	inhibitor of gamma-secretase	178;373;433;451;454;470;474;475;479	CC(C)[C@H](O)C(=O)N[C@@H](C)C(=O)N[C@H]1c2ccccc2CCN(C)C1=O	660341
+344	AZD1480	BRD-K65928735	66	clinical	JAK1;JAK2	inhibitor of Janus kinases 1 and 2	274;367;417;437;449;461;467;475;479	C[C@H](Nc1ncc(Cl)c(Nc2cc(C)[nH]n2)n1)c1ncc(F)cn1	660306
+345	afatinib	BRD-K66175015	66	clinical	EGFR;ERBB2	inhibitor of EGFR and HER2	13;21;47;59;79;102;168;202;355;431;460;465;474;475;479	CN(C)C\C=C\C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1O[C@H]1CCOC1	606135
+346	KH-CB19	BRD-K66430217	17	probe	CLK1;CLK4	inhibitor of CDC2-like kinases 1 and 4	419;452;462;471;477	CCOC(=O)c1c(C(=CN)C#N)c2ccc(Cl)c(Cl)c2n1C	660085
+347	BRD-K66453893	BRD-K66453893	66	GE-active		product of diversity oriented synthesis	26;29;31;60;75;85;199;227;336;358;372;425;447;476;478;479	C[C@@H](CO)N1C[C@H](C)[C@H](CN(C)S(=O)(=O)c2ccc(Cl)cc2)Oc2ccc(NC(=O)CCC(F)(F)F)cc2CC1=O	387472
+348	BRD-K66532283	BRD-K66532283	66	probe	HDAC1;HDAC2	inhibitor of HDAC1 and HDAC2	156;297;392;439;457;461;467;475;479	Nc1ccc(cc1NC(=O)C1=CCCC1)-c1cccs1	376693
+349	pifithrin-alpha	BRD-K66874953	230	probe		inhibitor of p53-dependent signaling	286;386;409;450;471;477	Cc1ccc(cc1)C(=O)Cn1c2CCCCc2sc1=N	50747
+350	Compound 23 citrate	BRD-K67112618	33	probe		analog of natural product cortistatin	147;213;287;313;371;430;457;461;467;475;479	CN(C)[C@H]1CC[C@H]2[C@@H](CC[C@H]3[C@@H]4CC=C(c5ccc6cnccc6c5)[C@@]4(C)CC[C@H]23)C1	417451
+351	SB-431542	BRD-K67298865	66	probe	TGFBR1	inhibitor of the transforming growth factor beta type 1 receptor	254;419;452;462;471;477	NC(=O)c1ccc(cc1)-c1nc(c([nH]1)-c1ccccn1)-c1ccc2OCOc2c1	50753
+352	KU-0063794	BRD-K67566344	66	probe	MTOR	inhibitor of mTOR	27;68;153;370;380;421;438;445;467;475;479	COc1ccc(cc1CO)-c1ccc2c(nc(nc2n1)N1C[C@H](C)O[C@H](C)C1)N1CCOCC1	606363
+353	GDC-0879	BRD-K67578145	66	probe	BRAF	inhibitor of BRAF	177;283;420;455;464;469;472;476;478;479	OCCn1cc(c(n1)-c1ccncc1)-c1ccc2c(CC\C2=N/O)c1	606248
+354	pevonedistat	BRD-K67844266	37	clinical	NAE1	inhibitor of Nedd-8 activating enzyme	243;344;410;438;445;467;475;479	NS(=O)(=O)OC[C@@H]1C[C@H](C[C@@H]1O)n1ccc2c(N[C@H]3CCc4ccccc34)ncnc12	411809
+355	PI-103	BRD-K67868012	37	probe	MTOR;PIK3CA;PIK3CB;PIK3CD;PIK3CG;PRKDC	inhibitor of DNA-PK, PI3K p110 delta, mTORC1, and catalytic subunits of PI3K	161;260;374;403;449;461;467;475;479	Oc1cccc(c1)-c1nc(N2CCOCC2)c2oc3ncccc3c2n1	411742
+356	MK-2206	BRD-K68065987	33	clinical	AKT1	inhibitor of AKT1	80;107;134;284;380;421;438;445;467;475;479	NC1(CCC1)c1ccc(cc1)-c1nc2ccn3c(n[nH]c3=O)c2cc1-c1ccccc1	377381
+357	NSC95397	BRD-K68143200	33	probe	CDC25A;CDC25B;CDC25C	inhibitor of cell division cycle 25 phosphatase (CDC25)	123;187;215;304;376;394;437;449;461;467;475;479	OCCSC1=C(SCCO)C(=O)c2ccccc2C1=O	50715
+358	BRD8958	BRD-K68548958	66	probe	EP300	inhibitor of E1A binding protein p300	275;361;384;429;468;477	CC1=NN(C(=O)C\1=C\c1ccc(o1)-c1cc(C)c(C)cc1[N+]([O-])=O)c1ccc(cc1)C(O)=O	418163
+359	alvocidib	BRD-K68682020	66	clinical	CDK1;CDK2;CDK4;CDK6	inhibitor of cyclin-dependent kinases	11;145;166;257;315;372;425;447;476;478;479	CN1CC[C@H]([C@H](O)C1)c1c(O)cc(O)c2c1oc(cc2=O)-c1ccccc1Cl	687720
+360	tacrolimus	BRD-K69608737	74	FDA	PPP3CA;PPP3CB;PPP3CC;PPP3R1;PPP3R2	inhibitor of calcineurin	255;360;423;445;467;475;479	CO[C@@H]1C[C@@H](CC[C@H]1O)\C=C(/C)[C@H]1OC(=O)[C@@H]2CCCCN2C(=O)C(=O)[C@]2(O)O[C@@H]([C@H](C[C@H]2C)OC)[C@H](C[C@@H](C)C\C(C)=C\[C@@H](CC=C)C(=O)C[C@H](O)[C@H]1C)OC	50737
+361	ISOX	BRD-K69840642	33	probe	HDAC6	inhibitor of HDAC6	38;62;93;155;238;297;392;439;457;461;467;475;479	CC(C)(C)OC(=O)Nc1ccc(cc1)-c1cc(no1)C(=O)NCCCCCCC(=O)NO	632907
+362	AZD8055	BRD-K69932463	66	clinical	MTOR	inhibitor of mTOR	27;68;153;370;380;421;438;445;467;475;479	COc1ccc(cc1CO)-c1ccc2c(nc(nc2n1)N1CCOC[C@@H]1C)N1CCOC[C@@H]1C	609639
+363	CIL55A	BRD-K69982010	80	probe		screening hit	379;401;425;447;476;478;479	CN(C)CCNC(=O)c1cc2CSc3ccc(Cl)cc3-c2s1	609061
+364	ibrutinib	BRD-K70301465	66	clinical	BTK	inhibitor of Bruton's tyrosine kinase	86;103;202;355;431;460;465;474;475;479	Nc1ncnc2n(nc(-c3ccc(Oc4ccccc4)cc3)c12)[C@@H]1CCCN(C1)C(=O)C=C	660994
+365	erlotinib	BRD-K70401845	66	FDA	EGFR;ERBB2	inhibitor of EGFR and HER2	30;79;102;168;202;355;431;460;465;474;475;479	COCCOc1cc2ncnc(Nc3cccc(c3)C#C)c2cc1OCCOC	52928
+366	ML312	BRD-K70809902	66	probe	SCARB1	inhibitor of scavenger receptor class B, member 1 (SCARB1)-mediated lipid uptake	290;341;388;436;470;474;475;479	CC(C)NC(=O)Nc1ccc2O[C@@H](CN(C)S(=O)(=O)c3ccc(Cl)cc3)[C@H](C)CN([C@H](C)CO)C(=O)c2c1	434195
+367	masitinib	BRD-K71035033	66	clinical	KIT;PDGFRA;PDGFRB	inhibitor of c-KIT, PDGFRA, and PDGFRB	78;206;407;430;457;461;467;475;479	CN1CCN(Cc2ccc(cc2)C(=O)Nc2ccc(C)c(Nc3nc(cs3)-c3cccnc3)c2)CC1	606143
+368	SNX-2112	BRD-K71281111	37	probe	HSP90AA1;HSP90B1	inhibitor of HSP90alpha and HSP90beta	49;127;358;372;425;447;476;478;479	CC1(C)Cc2c(c(nn2-c2ccc(C(N)=O)c(N[C@H]3CC[C@H](O)CC3)c2)C(F)(F)F)C(=O)C1	362338
+369	KPT185	BRD-K71467466	66	probe	XPO1	inhibitor of exportin 1	144;179;222;260;374;403;449;461;467;475;479	COc1cc(cc(c1)C(F)(F)F)-c1ncn(\C=C/C(=O)OC(C)C)n1	660935
+370	Ch-55	BRD-K71487808	66	probe	RARA;RARB;RARG	agonist of retinoid acid receptors	74;210;300;349;377;427;446;460;465;474;475;479	CC(C)(C)c1cc(cc(c1)C(C)(C)C)C(=O)\C=C\c1ccc(cc1)C(O)=O	660137
+371	N9-isopropylolomoucine	BRD-K71726959	400	probe	CCNB1;CDK1;CDK5;CDK5R1	inhibitor of CDK1/cyclin B and CDK5/p35 complexes	174;242;272;315;372;425;447;476;478;479	CC(C)n1cnc2c(NCc3ccccc3)nc(NCCO)nc12	45093
+372	BRD-K71781559	BRD-K71781559	66	probe		screening hit	420;455;464;469;472;476;478;479	OC(=O)c1ccc(NCc2nc3cc4ccccc4cc3[nH]2)cc1	425733
+373	BRD-K71935468	BRD-K71935468	83	probe		inducer of ROS	17;411;446;460;465;474;475;479	COC(=O)C(CC#Cc1ccc2NC(=O)[C@@]3([C@H]([C@H]4N([C@H]3c3ccccc3OCCO)[C@@H]([C@@H](OC4=O)c3ccccc3)c3ccccc3)C(=O)N3CCN(CC3)c3ncccn3)c2c1)C(=O)OC	58566
+374	QW-BI-011	BRD-K72264770	33	probe	EHMT2	inhibitor of G9a histone methyltransferase	353;399;444;472;476;478;479	COC(=O)c1ccc2n(CCCc3ccccc3)c(NC(=O)c3ccccc3)nc2c1	362063
+375	WZ4002	BRD-K72420232	33	probe	EGFR	inhibitor of EGFR targeting T790M resistance	103;202;355;431;460;465;474;475;479	COc1cc(ccc1Nc1ncc(Cl)c(Oc2cccc(NC(=O)C=C)c2)n1)N1CCN(C)CC1	640366
+376	BRD1812	BRD-K73261812	66	probe		screening hit	158;237;327;391;418;442;456;466;469;472;476;478;479	Oc1ccc(C[C@@H]2N3[C@H](CN(Cc4cccc5ccccc45)C2=O)N(CCC3=O)C(=O)NCc2ccccc2)cc1	418162
+377	purmorphamine	BRD-K73397362	150	probe	SMO	activator of smoothened receptor	286;386;409;450;471;477	C1CCC(CC1)n1cnc2c(Nc3ccc(cc3)N3CCOCC3)nc(Oc3cccc4ccccc34)nc12	52576
+378	BIRB-796	BRD-K74065929	66	probe	MAPK11;MAPK11;MAPK14	inhibitor of p38 MAPK	318;366;440;458;465;474;475;479	Cc1ccc(cc1)-n1nc(cc1NC(=O)Nc1ccc(OCCN2CCOCC2)c2ccccc12)C(C)(C)C	660412
+379	curcumin	BRD-K74148702	170	clinical		natural product; modulator of ROS; modulator of NF-kappa-B signaling	162;246;299;344;410;438;445;467;475;479	COc1cc(C=CC(=O)CC(=O)C=Cc2ccc(O)c(OC)c2)ccc1O	28452
+380	UNC0321	BRD-K74236984	33	probe	EHMT2	inhibitor of G9a histone methyltransferase	63;289;395;411;446;460;465;474;475;479	COc1cc2c(NC3CCN(C)CC3)nc(nc2cc1OCCOCCN(C)C)N1CCCN(C)CC1	635576
+381	NSC632839	BRD-K37392901	33	probe	USP13;USP5	inhibitor of ubiquitin isopeptidase	144;179;222;260;374;403;449;461;467;475;479	Cc1ccc(C=C2CNCC(=Cc3ccc(C)cc3)C2=O)cc1	375594
+382	pazopanib	BRD-K74514084	66	FDA	FLT1;FLT3;KDR;KIT;PDGFRB	inhibitor of VEGFRs, c-KIT, and PDGFRB	52;181;221;347;421;438;445;467;475;479	CN(c1ccc2c(C)n(C)nc2c1)c1ccnc(Nc2ccc(C)c(c2)S(N)(=O)=O)n1	640265
+383	BRD-K75293299	BRD-K75293299	66	GE-active		product of diversity oriented synthesis	151;195;271;308;382;434;454;470;474;475;479	C[C@@H](CO)N1C[C@@H](C)[C@H](CN(C)C(=O)Nc2cccc3ccccc23)Oc2c(NC(=O)c3ccncc3)cccc2C1=O	438691
+384	alisertib	BRD-K75295174	66	clinical	AURKA;AURKB	inhibitor of aurora kinases A and B	45;154;240;312;404;423;445;467;475;479	COc1cc(Nc2ncc3CN=C(c4cc(Cl)ccc4-c3n2)c2c(F)cccc2OC)ccc1C(O)=O	636711
+385	XL765	BRD-K75308783	66	clinical	MTOR;PIK3CA;PIK3CB;PIK3CD;PIK3CG;PRKDC	inhibitor of mTOR and PI3K kinase acitivities	249;387;412;434;454;470;474;475;479	COc1cc(Nc2nc3ccccc3nc2NS(=O)(=O)c2ccc(NC(=O)c3ccc(C)c(OC)c3)cc2)cc(OC)c1	660304
+386	IC-87114	BRD-K75430629	66	probe	PIK3CD	inhibitor of PI3K catalytic subunit delta	343;413;444;472;476;478;479	Cc1ccccc1-n1c(Cn2cnc3c(N)ncnc23)nc2cccc(C)c2c1=O	55307
+387	JW-74	BRD-K75664313	66	probe		inhibitor of WNT signaling	218;241;388;436;470;474;475;479	COc1ccc(cc1)-n1c(SCc2nc(no2)-c2ccc(C)cc2)nnc1-c1ccncc1	676728
+388	omacetaxine mepesuccinate	BRD-K76674262	66	FDA		inhibitor of protein translation by preventing protein elongation	114;257;315;372;425;447;476;478;479	COC(=O)C[C@](O)(CCCC(C)(C)O)C(=O)O[C@H]1[C@H]2c3cc4OCOc4cc3CCN3CCC[C@]23C=C1OC	375219
+389	YM-155	BRD-K76703230	1	clinical	BIRC5	inhibitor of survivin expression	267;327;391;418;442;456;466;469;472;476;478;479	COCCn1c2c(C(=O)c3ccccc3C2=O)[n+](Cc2cnccn2)c1C	417979
+390	A-804598	BRD-K76894955	66	probe	P2RX7	inhibitor of purinergic receptor P2X	265;405;448;468;477	C[C@H](\N=C(\NC#N)Nc1cccc2ncccc12)c1ccccc1	661033
+391	EX-527	BRD-K76964878	80	clinical	SIRT1	inhibitor of sirtuin 1	131;326;363;462;471;477	NC(=O)[C@H]1CCCc2c1[nH]c1ccc(Cl)cc21	608999
+392	vandetanib	BRD-K77625799	66	FDA	EGFR;KDR	inhibitor of VEGFR2 and EGFR	59;79;102;168;202;355;431;460;465;474;475;479	COc1cc2c(Nc3ccc(Br)cc3F)ncnc2cc1OCC1CCN(C)CC1	349002
+393	entinostat	BRD-K77908580	66	clinical	HDAC1;HDAC2;HDAC3;HDAC6;HDAC8	inhibitor of HDAC1, HDAC2, HDAC3, HDAC6, and HDAC8	66;93;155;238;297;392;439;457;461;467;475;479	Nc1ccccc1NC(=O)c1ccc(CNC(=O)OCc2cccnc2)cc1	60218
+394	LY-2157299	BRD-K78118466	66	probe	TGFBR1	inhibitor of the transforming growth factor beta type 1 receptor	291;314;441;459;473;478;479	Cc1cccc(n1)-c1nn2CCCc2c1-c1ccnc2ccc(cc12)C(N)=O	660431
+395	crizotinib	BRD-K78431006	66	FDA	ALK;MET	inhibitor of c-MET and ALK	137;198;293;370;380;421;438;445;467;475;479	C[C@@H](Oc1cc(cnc1N)-c1cnn(c1)C1CCNCC1)c1c(Cl)ccc(F)c1Cl	628603
+396	BRD-K78574327	BRD-K78574327	66	GE-active		product of diversity oriented synthesis	119;191;321;354;435;459;473;478;479	C[C@H](CO)N1C[C@H](C)[C@H](CN(C)CC2CC2)Oc2ccc(NS(=O)(=O)c3cn(C)cn3)cc2C1=O	435898
+397	manumycin A	BRD-K78599730	30	probe	FNTA;FNTB	inhibitor of RAS farnesyltransferase	123;187;215;304;376;394;437;449;461;467;475;479	CCCC[C@@H](C)\C=C(C)\C=C(/C)C(=O)NC1=C[C@@](O)(\C=C\C=C\C=C\C(=O)NC2C(=O)CCC2=O)[C@@H]2O[C@@H]2C1=O	50727
+398	MLN2238	BRD-K78659596	33	clinical	PSMB5	inhibitor of 20S proteasome at the chymotrypsin-like proteolytic (beta-5) site	8;171;379;401;425;447;476;478;479	CC(C)C[C@H](NC(=O)CNC(=O)c1cc(Cl)ccc1Cl)B(O)O	632873
+399	GSK4112	BRD-K78667050	66	probe	NR1D1	antagonist of Rev-ErbAalpha	204;377;427;446;460;465;474;475;479	CC(C)(C)OC(=O)CN(Cc1ccc(s1)[N+]([O-])=O)Cc1ccc(Cl)cc1	660081
+400	KHS101	BRD-K78978711	66	probe	TACC3	binder of TACC3, a component of the centrosome and mitotic spindle	139;298;424;442;456;466;469;472;476;478;479	CC(C)CNc1ccnc(NCc2csc(n2)-c2ccccc2)n1	660819
+401	PF-573228	BRD-K79239947	66	probe	PTK2	inhibitor of focal adhesion kinase	198;293;370;380;421;438;445;467;475;479	CS(=O)(=O)c1cccc(CNc2nc(Nc3ccc4NC(=O)CCc4c3)ncc2C(F)(F)F)c1	660075
+402	decitabine	BRD-K79254416	66	FDA	DNMT1	inhibitor of DNA methyltransferase	196;276;385;422;447;476;478;479	Nc1ncn([C@H]2C[C@H](O)[C@@H](CO)O2)c(=O)n1	347775
+403	PF-543	BRD-K79877282	33	probe	SPHK1	inhibitor of sphingosine kinase-1	197;313;371;430;457;461;467;475;479	Cc1cc(CS(=O)(=O)c2ccccc2)cc(OCc2ccc(CN3CCC[C@@H]3CO)cc2)c1	660073
+404	BRD-K80183349	BRD-K80183349	66	probe	HDAC1;HDAC2	inhibitor of HDAC1 and HDAC2	156;297;392;439;457;461;467;475;479	CC(=O)N1CCC(CC1)C(=O)Nc1cc(ccc1N)-c1cccs1	376307
+405	ML203	BRD-K80672993	37	probe	PKM	activator of muscle pyruvate kinase (PKM2)	136;250;359;452;462;471;477	Nc1cccc(c1)S(=O)(=O)N1CCCN(CC1)S(=O)(=O)c1ccc2OCCOc2c1	411816
+406	etomoxir	BRD-K81335284	300	clinical	CPT1A	inhibitor of carnitine palmitoyltransferase	233;382;434;454;470;474;475;479	OC(=O)[C@@]1(CCCCCCOc2ccc(Cl)cc2)CO1	660082
+407	vorinostat	BRD-K81418486	33	FDA	HDAC1;HDAC2;HDAC3;HDAC6;HDAC8	inhibitor of HDAC1, HDAC2, HDAC3, HDAC6, and HDAC8	62;93;155;238;297;392;439;457;461;467;475;479	ONC(=O)CCCCCCC(=O)Nc1ccccc1	56554
+408	silmitasertib	BRD-K81458380	66	clinical	CSNK2A1;CSNK2A2	inhibitor of casein kinase 2	100;190;228;345;383;450;471;477	OC(=O)c1ccc2c(c1)nc(Nc1cccc(Cl)c1)c1ccncc21	660421
+409	tanespimycin	BRD-K81473043	33	clinical	HSP90AA1	inhibitor of HSP90	49;127;358;372;425;447;476;478;479	CO[C@H]1C[C@H](C)CC2=C(NCC=C)C(=O)C=C(NC(=O)\C(C)=C\C=C/[C@H](OC)[C@@H](OC(N)=O)\C(C)=C\[C@H](C)[C@H]1O)C2=O	50134
+410	ML320	BRD-K81491172	66	probe	GSK3B	inhibitor of GSK3 beta	324;402;453;466;469;472;476;478;479	COc1ccccc1[C@H]1c2c(NC3=C1C(=O)CC(C)(C)C3)n[nH]c2C(F)(F)F	659682
+411	nilotinib	BRD-K81528515	66	FDA	ABL1;BCR;KIT	inhibitor of ABL1, BCR, and c-KIT	206;407;430;457;461;467;475;479	Cc1cn(cn1)-c1cc(NC(=O)c2ccc(C)c(Nc3nccc(n3)-c3cccnc3)c2)cc(c1)C(F)(F)F	374749
+412	parthenolide	BRD-K81651477	66	probe		natural product; modulator of ROS; modulator of NF-kappa-B signaling	128;141;183;262;338;363;462;471;477	C\C1=C\CC[C@@]2(C)O[C@@H]2[C@H]2OC(=O)C(=C)[C@@H]2CC1	411792
+413	WZ8040	BRD-K81728688	66	probe	EGFR	inhibitor of EGFR targeting T790M resistance	168;202;355;431;460;465;474;475;479	CN1CCN(CC1)c1ccc(Nc2ncc(Cl)c(Sc3cccc(NC(=O)C=C)c3)n2)cc1	628614
+414	vincristine	BRD-K82109576	130	FDA		inhibitor of mictrotubule assembly	10;19;39;50;75;85;199;227;336;358;372;425;447;476;478;479	CC[C@]1(O)C[C@@H]2CN(C1)CCc1c([nH]c3ccccc13)[C@@](C2)(C(=O)OC)c1cc2c(cc1OC)N(C=O)[C@@H]1[C@]22CCN3CC=C[C@](CC)([C@@H]23)[C@@H](OC(C)=O)[C@]1(O)C(=O)OC	62602
+415	navitoclax	BRD-K82746043	33	clinical	BCL2;BCL2L1;BCL2L2	inhibitor of BCL2, BCL-xL, and BCL-W	28;229;369;417;437;449;461;467;475;479	CC1(C)CCC(=C(CN2CCN(CC2)c2ccc(cc2)C(=O)NS(=O)(=O)c2ccc(N[C@H](CCN3CCOCC3)CSc3ccccc3)c(c2)S(=O)(=O)C(F)(F)F)C1)c1ccc(Cl)cc1	362342
+416	PF-750	BRD-K83213911	270	probe	FAAH	inhibitor of fatty acid amide hydrolase	104;188;273;381;418;442;456;466;469;472;476;478;479	O=C(Nc1ccccc1)N1CCC(Cc2cnc3ccccc3c2)CC1	411719
+417	CAY10618	BRD-K83289131	33	probe	NAMPT	inhibitor of nicotinamide phosphoribosyltransferase	3;16;43;217;385;422;447;476;478;479	O=C(CCCCCCCn1cc(nn1)-c1cccnc1)Nc1ccccc1-c1ccccc1	632104
+418	PL-DI	BRD-K83336168	66	probe		dimer of piperlongumine; inducer of ROS	120;159;215;304;376;394;437;449;461;467;475;479	COc1cc(\C=C\C(=O)N2CCC=CC2=O)cc(OC)c1OCCN(C)CCOc1c(OC)cc(\C=C\C(=O)N2CCC=CC2=O)cc1OC	609440
+419	skepinone-L	BRD-K83607951	66	probe	MAPK14	inhibitor of p38 MAPK	266;346;398;440;458;465;474;475;479	OC[C@@H](O)COc1ccc2CCc3cc(Nc4ccc(F)cc4F)ccc3C(=O)c2c1	688799
+420	nelarabine	BRD-K84466663	66	FDA	POLA1	deoxyguanosine analog; inhibitor of DNA synthesis	212;316;368;429;468;477	COc1nc(N)nc2n(cnc12)[C@@H]1O[C@H](CO)[C@@H](O)[C@@H]1O	660391
+421	CBB-1007	BRD-K84754008	66	probe	KDM1A	inhibitor of lysine-specific demethylase 1A (LSD1)	83;226;340;398;440;458;465;474;475;479	COC(=O)c1cc(CN2CCN(CC2)C(N)=N)cc(c1)C(=O)N1CCN(CC1)C(=O)c1ccc(cc1)C(N)=N	687721
+422	BRD-K84807411	BRD-K84807411	66	GE-active		product of diversity oriented synthesis	95;109;191;321;354;435;459;473;478;479	C[C@H](CO)N1C[C@H](C)[C@@H](CN(C)C)Oc2c(NC(=O)c3cc(C)nn3C)cccc2C1=O	437906
+423	sirolimus	BRD-K84937637	33	FDA	MTOR	inhibitor of mTOR	51;153;370;380;421;438;445;467;475;479	CO[C@@H]1C[C@H](C[C@@H](C)[C@@H]2CC(=O)[C@H](C)\C=C(C)\[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)\C=C\C=C\C=C(C)\[C@H](C[C@@H]3CC[C@@H](C)[C@@](O)(O3)C(=O)C(=O)N3CCCC[C@H]3C(=O)O2)OC)CC[C@H]1O	56703
+424	spautin-1	BRD-K84964099	66	probe	USP10;USP13	inhibitor of the deubiquitinase activity of USP13 and USP10	64;139;298;424;442;456;466;469;472;476;478;479	Fc1ccc(CNc2ncnc3ccc(F)cc23)cc1	657183
+425	BRD-K85133207	BRD-K85133207	66	probe	HDAC1	inhibitor of HDAC1	189;249;387;412;434;454;470;474;475;479	CC(=O)N[C@H]1C[C@H](C1)C(=O)Nc1cc(ccc1N)-c1ccc(F)cc1	616408
+426	neratinib	BRD-K85606544	33	clinical	EGFR;ERBB2	inhibitor of EGFR and HER2	13;21;47;59;79;102;168;202;355;431;460;465;474;475;479	CCOc1cc2ncc(C#N)c(Nc3ccc(OCc4ccccn4)c(Cl)c3)c2cc1NC(=O)\C=C\CN(C)C	418038
+427	AZD7762	BRD-K86525559	66	clinical	CHEK1;CHEK2	inhibitor of checkpoint kinases 1 and 2	121;242;272;315;372;425;447;476;478;479	NC(=O)Nc1cc(sc1C(=O)N[C@H]1CCCNC1)-c1cccc(F)c1	660777
+428	BRD-K86535717	BRD-K86535717	66	GE-active		product of diversity oriented synthesis	108;133;195;271;308;382;434;454;470;474;475;479	CO[C@@H]1CC[C@H]2CCN(C)C(=O)[C@@H](C)[C@H](CN(C)C(=O)c3cccc(C#N)c3OC[C@H]1O2)OC	429535
+429	BRD4132	BRD-K86574132	160	probe		screening hit	194;216;296;350;386;409;450;471;477	CC(C)N1C(=O)S\C(=C\c2ccc(Sc3nc4ccccc4[nH]3)o2)C1=O	3588
+430	bafilomycin A1	BRD-K86787118	0.33	probe	ATP6V0A1	inhibitor of the vacuolar-type H+-ATPase	428;458;465;474;475;479	CO[C@H]1\C=C\C=C(C)\C[C@@H](C)[C@H](O)[C@H](C)\C=C(C)\C=C(OC)\C(=O)O[C@@H]1[C@@H](C)[C@@H](O)[C@H](C)[C@H]1C[C@@H](O)[C@H](C)[C@H](O1)C(C)C	467037
+431	UNC0638	BRD-K86856088	33	probe	EHMT1;EHMT2	inhibitor of EHMT2 and GLP methyltransferase	69;164;310;371;430;457;461;467;475;479	COc1cc2c(NC3CCN(CC3)C(C)C)nc(nc2cc1OCCCN1CCCC1)C1CCCCC1	594665
+432	cediranib	BRD-K86930074	66	clinical	FLT1;FLT4;KDR	inhibitor of VEGFRs	301;347;421;438;445;467;475;479	COc1cc2c(Oc3ccc4[nH]c(C)cc4c3F)ncnc2cc1OCCCN1CCCC1	606136
+433	OSI-027	BRD-K87124298	66	clinical	MTOR	inhibitor of mTORC1 and mTORC2	68;153;370;380;421;438;445;467;475;479	COc1cccc2cc([nH]c12)-c1nc([C@H]2CC[C@@H](CC2)C(O)=O)n2ncnc(N)c12	660433
+434	veliparib	BRD-K87142802	33	clinical	PARP1;PARP2	inhibitor of poly (ADP-ribose) polymerase 1 (PARP1) and 2 (PARP2)	247;318;366;440;458;465;474;475;479	C[C@@]1(CCCN1)c1nc2c(cccc2[nH]1)C(N)=O	606034
+435	L-685458	BRD-K87317732	37	probe	APH1A;NCSTN;PSEN1;PSENEN	inhibitor of gamma-secretase	289;395;411;446;460;465;474;475;479	CC(C)C[C@H](NC(=O)[C@@H](C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)OC(C)(C)C)Cc1ccccc1)C(=O)N[C@@H](Cc1ccccc1)C(N)=O	411717
+436	momelotinib	BRD-K87737963	66	clinical	JAK1;JAK2	inhibitor of Janus kinases 1 and 2	174;242;272;315;372;425;447;476;478;479	O=C(NCC#N)c1ccc(cc1)-c1ccnc(Nc2ccc(cc2)N2CCOCC2)n1	660429
+437	istradefylline	BRD-K87774949	33	clinical	ADORA2A	antagonist of the adenosine A2A receptor	366;440;458;465;474;475;479	CCn1c2nc(\C=C\c3ccc(OC)c(OC)c3)n(C)c2c(=O)n(CC)c1=O	687694
+438	fingolimod	BRD-K88025533	66	FDA	S1PR1	inhibitor of sphingosine 1-phosphate receptor	111;287;313;371;430;457;461;467;475;479	CCCCCCCCc1ccc(CCC(N)(CO)CO)cc1	640157
+439	bortezomib	BRD-K88510285	0.13	FDA	PSMB1;PSMB2;PSMB5;PSMD1;PSMD2	inhibitor of 26S proteasome	8;171;379;401;425;447;476;478;479	CC(C)C[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)c1cnccn1)B(O)O	411737
+440	CI-976	BRD-K88544581	270	probe	ACAT1	inhibitor of acetyl-CoA acetyltransferase I	317;337;409;450;471;477	CCCCCCCCCCC(C)(C)C(=O)Nc1c(OC)cc(OC)cc1OC	375390
+441	BRD-K88742110	BRD-K88742110	66	probe	HDAC8	inhibitor of HDAC8	115;324;402;453;466;469;472;476;478;479	COc1ccc(Cn2ccc3ccc(cc23)C(=O)NO)cc1	606670
+442	tandutinib	BRD-K89162000	66	clinical	FLT3;KIT	inhibitor of c-KIT and VEGFR3	128;141;183;262;338;363;462;471;477	COc1cc2c(ncnc2cc1OCCCN1CCCCC1)N1CCN(CC1)C(=O)Nc1ccc(OC(C)C)cc1	464458
+443	BRD9876	BRD-K89329876	130	probe		screening hit	141;183;262;338;363;462;471;477	CC(C)(C)c1ccc2cc(C#N)c(cc2c1)C#N	19153
+444	RG-108	BRD-K89391146	270	probe	DNMT1	inhibitor of DNA methyltransferase	217;385;422;447;476;478;479	OC(=O)[C@H](Cc1c[nH]c2ccccc12)N1C(=O)c2ccccc2C1=O	411831
+445	ML006	BRD-K89692698	530	probe	S1PR3	agonist of sphingosine 1-phosphate receptor 3	81;228;345;383;450;471;477	C1CN(CCO1)c1nnc(-c2ccccc2)c(n1)-c1ccccc1	17712
+446	trifluoperazine	BRD-K89732114	33	FDA	DRD2	antagonist of dopamine receptor D2	124;197;313;371;430;457;461;467;475;479	CN1CCN(CCCN2c3ccccc3Sc3ccc(cc23)C(F)(F)F)CC1	26914
+447	BRD-K90370028	BRD-K90370028	33	probe		screening hit	340;398;440;458;465;474;475;479	CC(=O)N[C@@H]1C\C=C\CCC(=O)N[C@@H](COC1=O)c1ccccc1	362207
+448	GW-843682X	BRD-K90382497	33	probe	PLK1;PLK3	inhibitor of PLK1 and PLK3	65;132;227;336;358;372;425;447;476;478;479	COc1cc2ncn(-c3cc(OCc4ccccc4C(F)(F)F)c(s3)C(N)=O)c2cc1OC	348997
+449	pitstop2	BRD-K90570971	66	probe	CLTA;CLTB;CLTC;CLTCL1	inhibitor of clathrin and clathrin-independent endocytosis	110;399;444;472;476;478;479	Brc1ccc(cc1)\C=C1/SC(NS(=O)(=O)c2cccc3ccccc23)=NC1=O	660985
+450	bosutinib	BRD-K90746395	66	FDA	ABL1;SRC	inhibitor of SRC and ABL1	102;168;202;355;431;460;465;474;475;479	COc1cc(Nc2cc(nc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)C#N)c(Cl)cc1Cl	660346
+451	MI-2	BRD-K90860366	66	probe	MEN1	binder of menin; inhibitor of menin-MLL fusion protein	266;346;398;440;458;465;474;475;479	CCCc1cc2c(ncnc2s1)N1CCN(CC1)C1=NCC(C)(C)S1	687714
+452	O-6-benzylguanine	BRD-K92041145	66	clinical	MGMT	inhibitor of O(6)-alkylguanine DNA alkyltransferases	302;319;435;459;473;478;479	Nc1nc(OCc2ccccc2)c2[nH]cnc2n1	345712
+453	doxorubicin	BRD-K92093830	66	FDA	TOP2A	inhibitor of topoisomerase II	72;224;240;312;404;423;445;467;475;479	COc1cccc2C(=O)c3c(O)c4C[C@](O)(C[C@H](O[C@H]5C[C@H](N)[C@H](O)[C@H](C)O5)c4c(O)c3C(=O)c12)C(=O)CO	36599
+454	tosedostat	BRD-K92241597	270	clinical	ANPEP;LAP3;NPEPPS	inhibitor of leucine aminopeptidase 3 (LAP), puromycin-sensitive aminopeptidase (PuSA), and aminopeptidase N	311;432;451;454;470;474;475;479	CC(C)C[C@H]([C@H](O)C(=O)NO)C(=O)N[C@H](C(=O)OC1CCCC1)c1ccccc1	417987
+455	GSK461364	BRD-K92428232	66	clinical	PLK1	inhibitor of polo-like kinase 1 (PLK1)	7;50;75;85;199;227;336;358;372;425;447;476;478;479	C[C@@H](Oc1cc(sc1C(N)=O)-n1cnc2ccc(CN3CCN(C)CC3)cc12)c1ccccc1C(F)(F)F	649862
+456	bexarotene	BRD-K92441787	66	FDA	RXRA;RXRB;RXRG	inhibitor of retinoid X receptors	251;339;389;463;473;478;479	Cc1cc2c(cc1C(=C)c1ccc(cc1)C(O)=O)C(C)(C)CCC2(C)C	374747
+457	imatinib	BRD-K92723993	66	FDA	ABL1;BCR;KIT	inhibitor of BCR-ABL1 and c-KIT	78;206;407;430;457;461;467;475;479	CN1CCN(Cc2ccc(cc2)C(=O)Nc2ccc(C)c(Nc3nccc(n3)-c3cccnc3)c2)CC1	345041
+458	BRD-K92856060	BRD-K92856060	33	probe		screening hit	267;327;391;418;442;456;466;469;472;476;478;479	COc1ccc(cc1[N+]([O-])=O)S(=O)(=O)N(C(C)=O)c1ccc(OC(C)=O)c2ccccc12	119769
+459	SMER-3	BRD-K92960067	66	probe	CUL1;SKP1	inhibitor of E3-ubiquitin ligase	234;295;394;437;449;461;467;475;479	O=C1c2ccccc2-c2nc3nonc3nc12	660286
+460	PAC-1	BRD-K92991072	33	probe	CASP3	activator of procaspase-3	112;160;325;396;439;457;461;467;475;479	Oc1c(CC=C)cccc1\C=N\NC(=O)CN1CCN(Cc2ccccc2)CC1	411832
+461	SJ-172550	BRD-K93095519	33	probe	MDM2;TP53	inhibitor of p53-MDM2 interaction	413;444;472;476;478;479	CCOc1cc(cc(Cl)c1OCC(=O)OC)\C=C1C(=O)N(N=C/1C)c1ccccc1	416777
+462	RAF265	BRD-K93123848	66	clinical	BRAF;KDR	ihibitor of VEGFR2 and BRAF	245;323;404;423;445;467;475;479	Cn1c(Nc2ccc(cc2)C(F)(F)F)nc2cc(Oc3ccnc(c3)-c3ncc([nH]3)C(F)(F)F)ccc12	660414
+463	AC55649	BRD-K93176058	33	probe	RARB	agonist of retinoic acid receptor beta	239;280;433;451;454;470;474;475;479	CCCCCCCCc1ccc(cc1)-c1ccc(cc1)C(O)=O	375487
+464	ML334 diastereomer	BRD-K93367411	130	probe	KEAP1;NFE2L2	inhibitor of KEAP1-NFE2L2 protein-protein interaction	305;384;429;468;477	OC(=O)[C@@H]1CCCC[C@@H]1C(=O)N1CCc2ccccc2[C@H]1CN1C(=O)c2ccccc2C1=O	654278
+465	vorapaxar	BRD-K93442924	66	clinical	F2R	antagonist of proteinase-activated receptor 1 (PAR1)	148;309;373;433;451;454;470;474;475;479	CCOC(=O)N[C@@H]1CC[C@@H]2[C@H](C[C@@H]3[C@@H]([C@@H](C)OC3=O)[C@H]2\C=C\c2ccc(cn2)-c2cccc(F)c2)C1	660136
+466	tamoxifen	BRD-K93754473	100	FDA	ESR1;ESR2	modulator of estrogen receptors	193;294;383;450;471;477	CC\C(c1ccccc1)=C(/c1ccccc1)c1ccc(OCCN(C)C)cc1	26972
+467	quizartinib	BRD-K93918653	66	clinical	FLT3	inhibtor of VEGFR3	235;387;412;434;454;470;474;475;479	CC(C)(C)c1cc(NC(=O)Nc2ccc(cc2)-c2cn3c(n2)sc2cc(OCCN4CCOCC4)ccc32)no1	640011
+468	CHM-1	BRD-K94145482	16	probe		inhibitor of tubulin polymerization	35;60;75;85;199;227;336;358;372;425;447;476;478;479	Fc1ccccc1-c1cc(=O)c2cc3OCOc3cc2[nH]1	609674
+469	BRD-K94991378	BRD-K94991378	83	probe		inducer of ROS	17;411;446;460;465;474;475;479	COCCOC(=O)N1C(=O)[C@]2([C@@H]([C@@H]3N([C@@H]2c2ccccc2OCCO)[C@H]([C@H](OC3=O)c2ccccc2)c2ccccc2)C(=O)NCC=C)c2cc(ccc12)C#CCC(C(=O)OC)C(=O)OC	53556
+470	VAF-347	BRD-K96335988	66	probe	AHR	inhibitor of aryl hydrocarbon receptor	342;463;473;478;479	FC(F)(F)c1ccc(Nc2nccc(n2)-c2cccc(Cl)c2)cc1	659226
+471	BRD-K96431673	BRD-K96431673	66	GE-active		product of diversity oriented synthesis	99;133;195;271;308;382;434;454;470;474;475;479	CN1CCN(CC1)C(=O)C[C@H]1CC[C@H](NC(=O)c2ccc3OCOc3c2)[C@@H](CO)O1	417262
+472	pifithrin-mu	BRD-K96799727	33	probe	HSPA1A;HSPA1B;HSPA1L;TP53	inhibitor of p53 binding to mitochondria; inhibitor of HSP70	256;381;418;442;456;466;469;472;476;478;479	NS(=O)(=O)C#Cc1ccccc1	375596
+473	BRD-K96970199	BRD-K96970199	66	GE-active		product of diversity oriented synthesis	99;133;195;271;308;382;434;454;470;474;475;479	C\C=C\c1ccc2c(O[C@@H](CN(C)C(=O)c3ccccc3)[C@@H](C)CN([C@@H](C)CO)S2(=O)=O)c1	410703
+474	BRD-K97651142	BRD-K97651142	66	probe		aphrocallistin derivative	32;64;139;298;424;442;456;466;469;472;476;478;479	CN(CCc1cc(Br)c(OCCCNc2ncnc3n(C)cnc23)c(Br)c1)C(=O)c1ccc(C)cc1	660135
+475	GSK-J4	BRD-K98203492	66	probe	KDM6A;KDM6B	inhibitor of lysine-specific demethylases	378;424;442;456;466;469;472;476;478;479	CCOC(=O)CCNc1cc(nc(n1)-c1ccccn1)N1CCc2ccccc2CC1	687735
+476	16-beta-bromoandrosterone	BRD-K98404142	37	probe		dehydroepiandrosterone (DHEA) analog	189;249;387;412;434;454;470;474;475;479	C[C@]12CC[C@H]3[C@@H](CC[C@H]4C[C@H](O)CC[C@]34C)[C@@H]1C[C@H](Br)C2=O	411726
+477	pluripotin	BRD-K98538768	33	probe	MAPK1;RASAL1	promoter of embryonic stem cell self-renewal; inhibitor of Ras-GAP and ERK	169;355;431;460;465;474;475;479	CN1C(=O)N(Cc2cnc(Nc3cc(C)nn3C)nc12)c1cc(NC(=O)c2cccc(c2)C(F)(F)F)ccc1C	411833
+478	BRD-K99006945	BRD-K99006945	66	probe		screening hit	55;408;453;466;469;472;476;478;479	CCN(CC)c1ccc(cc1)C1=NNC(=O)C[C@H]1C	687395
+479	JW-480	BRD-K99655327	66	probe	NCEH1	inhibitor of serine hydrolase enzyme NCEH	364;406;456;466;469;472;476;478;479	CC(C)c1ccccc1OC(=O)NCCc1ccc2ccccc2c1	660227
+480	linifanib	BRD-K99749624	66	clinical	FLT1;FLT3;KDR	inhibitor of VEGFRs	272;315;372;425;447;476;478;479	Cc1ccc(F)c(NC(=O)Nc2ccc(cc2)-c2cccc3[nH]nc(N)c23)c1	606033
+481	BRD-M00053801	BRD-M00053801	66	probe	BCL2	inhibitor of BCL2	230;337;409;450;471;477	C[C@H](O)[C@@H]1[C@H](CO)ON(Cc2cccc(CN(CCN(C)C)[C@H](C3CCCCC3)c3ccccc3)c2)[C@@H]1C(=O)N[C@H]1C[C@H]2C[C@@H]([C@@H]1C)C2(C)C.C[C@H](O)[C@@H]1[C@H](CO)ON(Cc2cccc(CN(CCN(C)C)[C@@H](C3CCCCC3)c3ccccc3)c2)[C@@H]1C(=O)N[C@H]1C[C@H]2C[C@@H]([C@@H]1C)C2(C)C	660890

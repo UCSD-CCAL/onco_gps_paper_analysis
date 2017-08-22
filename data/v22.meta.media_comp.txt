@@ -1,0 +1,83 @@
+culture_media	media_composition
+199F12001	Medium 199:F12 (1:1), 10% FBS
+ALPHAMEM001	AMEM, 10% FBS
+ALPHAMEM002	AMEM, 20% FBS
+ALPHAMEM003	AMEM, 20% FBS, 10ng/mL SCF 
+DMEM001	DMEM, 10% FBS
+DMEM002	DMEM, 10% FBS, 4.5 g/L glucose, 1.5 g/L sodium bicarbonate
+DMEM003	DMEM, 10% FBS, 2 mM L-glutamine, 0.01 mg/mL transferrin
+DMEM004	DMEM, 10% FBS, 0.01 mg/mL insulin
+DMEM005	DMEM, 10% FBS, 2 mM L-glutamine
+DMEM006	DMEM, 20% FBS
+DMEM007	DMEM, 10% FBS, 20 IU/L (0.9 mg/L) bovine insulin, 2 mM L-glutamine
+DMEM008	DMEM, 15% FBS, 2 mM L-glutamine
+DMEM009	DMEM, 5% FBS
+DMEM010	DMEM, 10% FBS, 1mM sodium pyruvate
+DMEM011	DMEM, 15% FBS
+DMEM012	DMEM, 10% FBS, 0.1 mM NEAA
+DMEM013	DMEM, 20% FBS, 2mM L-glutamine, 400 ng/mL hydrocortisone
+DMEMF12001	DMEM:F12 (1:1), 10% FBS, 2 mM L-glutamine
+DMEMF12002	DMEM:F12 (1:1), 5% FBS, 10 nM beta-estradiol, 2 mM L-glutamine, 10 mM HEPES, 10 nM hydrocortisone, 0.005 mg/mL insulin, 30 nM sodium selenite, 0.01 mg/mL transferrin
+DMEMF12003	DMEM:F12 (1:1), 10% FBS
+DMEMF12004	DMEM:F12 (1:1), 10% FBS, 0.1 mM NEAA
+DMEMF12005	DMEM:F12 (1:1), 10% FBS, 400 ng/mL hydrocortisone
+DMEMF12006	DMEM:F12 (1:1), 20% FBS
+DMEMF12007	DMEM:F12 (1:1), 5% FBS, 2 mM L-glutamine, 0.5 ug/mL hydrocortisone, 10 ug/mL insulin
+EMEM001	EMEM, 10% FBS
+EMEM002	EMEM, 15% FBS
+EMEM003	EMEM, 10% FBS, 0.1 mM NEAA
+EMEM004	EMEM, 20% FBS, 2 mM L-glutamine, 0.1 mM NEAA
+EMEM005	EMEM, 20% FBS
+EMEMF12001	EMEM:F21 (1:1), 10% FBS
+F12K001	F12K, 10% FBS
+HamsF10001	HamsF10, 10% FBS
+HamsF12001	HamsF12, 10% FBS
+HamsF12002	HamsF12, 20% FBS
+HamsF12003	HamsF12, 15% FBS, 2 mM L-glutamine
+HCM001	HybriCare, 10% FBS, 30 ng/mL mouse EGF (not filtered), 1.5 g/L sodium bicarbonate
+IMDM001	IMDM, 20% human serum, 50 uM beta-mercaptoethanol
+IMDM002	IMDM, 10% FBS
+IMDM003	IMDM, 20% FBS
+IMDM004	IMDM, 5% FBS, 5 ng/mL GM-CSF, 0.005 mg/mL insulin, 0.005 mg/mL transferrin
+IMDM005	IMDM, 10% FBS, 2 mM L-glutamine
+IMDMDMEM001	IMDM:DMEM (1:1), 20% FBS
+IMDMRPMI001	IMDM:RPMI (4:1), 10% FBS
+L15001	L15, 10% FBS
+L15002	L15, 20% FBS
+MCCOYS5A001	McCoy's 5A, 10% FBS
+MCCOYS5A002	McCoy's 5A, 20% FBS
+MCCOYS5A003	McCoy's 5A, 15% FBS
+MCDB001	MCDB 105:Medium 199 (1:1), 10% FBS
+MCDB002	MCDB 105:Medium 199 (1:1), 15% FBS
+MEM001	MEM, 10% FBS
+MEM002	MEM, 15% heat-inactivated FBS, 10 mM L-glutamine, 0.1 mM NEAA
+MEM003	MEM, 10% FBS, 2mM L-glutamine, 0.1 mM NEAA
+MEM004	MEM, 20% FBS, 10 ng/mL SCF
+MEMA001	MEMA, 10% FBS
+NCTC109001	NCTC-109, 10% FBS, 2 mM L-glutamine
+RPMI001	RPMI, 10% FBS
+RPMI002	RPMI, 10% FBS, 0.1 mM NEAA
+RPMI003	RPMI, 20% FBS
+RPMI004	RPMI, 5% FBS, 10 nM beta-estradiol, 2 mM L-glutamine, 10 mM HEPES, 10 nM hydrocortisone, 0.005 mg/mL insulin, 30 nM sodium selenite, 0.01 mg/mL transferrin
+RPMI005	RPMI, 5% FBS
+RPMI006	RPMI, 15% FBS, 4.5 g/L glucose, 2 mM L-glutamine, 10 mM HEPES, 10 units/mL insulin (0.37 mg/mL insulin), 1.5 g/L sodium bicarbonate, 1 mM sodium pyruvate
+RPMI007	RPMI, 10% FBS, 2 mM L-glutamine
+RPMI008	RPMI, 10% heat-inactivated FBS
+RPMI009	RPMI, 15% FBS, 0.1 units/mL insulin (0.0037 mg/mL insulin)
+RPMI010	RPMI, 20% FBS, 0.1 mM NEAA
+RPMI011	RPMI, 10% FBS, 4.5 g/L glucose, 10 mM HEPES, 1.5 g/l sodium bicarbonate, 1 mM sodium pyruvate
+RPMI012	RPMI, 10% FBS, 50 uM beta-mercaptoethanol
+RPMI013	RPMI, 10% FBS, 5% DMSO
+RPMI014	RPMI, 15% FBS
+RPMI015	RPMI, 10% FBS, 10 ng/mL GM-CSF
+RPMI016	RPMI, 10% FBS, 0.1 mg/mL bovine insulin
+RPMI017	RPMI, 15% FBS, 0.01 mg/mL glutathione, 0.01 mg/mL insulin
+RPMI018	RPMI, 10% FBS, 0.2 units/mL bovine insulin (0.08 mg/mL)
+RPMI019	RPMI, 10% FBS, 2 ng/mL GM-CSF
+RPMI020	RPMI, 15% FBS, 10 units/mL insulin (0.37 mg/mL insulin)
+RPMIF12001	RPMI:F12 (1:1), 10% FBS
+RPMIMEM001	RPMI:MEM (1:1), 10% FBS
+RPMIMEM002	RPMI:MEM (1:1), 10% FBS, 0.005 mg/mL insulin, 30 nM sodium selenite, 0.01 mg/mL transferrin
+WAYMOUTH001	Waymouth's MB 752/1, 10% heat-inactivated FBS, 2 mM L-glutamine
+WAYMOUTH002	Waymouth's MB 752/1, 10% FBS
+WILLIAMSE001	William's E, 10% FBS

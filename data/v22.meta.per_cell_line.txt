@@ -1,0 +1,665 @@
+index_ccl	ccl_name	snp_fp_status	culture_media	ccle_primary_site	ccle_primary_hist	ccle_hist_subtype_1	cell_line_cluster_id	master_ccl_id
+1	CHP212	SNP-not-tested	EMEM001	autonomic_ganglia	neuroblastoma		440;513;552;589;607;628;638;647;651;657;660	144
+2	IMR32	SNP-matched-reference	EMEM001	autonomic_ganglia	neuroblastoma		288;333;475;513;552;589;607;628;638;647;651;657;660	475
+3	KELLY	SNP-matched-reference	RPMI001	autonomic_ganglia	neuroblastoma		23;116;259;393;423;480;556;569;601;604;615;624;631;638;647;651;657;660	528
+4	KPNSI9S	SNP-not-tested	RPMI001	autonomic_ganglia	neuroblastoma		98;138;199;377;460;485;542;567;600;609;624;631;638;647;651;657;660	571
+5	KPNYN	SNP-matched-reference	RPMI001	autonomic_ganglia	neuroblastoma		620;652;655;657;660	572
+6	MHHNB11	SNP-matched-reference	RPMI001	autonomic_ganglia	neuroblastoma		505;541;592;632;641;654;659;660	678
+7	NB1	SNP-matched-reference	RPMI001	autonomic_ganglia	neuroblastoma		23;116;259;393;423;480;556;569;601;604;615;624;631;638;647;651;657;660	720
+8	NH6	SNP-matched-reference	ALPHAMEM002	autonomic_ganglia	neuroblastoma		91;333;475;513;552;589;607;628;638;647;651;657;660	852
+9	SIMA	SNP-matched-reference	RPMI001	autonomic_ganglia	neuroblastoma		592;632;641;654;659;660	1030
+10	SKNAS	SNP-matched-reference	DMEM012	autonomic_ganglia	neuroblastoma		107;281;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	1051
+11	SKNBE2	SNP-matched-reference	EMEMF12001	autonomic_ganglia	neuroblastoma		214;406;485;542;567;600;609;624;631;638;647;651;657;660	1052
+12	SKNDZ	SNP-not-tested	DMEM001	autonomic_ganglia	neuroblastoma		339;475;513;552;589;607;628;638;647;651;657;660	1053
+13	SKNFI	SNP-matched-reference	DMEM012	autonomic_ganglia	neuroblastoma		440;513;552;589;607;628;638;647;651;657;660	1055
+14	SKNSH	SNP-matched-reference	EMEM001	autonomic_ganglia	neuroblastoma		91;333;475;513;552;589;607;628;638;647;651;657;660	1058
+15	HUCCT1	SNP-matched-reference	RPMI001	biliary_tract	carcinoma		371;515;632;641;654;659;660	455
+16	HUH28	SNP-not-tested	RPMI001	biliary_tract	carcinoma		361;582;608;627;636;646;651;657;660	458
+17	SNU1079	SNP-matched-reference	RPMI001	biliary_tract	carcinoma		518;603;627;636;646;651;657;660	1082
+18	SNU1196	SNP-matched-reference	RPMI001	biliary_tract	carcinoma		123;313;381;465;520;586;605;611;629;643;645;654;659;660	1085
+19	SNU308	SNP-matched-reference	RPMI001	biliary_tract	carcinoma		344;365;445;521;550;572;602;608;627;636;646;651;657;660	1097
+20	SNU478	SNP-not-tested	RPMI001	biliary_tract	carcinoma		28;82;194;290;304;388;507;540;574;591;598;616;630;643;645;654;659;660	1109
+21	SNU869	SNP-matched-reference	RPMI001	biliary_tract	carcinoma		316;433;478;536;566;589;607;628;638;647;651;657;660	1126
+22	A673	SNP-matched-reference	DMEM001	bone	Ewings_sarcoma_peripheral_primitive_neuroectodermal_tumor		8;66;202;239;350;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	37
+23	CADOES1	SNP-matched-reference	RPMI001	bone	Ewings_sarcoma_peripheral_primitive_neuroectodermal_tumor		641;654;659;660	108
+24	CAL78	SNP-matched-reference	RPMI003	bone	chondrosarcoma	dedifferentiated	503;551;565;601;604;615;624;631;638;647;651;657;660	120
+25	G292CLONEA141B1	SNP-matched-reference	MCCOYS5A002	bone	osteosarcoma		295;424;502;556;569;601;604;615;624;631;638;647;651;657;660	262
+26	HOS	SNP-matched-reference	EMEM001	bone	osteosarcoma		26;65;104;268;402;450;506;570;599;634;646;651;657;660	383
+27	SUIT2	SNP-matched-reference	DMEM001	pancreas	carcinoma	ductal_carcinoma	220;397;519;572;602;608;627;636;646;651;657;660	1145
+28	HS822T	SNP-matched-reference	DMEM001	bone	Ewings_sarcoma_peripheral_primitive_neuroectodermal_tumor		491;554;618;644;655;657;660	424
+29	HS888T	SNP-not-tested	DMEM002	bone	osteosarcoma		525;554;618;644;655;657;660	432
+30	MG63	SNP-matched-reference	MEM001	bone	osteosarcoma		255;410;471;578;610;628;638;647;651;657;660	673
+31	MHHES1	SNP-matched-reference	RPMI001	bone	Ewings_sarcoma_peripheral_primitive_neuroectodermal_tumor		80;186;260;374;484;520;586;605;611;629;643;645;654;659;660	677
+32	SAOS2	SNP-unconfirmed	MCCOYS5A003	bone	osteosarcoma		68;75;267;349;411;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	1004
+33	SJSA1	SNP-matched-reference	RPMI001	bone	osteosarcoma		54;236;266;439;499;567;600;609;624;631;638;647;651;657;660	1032
+34	SKES1	SNP-matched-reference	MCCOYS5A003	bone	Ewings_sarcoma_peripheral_primitive_neuroectodermal_tumor		68;75;267;349;411;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	1035
+35	SKNMC	SNP-matched-reference	EMEM001	bone	Ewings_sarcoma_peripheral_primitive_neuroectodermal_tumor		8;66;202;239;350;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	1056
+36	SNU182	SNP-matched-reference	RPMI001	liver	carcinoma	hepatocellular_carcinoma	105;261;318;443;500;537;550;572;602;608;627;636;646;651;657;660	1091
+37	U2OS	SNP-matched-reference	DMEM001	bone	osteosarcoma		559;591;598;616;630;643;645;654;659;660	1226
+38	AU565	SNP-not-tested	DMEM001	breast	carcinoma		164;493;568;588;623;631;638;647;651;657;660	53
+39	BT20	SNP-matched-reference	EMEM001	breast	carcinoma	ductal_carcinoma	192;315;412;477;530;545;584;595;609;624;631;638;647;651;657;660	90
+40	BT474	SNP-matched-reference	DMEM006	breast	carcinoma	ductal_carcinoma	535;568;588;623;631;638;647;651;657;660	97
+41	BT549	SNP-matched-reference	RPMI001	breast	carcinoma	ductal_carcinoma	398;449;486;558;595;609;624;631;638;647;651;657;660	99
+42	CAL120	SNP-matched-reference	DMEM001	breast	carcinoma		463;543;597;619;629;643;645;654;659;660	111
+43	CAL148	SNP-matched-reference	DMEM006	breast	carcinoma	ductal_carcinoma	283;351;505;541;592;632;641;654;659;660	113
+44	CAL51	SNP-matched-reference	DMEM006	breast	carcinoma		15;180;308;374;484;520;586;605;611;629;643;645;654;659;660	117
+45	CAL851	SNP-matched-reference	DMEM001	breast	carcinoma		41;69;197;208;219;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	121
+46	CAMA1	SNP-matched-reference	EMEM001	breast	carcinoma		429;581;583;611;629;643;645;654;659;660	125
+47	EFM192A	SNP-matched-reference	RPMI003	breast	carcinoma		493;568;588;623;631;638;647;651;657;660	236
+48	HCC1143	SNP-matched-reference	RPMI001	breast	carcinoma	ductal_carcinoma	155;321;382;442;504;511;600;609;624;631;638;647;651;657;660	295
+49	HCC1395	SNP-matched-reference	RPMI001	breast	carcinoma	ductal_carcinoma	238;426;523;574;591;598;616;630;643;645;654;659;660	300
+50	HCC1419	SNP-matched-reference	RPMI001	breast	carcinoma	ductal_carcinoma	456;535;568;588;623;631;638;647;651;657;660	301
+51	NCIH1869	SNP-matched-reference	RPMI001	lung	carcinoma	squamous_cell_carcinoma	51;243;389;420;477;530;545;584;595;609;624;631;638;647;651;657;660	155456
+52	HCC1500	SNP-matched-reference	RPMI001	breast	carcinoma	ductal_carcinoma	479;553;573;607;628;638;647;651;657;660	305
+53	HCC1569	SNP-not-tested	RPMI001	breast	carcinoma	metaplastic_carcinoma	642;649;652;655;657;660	306
+54	HCC1806	SNP-matched-reference	RPMI001	breast	carcinoma	ductal_carcinoma	32;148;271;384;432;484;520;586;605;611;629;643;645;654;659;660	309
+55	HCC1937	SNP-unconfirmed	RPMI001	breast	carcinoma	ductal_carcinoma	417;521;550;572;602;608;627;636;646;651;657;660	313
+56	HCC1954	SNP-matched-reference	RPMI001	breast	carcinoma	ductal_carcinoma	132;405;434;476;528;560;586;605;611;629;643;645;654;659;660	314
+57	HCC202	SNP-matched-reference	RPMI001	breast	carcinoma	ductal_carcinoma	368;378;547;584;595;609;624;631;638;647;651;657;660	315
+58	HCC38	SNP-matched-reference	RPMI001	breast	carcinoma	ductal_carcinoma	398;449;486;558;595;609;624;631;638;647;651;657;660	330
+59	HDQP1	SNP-matched-reference	RPMI001	breast	carcinoma	ductal_carcinoma	400;454;538;559;591;598;616;630;643;645;654;659;660	349
+60	HMC18	SNP-not-tested	RPMI001	breast	carcinoma		102;148;271;384;432;484;520;586;605;611;629;643;645;654;659;660	376
+61	HS578T	SNP-matched-reference	DMEM001	breast	carcinoma	ductal_carcinoma	370;486;558;595;609;624;631;638;647;651;657;660	400
+62	JIMT1	SNP-matched-reference	RPMI001	breast	carcinoma	ductal_carcinoma	204;381;465;520;586;605;611;629;643;645;654;659;660	501
+63	KPL1	SNP-matched-reference	DMEM001	breast	carcinoma	ductal_carcinoma	653;658;662	569
+64	MCF7	SNP-matched-reference	DMEM001	breast	carcinoma		387;496;583;611;629;643;645;654;659;660	646
+65	MDAMB157	SNP-unconfirmed	RPMI001	breast	carcinoma	ductal_carcinoma	573;607;628;638;647;651;657;660	648
+66	LOXIMVI	SNP-matched-reference	RPMI001	skin	malignant_melanoma		74;215;285;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	623
+67	MDAMB231	SNP-not-tested	RPMI001	breast	carcinoma		217;372;467;517;576;594;602;608;627;636;646;651;657;660	650
+68	MDAMB361	SNP-matched-reference	RPMI003	breast	carcinoma		428;562;590;593;615;624;631;638;647;651;657;660	651
+69	MDAMB415	SNP-not-tested	RPMI017	breast	carcinoma		633;647;651;657;660	652
+70	MDAMB453	SNP-matched-reference	RPMI001	breast	carcinoma		428;562;590;593;615;624;631;638;647;651;657;660	657
+71	MDAMB468	SNP-matched-reference	DMEM001	breast	carcinoma		66;202;239;350;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	658
+72	SKBR3	SNP-matched-reference	MCCOYS5A001	breast	carcinoma		164;493;568;588;623;631;638;647;651;657;660	1033
+73	T47D	SNP-matched-reference	RPMI018	breast	carcinoma	ductal_carcinoma	410;471;578;610;628;638;647;651;657;660	1175
+74	ZR751	SNP-matched-reference	RPMI001	breast	carcinoma	ductal_carcinoma	533;604;615;624;631;638;647;651;657;660	1285
+75	ZR7530	SNP-matched-reference	RPMI001	breast	carcinoma	ductal_carcinoma	456;535;568;588;623;631;638;647;651;657;660	1286
+76	42MGBA	SNP-matched-reference	RPMIMEM001	central_nervous_system	glioma	astrocytoma_Grade_IV	409;566;589;607;628;638;647;651;657;660	10
+77	8MGBA	SNP-matched-reference	EMEM005	central_nervous_system	glioma	astrocytoma_Grade_IV	330;390;474;570;599;634;646;651;657;660	22
+78	A172	SNP-matched-reference	DMEM001	central_nervous_system	glioma	astrocytoma_Grade_IV	175;207;294;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	25
+79	SW1710	SNP-matched-reference	EMEM005	urinary_tract	carcinoma	transitional_cell_carcinoma	531;598;616;630;643;645;654;659;660	1158
+80	BECKER	SNP-matched-reference	EMEM001	central_nervous_system	glioma	astrocytoma_Grade_IV	36;85;239;350;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	59
+81	CAS1	SNP-matched-reference	DMEM001	central_nervous_system	glioma	astrocytoma_Grade_IV	431;534;564;603;627;636;646;651;657;660	130
+82	CCFSTTG1	SNP-matched-reference	RPMI001	central_nervous_system	glioma	astrocytoma	20;482;633;647;651;657;660	131
+83	D283MED	SNP-matched-reference	EMEM001	central_nervous_system	primitive_neuroectodermal_tumor_medulloblastoma		113;169;288;333;475;513;552;589;607;628;638;647;651;657;660	193
+84	DAOY	SNP-matched-reference	EMEM001	central_nervous_system	primitive_neuroectodermal_tumor_medulloblastoma		2;97;177;359;546;587;599;634;646;651;657;660	202
+85	DBTRG05MG	SNP-not-tested	RPMI001	central_nervous_system	glioma	astrocytoma_Grade_IV	397;519;572;602;608;627;636;646;651;657;660	205
+86	DKMG	SNP-matched-reference	RPMI001	central_nervous_system	glioma	astrocytoma_Grade_IV	134;295;424;502;556;569;601;604;615;624;631;638;647;651;657;660	211
+87	GAMG	SNP-not-tested	DMEM001	central_nervous_system	glioma		115;329;423;480;556;569;601;604;615;624;631;638;647;651;657;660	268
+88	GB1	SNP-matched-reference	EMEM001	central_nervous_system	glioma	astrocytoma_Grade_IV	10;289;408;447;522;564;603;627;636;646;651;657;660	269
+89	GI1	SNP-matched-reference	DMEM001	central_nervous_system	glioma	gliosarcoma	207;294;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	274
+90	GMS10	SNP-matched-reference	MEM001	central_nervous_system	glioma	astrocytoma_Grade_IV	87;224;324;389;420;477;530;545;584;595;609;624;631;638;647;651;657;660	280
+91	GOS3	SNP-matched-reference	DMEM001	central_nervous_system	glioma	astrocytoma	87;224;324;389;420;477;530;545;584;595;609;624;631;638;647;651;657;660	281
+92	HS683	SNP-matched-reference	DMEM001	central_nervous_system	glioma		47;161;197;208;219;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	409
+93	RH18	SNP-matched-reference	RPMI003	soft_tissue	rhabdomyosarcoma	alveolar	467;517;576;594;602;608;627;636;646;651;657;660	973
+94	KG1C	SNP-matched-reference	DMEMF12003	central_nervous_system	glioma	astrocytoma_Grade_IV	544;576;594;602;608;627;636;646;651;657;660	530
+95	KNS42	SNP-matched-reference	MEM001	central_nervous_system	glioma		450;506;570;599;634;646;651;657;660	556
+96	KNS60	SNP-matched-reference	DMEM009	central_nervous_system	glioma	astrocytoma_Grade_IV	236;266;439;499;567;600;609;624;631;638;647;651;657;660	557
+97	KNS81	SNP-matched-reference	DMEM009	central_nervous_system	glioma	astrocytoma_Grade_IV	317;436;613;626;644;655;657;660	559
+98	LN18	SNP-matched-reference	DMEM009	central_nervous_system	glioma	astrocytoma_Grade_IV	114;322;426;523;574;591;598;616;630;643;645;654;659;660	604
+99	LN229	SNP-matched-reference	DMEM009	central_nervous_system	glioma	astrocytoma_Grade_IV	43;158;234;313;381;465;520;586;605;611;629;643;645;654;659;660	606
+100	M059K	SNP-matched-reference	DMEMF12003	central_nervous_system	glioma	astrocytoma_Grade_IV	24;134;295;424;502;556;569;601;604;615;624;631;638;647;651;657;660	638
+101	NMCG1	SNP-matched-reference	DMEM001	central_nervous_system	glioma		515;632;641;654;659;660	855
+102	ONS76	SNP-matched-reference	RPMI001	central_nervous_system	primitive_neuroectodermal_tumor_medulloblastoma		71;205;289;408;447;522;564;603;627;636;646;651;657;660	899
+103	SF126	SNP-matched-reference	EMEM001	central_nervous_system	glioma	astrocytoma	10;289;408;447;522;564;603;627;636;646;651;657;660	1015
+104	SF268	SNP-not-tested	RPMI001				12;55;135;233;281;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	1017
+105	SF295	SNP-matched-reference	RPMI001	central_nervous_system	glioma	astrocytoma_Grade_IV	488;522;564;603;627;636;646;651;657;660	1018
+106	SF539	SNP-matched-reference	RPMI005				12;55;135;233;281;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	1019
+107	SNB75	SNP-matched-reference	RPMI005				376;421;489;562;590;593;615;624;631;638;647;651;657;660	1073
+108	SNU1105	SNP-matched-reference	RPMI001	central_nervous_system	glioma	astrocytoma_Grade_IV	318;443;500;537;550;572;602;608;627;636;646;651;657;660	1083
+109	SNU201	SNP-matched-reference	RPMI001	central_nervous_system	glioma	astrocytoma_Grade_IV	518;603;627;636;646;651;657;660	1092
+110	SNU466	SNP-matched-reference	RPMI001	central_nervous_system	glioma	astrocytoma_Grade_IV	361;582;608;627;636;646;651;657;660	1107
+111	SNU489	SNP-unconfirmed	RPMI001	central_nervous_system	glioma	astrocytoma_Grade_IV	364;452;534;564;603;627;636;646;651;657;660	1110
+112	SNU626	SNP-unconfirmed	RPMI001	central_nervous_system	glioma	astrocytoma_Grade_IV	452;534;564;603;627;636;646;651;657;660	1117
+113	SNU738	SNP-matched-reference	RPMI001	central_nervous_system	glioma	oligodendroglioma	364;452;534;564;603;627;636;646;651;657;660	1121
+114	SW1088	SNP-not-tested	RPMI001	central_nervous_system	glioma		115;329;423;480;556;569;601;604;615;624;631;638;647;651;657;660	1151
+115	SW1783	SNP-not-tested	RPMI001	central_nervous_system	glioma	astrocytoma_Grade_III	620;652;655;657;660	1159
+116	T98G	SNP-not-tested	EMEM001	central_nervous_system	glioma	astrocytoma_Grade_IV	262;506;570;599;634;646;651;657;660	1177
+117	TM31	SNP-matched-reference	MEM001	central_nervous_system	glioma	astrocytoma	65;104;268;402;450;506;570;599;634;646;651;657;660	1204
+118	U118MG	SNP-matched-reference	DMEM001	central_nervous_system	glioma	astrocytoma	213;441;497;557;596;619;629;643;645;654;659;660	1218
+119	U251MG	SNP-matched-reference	MEM001	central_nervous_system	glioma	astrocytoma	81;170;346;468;587;599;634;646;651;657;660	1223
+120	U87MG	SNP-matched-reference	EMEM001	central_nervous_system	glioma	astrocytoma	416;429;581;583;611;629;643;645;654;659;660	1230
+121	YH13	SNP-matched-reference	EMEM005	central_nervous_system	glioma	astrocytoma_Grade_IV	24;134;295;424;502;556;569;601;604;615;624;631;638;647;651;657;660	1282
+122	YKG1	SNP-matched-reference	DMEM001	central_nervous_system	glioma	astrocytoma_Grade_IV	143;278;466;536;566;589;607;628;638;647;651;657;660	1283
+123	HELA	SNP-unconfirmed	DMEM001				596;619;629;643;645;654;659;660	364
+124	ACHN	SNP-matched-reference	EMEM001	kidney	carcinoma	renal_cell_carcinoma	157;211;307;390;474;570;599;634;646;651;657;660	43
+125	EFE184	SNP-matched-reference	RPMI001	endometrium	carcinoma		448;499;567;600;609;624;631;638;647;651;657;660	234
+126	EN	SNP-matched-reference	DMEM001	endometrium	carcinoma		327;441;497;557;596;619;629;643;645;654;659;660	243
+127	ESS1	SNP-matched-reference	RPMI003	endometrium	carcinoma	carcinosarcoma; malignant_mesodermal_mixed_tumor	18;34;117;246;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	248
+128	HEC108	SNP-not-tested	EMEM002	endometrium	carcinoma	adenocarcinoma	94;253;432;484;520;586;605;611;629;643;645;654;659;660	350
+129	HEC151	SNP-not-tested	EMEM002	endometrium	carcinoma	adenocarcinoma	45;125;173;319;379;480;556;569;601;604;615;624;631;638;647;651;657;660	351
+130	HEC1A	SNP-matched-reference	MCCOYS5A001	endometrium	carcinoma	adenocarcinoma	139;301;424;502;556;569;601;604;615;624;631;638;647;651;657;660	352
+131	HEC1B	SNP-matched-reference	EMEM001	endometrium	carcinoma	adenocarcinoma	228;358;445;521;550;572;602;608;627;636;646;651;657;660	353
+132	HEC251	SNP-matched-reference	EMEM002	endometrium	carcinoma	adenocarcinoma	109;269;405;434;476;528;560;586;605;611;629;643;645;654;659;660	354
+133	HEC265	SNP-not-tested	EMEM002	endometrium	carcinoma	adenocarcinoma	546;587;599;634;646;651;657;660	355
+134	HEC50B	SNP-matched-reference	EMEM002	endometrium	carcinoma	adenocarcinoma	402;450;506;570;599;634;646;651;657;660	356
+135	HEC59	SNP-unconfirmed	EMEM002	endometrium	carcinoma	adenocarcinoma	103;205;289;408;447;522;564;603;627;636;646;651;657;660	357
+136	HEC6	SNP-matched-reference	EMEM002	endometrium	carcinoma	adenocarcinoma	109;269;405;434;476;528;560;586;605;611;629;643;645;654;659;660	358
+137	ISHIKAWAHERAKLIO02ER	SNP-not-tested	MEM002	endometrium	carcinoma	adenocarcinoma	94;253;432;484;520;586;605;611;629;643;645;654;659;660	479
+138	JHUEM1	SNP-matched-reference	DMEMF12003	endometrium	carcinoma	adenocarcinoma	57;270;393;423;480;556;569;601;604;615;624;631;638;647;651;657;660	497
+139	JHUEM2	SNP-matched-reference	DMEMF12004	endometrium	carcinoma	adenocarcinoma	283;351;505;541;592;632;641;654;659;660	498
+140	JHUEM3	SNP-matched-reference	DMEMF12004	endometrium	carcinoma	adenocarcinoma	347;433;478;536;566;589;607;628;638;647;651;657;660	499
+141	JHUEM7	SNP-matched-reference	DMEMF12004	endometrium	carcinoma	adenocarcinoma	60;96;187;267;349;411;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	500
+142	KLE	SNP-not-tested	DMEMF12003	endometrium	carcinoma	adenocarcinoma	481;538;559;591;598;616;630;643;645;654;659;660	534
+143	MFE296	SNP-matched-reference	RPMIMEM002	endometrium	carcinoma	adenocarcinoma	75;267;349;411;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	671
+144	MFE319	SNP-matched-reference	RPMIMEM001	endometrium	carcinoma	adenocarcinoma	93;268;402;450;506;570;599;634;646;651;657;660	672
+145	RL952	SNP-matched-reference	RPMI001	endometrium	carcinoma	mixed_adenosquamous_carcinoma	183;261;318;443;500;537;550;572;602;608;627;636;646;651;657;660	981
+146	SNGM	SNP-matched-reference	HAMSF12002	endometrium	carcinoma	adenocarcinoma	84;235;319;379;480;556;569;601;604;615;624;631;638;647;651;657;660	1074
+147	SNU1077	SNP-matched-reference	RPMI001	endometrium	carcinoma	carcinosarcoma; malignant_mesodermal_mixed_tumor	408;447;522;564;603;627;636;646;651;657;660	1081
+148	SNU685	SNP-matched-reference	RPMI001	endometrium	carcinoma	carcinosarcoma; malignant_mesodermal_mixed_tumor	58;74;215;285;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	1119
+149	ALLSIL	SNP-matched-reference	RPMI001	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	541;592;632;641;654;659;660	46
+150	CMLT1	SNP-matched-reference	RPMI001	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	blast_phase; chronic_myeloid_leukaemia	90;264;415;465;520;586;605;611;629;643;645;654;659;660	154
+151	HDMYZ	SNP-matched-reference	RPMI001	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Hodgkin_lymphoma	7;19;64;107;281;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	348
+152	HEL	SNP-matched-reference	RPMI001	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	acute_myeloid_leukaemia	264;415;465;520;586;605;611;629;643;645;654;659;660	362
+153	HS611T	SNP-not-tested	DMEM001	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Hodgkin_lymphoma	60;96;187;267;349;411;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	405
+154	JURKAT	SNP-matched-reference	RPMI001	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	11;80;186;260;374;484;520;586;605;611;629;643;645;654;659;660	508
+155	JVM2	SNP-matched-reference	RPMI001	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	chronic_lymphocytic_leukaemia; small_lymphocytic_lymphoma	563;616;630;643;645;654;659;660	510
+156	KASUMI2	SNP-matched-reference	RPMI001	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	169;288;333;475;513;552;589;607;628;638;647;651;657;660	519
+157	KCL22	SNP-matched-reference	RPMI001	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	blast_phase; chronic_myeloid_leukaemia	5;90;264;415;465;520;586;605;611;629;643;645;654;659;660	524
+158	KMS11	SNP-matched-reference	RPMI001	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma	259;393;423;480;556;569;601;604;615;624;631;638;647;651;657;660	545
+159	KMH2	SNP-matched-reference	RPMI001	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	Hodgkin_lymphoma	11;80;186;260;374;484;520;586;605;611;629;643;645;654;659;660	538
+160	LAMA84	SNP-matched-reference	RPMI001	haematopoietic_and_lymphoid_tissue	haematopoietic_neoplasm	blast_phase; chronic_myeloid_leukaemia	5;90;264;415;465;520;586;605;611;629;643;645;654;659;660	595
+161	MOLP8	SNP-matched-reference	RPMI003	haematopoietic_and_lymphoid_tissue	lymphoid_neoplasm	plasma_cell_myeloma	96;187;267;349;411;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	696
+162	769P	SNP-matched-reference	RPMI001	kidney	carcinoma	clear_cell_renal_cell_carcinoma	181;234;313;381;465;520;586;605;611;629;643;645;654;659;660	16
+163	786O	SNP-matched-reference	RPMI001	kidney	carcinoma	clear_cell_renal_cell_carcinoma	72;104;268;402;450;506;570;599;634;646;651;657;660	19
+164	A498	SNP-matched-reference	EMEM001	kidney	carcinoma	renal_cell_carcinoma	610;628;638;647;651;657;660	33
+165	AN3CA	SNP-matched-reference	EMEM001	endometrium	carcinoma	adenocarcinoma	85;239;350;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	50
+166	BFTC905	SNP-matched-reference	DMEM001	urinary_tract	carcinoma	transitional_cell_carcinoma	120;325;472;507;540;574;591;598;616;630;643;645;654;659;660	61
+167	CAKI1	SNP-matched-reference	MCCOYS5A001	kidney	carcinoma	clear_cell_renal_cell_carcinoma	471;578;610;628;638;647;651;657;660	109
+168	CAKI2	SNP-matched-reference	MCCOYS5A001	kidney	carcinoma	clear_cell_renal_cell_carcinoma	495;532;547;584;595;609;624;631;638;647;651;657;660	110
+169	CAL54	SNP-matched-reference	DMEM011	kidney	carcinoma	renal_cell_carcinoma	347;433;478;536;566;589;607;628;638;647;651;657;660	118
+170	KMRC1	SNP-matched-reference	DMEM001	kidney	carcinoma	clear_cell_renal_cell_carcinoma	121;243;389;420;477;530;545;584;595;609;624;631;638;647;651;657;660	540
+171	KMRC2	SNP-matched-reference	DMEM001	kidney	carcinoma	clear_cell_renal_cell_carcinoma	227;492;549;571;613;626;644;655;657;660	541
+172	KMRC20	SNP-matched-reference	DMEM001	kidney	carcinoma	renal_cell_carcinoma	231;358;445;521;550;572;602;608;627;636;646;651;657;660	542
+173	KMRC3	SNP-matched-reference	DMEM001	kidney	carcinoma	clear_cell_renal_cell_carcinoma	516;590;593;615;624;631;638;647;651;657;660	543
+174	OSRC2	SNP-matched-reference	RPMI001	kidney	carcinoma	renal_cell_carcinoma	519;572;602;608;627;636;646;651;657;660	902
+175	RCC10RGB	SNP-matched-reference	DMEM001	kidney	carcinoma	renal_cell_carcinoma	491;554;618;644;655;657;660	956
+176	SNU1272	SNP-matched-reference	RPMI001	kidney	carcinoma	clear_cell_renal_cell_carcinoma	336;496;583;611;629;643;645;654;659;660	1088
+177	TUHR10TKB	SNP-not-tested	RPMI001	kidney	carcinoma		621;649;652;655;657;660	1213
+178	TUHR14TKB	SNP-matched-reference	RPMI001	kidney	carcinoma		642;649;652;655;657;660	1214
+179	TUHR4TKB	SNP-matched-reference	RPMI001	kidney	carcinoma		322;426;523;574;591;598;616;630;643;645;654;659;660	1216
+180	VMRCRCW	SNP-matched-reference	RPMI001	kidney	carcinoma		276;435;511;600;609;624;631;638;647;651;657;660	1253
+181	JHH2	SNP-matched-reference	EMEM001	liver	carcinoma	hepatocellular_carcinoma	302;495;532;547;584;595;609;624;631;638;647;651;657;660	487
+182	C2BBE1	SNP-matched-reference	DMEM003	large_intestine	carcinoma	adenocarcinoma	252;323;357;494;545;584;595;609;624;631;638;647;651;657;660	102
+183	CCK81	SNP-not-tested	RPMI001	large_intestine	carcinoma	adenocarcinoma	282;560;586;605;611;629;643;645;654;659;660	132
+184	CL11	SNP-matched-reference	DMEMF12006	large_intestine	carcinoma	adenocarcinoma	133;292;448;499;567;600;609;624;631;638;647;651;657;660	147
+185	CL34	SNP-matched-reference	DMEM006	large_intestine	carcinoma	adenocarcinoma	656;661;662	149
+186	COLO201	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	310;345;498;555;575;605;611;629;643;645;654;659;660	155
+187	COLO205	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	334;446;528;560;586;605;611;629;643;645;654;659;660	156
+188	COLO678	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	257;396;510;527;588;623;631;638;647;651;657;660	160
+189	CW2	SNP-matched-reference	RPMI001	large_intestine	carcinoma		282;560;586;605;611;629;643;645;654;659;660	190
+190	DLD1	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	430;523;574;591;598;616;630;643;645;654;659;660	212
+191	HCC56	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	501;530;545;584;595;609;624;631;638;647;651;657;660	337
+192	HCT116	SNP-not-tested	MCCOYS5A001	large_intestine	carcinoma		418;597;619;629;643;645;654;659;660	343
+193	HCT15	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	111;291;326;501;530;545;584;595;609;624;631;638;647;651;657;660	345
+194	HCT8	SNP-unconfirmed	RPMI001	large_intestine	carcinoma	adenocarcinoma	455;557;596;619;629;643;645;654;659;660	346
+195	HT115	SNP-matched-reference	DMEM005	large_intestine	carcinoma		290;304;388;507;540;574;591;598;616;630;643;645;654;659;660	447
+196	HT29	SNP-matched-reference	MCCOYS5A001	large_intestine	carcinoma	adenocarcinoma	418;597;619;629;643;645;654;659;660	451
+197	HT55	SNP-matched-reference	EMEM003	large_intestine	carcinoma	adenocarcinoma	265;469;540;574;591;598;616;630;643;645;654;659;660	452
+198	KM12	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	380;414;502;556;569;601;604;615;624;631;638;647;651;657;660	536
+199	LOVO	SNP-matched-reference	HAMSF12001	large_intestine	carcinoma	adenocarcinoma	166;256;328;460;485;542;567;600;609;624;631;638;647;651;657;660	622
+200	LS1034	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	252;323;357;494;545;584;595;609;624;631;638;647;651;657;660	626
+201	LS123	SNP-matched-reference	EMEM001	large_intestine	carcinoma	adenocarcinoma	210;457;529;581;583;611;629;643;645;654;659;660	627
+202	LS180	SNP-matched-reference	EMEM001	large_intestine	carcinoma	adenocarcinoma	108;249;446;528;560;586;605;611;629;643;645;654;659;660	630
+203	LS411N	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	345;498;555;575;605;611;629;643;645;654;659;660	631
+204	LS513	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	3;108;249;446;528;560;586;605;611;629;643;645;654;659;660	632
+205	MDST8	SNP-matched-reference	DMEM005	large_intestine	carcinoma	adenocarcinoma	206;419;462;504;511;600;609;624;631;638;647;651;657;660	661
+206	NCIH508	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	265;469;540;574;591;598;616;630;643;645;654;659;660	128003
+207	NCIH747	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	404;489;562;590;593;615;624;631;638;647;651;657;660	155356
+208	OUMS23	SNP-matched-reference	DMEM001	large_intestine	carcinoma	adenocarcinoma	385;533;604;615;624;631;638;647;651;657;660	903
+209	RCM1	SNP-matched-reference	RPMIF12001	large_intestine	carcinoma	adenocarcinoma	314;363;420;477;530;545;584;595;609;624;631;638;647;651;657;660	960
+210	RKO	SNP-matched-reference	MEM001	large_intestine	carcinoma	adenocarcinoma	92;296;379;480;556;569;601;604;615;624;631;638;647;651;657;660	979
+211	SKCO1	SNP-matched-reference	EMEM001	large_intestine	carcinoma	adenocarcinoma	150;249;446;528;560;586;605;611;629;643;645;654;659;660	1034
+212	SNU1033	SNP-matched-reference	RPMI001	large_intestine	carcinoma		437;516;590;593;615;624;631;638;647;651;657;660	1076
+213	A549	SNP-matched-reference	RPMI001	lung	carcinoma	non_small_cell_carcinoma	142;258;414;502;556;569;601;604;615;624;631;638;647;651;657;660	35
+214	ASPC1	SNP-matched-reference	RPMI001	pancreas	carcinoma	ductal_carcinoma	140;320;412;477;530;545;584;595;609;624;631;638;647;651;657;660	52
+215	SNU407	SNP-not-tested	RPMI001	large_intestine	carcinoma		45;125;173;319;379;480;556;569;601;604;615;624;631;638;647;651;657;660	1102
+216	SNU503	SNP-matched-reference	RPMI001	large_intestine	carcinoma		391;427;532;547;584;595;609;624;631;638;647;651;657;660	1112
+217	SNU61	SNP-matched-reference	RPMI001	large_intestine	carcinoma		348;476;528;560;586;605;611;629;643;645;654;659;660	1115
+218	SNU81	SNP-matched-reference	RPMI001	large_intestine	carcinoma		648;656;661;662	1124
+219	SNUC2A	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	237;355;481;538;559;591;598;616;630;643;645;654;659;660	1131
+220	SNUC4	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	250;352;455;557;596;619;629;643;645;654;659;660	1133
+221	SNUC5	SNP-not-tested	RPMI001	large_intestine	carcinoma	adenocarcinoma	156;284;406;485;542;567;600;609;624;631;638;647;651;657;660	1134
+222	SW1116	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	621;649;652;655;657;660	1152
+223	SW1417	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	323;357;494;545;584;595;609;624;631;638;647;651;657;660	1155
+224	SW1463	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	639;648;656;661;662	1156
+225	NCIH1299	SNP-matched-reference	RPMI001	lung	carcinoma	non_small_cell_carcinoma	153;269;405;434;476;528;560;586;605;611;629;643;645;654;659;660	155395
+226	SW48	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	150;249;446;528;560;586;605;611;629;643;645;654;659;660	1162
+227	SW620	SNP-matched-reference	L15001	large_intestine	carcinoma	adenocarcinoma	168;297;451;529;581;583;611;629;643;645;654;659;660	1166
+228	CCFSTTG1	SNP-matched-reference	RPMI001	central_nervous_system	glioma	astrocytoma	20;482;633;647;651;657;660	131
+229	SW948	SNP-matched-reference	RPMI001	large_intestine	carcinoma	adenocarcinoma	320;412;477;530;545;584;595;609;624;631;638;647;651;657;660	1170
+230	T84	SNP-matched-reference	DMEMF12003	large_intestine	carcinoma	adenocarcinoma	171;338;421;489;562;590;593;615;624;631;638;647;651;657;660	1176
+231	HEP3B217	SNP-matched-reference	EMEM001	liver	carcinoma	hepatocellular_carcinoma	416;429;581;583;611;629;643;645;654;659;660	365
+232	HEPG2	SNP-matched-reference	DMEM001	liver	carcinoma	hepatocellular_carcinoma	512;575;605;611;629;643;645;654;659;660	366
+233	HLF	SNP-matched-reference	DMEM009	liver	carcinoma	hepatocellular_carcinoma	61;117;246;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	374
+234	HUH1	SNP-matched-reference	DMEM001	liver	carcinoma	hepatocellular_carcinoma	332;394;490;558;595;609;624;631;638;647;651;657;660	457
+235	HUH6	SNP-matched-reference	DMEM001	liver		hepatoblastoma	565;601;604;615;624;631;638;647;651;657;660	459
+236	JHH1	SNP-matched-reference	WILLIAMSE001	liver	carcinoma	hepatocellular_carcinoma	188;240;363;420;477;530;545;584;595;609;624;631;638;647;651;657;660	486
+237	VMRCRCZ	SNP-matched-reference	EMEM001	kidney	carcinoma	renal_cell_carcinoma	192;315;412;477;530;545;584;595;609;624;631;638;647;651;657;660	1254
+238	JHH4	SNP-matched-reference	EMEM001	liver	carcinoma	hepatocellular_carcinoma	111;291;326;501;530;545;584;595;609;624;631;638;647;651;657;660	488
+239	JHH5	SNP-matched-reference	WILLIAMSE001	liver	carcinoma	hepatocellular_carcinoma	360;396;510;527;588;623;631;638;647;651;657;660	489
+240	NCIH524	SNP-matched-reference	WILLIAMSE001	lung	carcinoma	small_cell_carcinoma	585;617;650;659;660	155326
+241	LI7	SNP-matched-reference	RPMI001	liver	carcinoma	hepatocellular_carcinoma	343;366;454;538;559;591;598;616;630;643;645;654;659;660	601
+242	PLCPRF5	SNP-unconfirmed	EMEM001	liver	carcinoma	hepatocellular_carcinoma	93;268;402;450;506;570;599;634;646;651;657;660	950
+243	SKHEP1	SNP-matched-reference	EMEM001	liver	carcinoma	adenocarcinoma	157;211;307;390;474;570;599;634;646;651;657;660	1036
+244	SW1353	SNP-matched-reference	RPMI001	bone	chondrosarcoma		183;261;318;443;500;537;550;572;602;608;627;636;646;651;657;660	1154
+245	SNU387	SNP-matched-reference	RPMI001	liver	carcinoma	hepatocellular_carcinoma	391;427;532;547;584;595;609;624;631;638;647;651;657;660	1100
+246	SNU398	SNP-matched-reference	RPMI001	liver	carcinoma	hepatocellular_carcinoma	606;612;630;643;645;654;659;660	1101
+247	SNU423	SNP-matched-reference	RPMI001	liver	carcinoma	hepatocellular_carcinoma	38;50;175;207;294;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	1104
+248	SNU449	SNP-matched-reference	RPMI001	liver	carcinoma	hepatocellular_carcinoma	176;315;412;477;530;545;584;595;609;624;631;638;647;651;657;660	1105
+249	SNU475	SNP-matched-reference	RPMI001	liver	carcinoma	hepatocellular_carcinoma	482;633;647;651;657;660	1108
+250	SNU761	SNP-matched-reference	RPMI001	liver	carcinoma	hepatocellular_carcinoma	311;439;499;567;600;609;624;631;638;647;651;657;660	1122
+251	SNU878	SNP-matched-reference	RPMI001	liver	carcinoma	hepatocellular_carcinoma	343;366;454;538;559;591;598;616;630;643;645;654;659;660	1127
+252	SNU886	SNP-matched-reference	RPMI001	liver	carcinoma	hepatocellular_carcinoma	612;630;643;645;654;659;660	1128
+253	A549	SNP-matched-reference	DMEM001	lung	carcinoma	non_small_cell_carcinoma	401;470;555;575;605;611;629;643;645;654;659;660	35
+254	BEN	SNP-matched-reference	DMEM001	lung	carcinoma		637;653;658;662	60
+255	CAL12T	SNP-matched-reference	DMEM001	lung	carcinoma	non_small_cell_carcinoma	251;430;523;574;591;598;616;630;643;645;654;659;660	112
+256	CALU1	SNP-matched-reference	MCCOYS5A001	lung	carcinoma	squamous_cell_carcinoma	407;580;623;631;638;647;651;657;660	122
+257	CALU3	SNP-matched-reference	EMEM001	lung	carcinoma	adenocarcinoma	244;340;417;521;550;572;602;608;627;636;646;651;657;660	123
+258	CALU6	SNP-matched-reference	MEM001	lung	carcinoma	undifferentiated_carcinoma	191;354;386;457;529;581;583;611;629;643;645;654;659;660	124
+259	CHAGOK1	SNP-matched-reference	RPMI007	lung	carcinoma		100;190;294;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	141
+260	COLO668	SNP-unconfirmed	RPMI007	lung	carcinoma	small_cell_carcinoma	86;190;294;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	158
+261	COLO699	SNP-unconfirmed	RPMI001				237;355;481;538;559;591;598;616;630;643;645;654;659;660	164
+262	CORL105	SNP-matched-reference	RPMI007	lung	carcinoma	adenocarcinoma	257;396;510;527;588;623;631;638;647;651;657;660	174
+263	CORL95	SNP-matched-reference	RPMI007	lung	carcinoma	small_cell_carcinoma	232;479;553;573;607;628;638;647;651;657;660	183
+264	DMS114	SNP-matched-reference	WAYMOUTH002	lung	carcinoma	small_cell_carcinoma	42;187;267;349;411;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	215
+265	DMS273	SNP-matched-reference	WAYMOUTH001	lung	carcinoma	small_cell_carcinoma	53;122;202;239;350;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	217
+266	DMS454	SNP-not-tested	WAYMOUTH002	lung	carcinoma	small_cell_carcinoma	403;553;573;607;628;638;647;651;657;660	218
+267	DMS53	SNP-matched-reference	WAYMOUTH002	lung	carcinoma	small_cell_carcinoma	403;553;573;607;628;638;647;651;657;660	219
+268	DV90	SNP-unconfirmed	RPMI001	lung	carcinoma	adenocarcinoma	127;208;219;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	227
+269	EBC1	SNP-matched-reference	MEM001	lung	carcinoma	squamous_cell_carcinoma	328;460;485;542;567;600;609;624;631;638;647;651;657;660	230
+270	EKVX	SNP-not-tested	RPMI005				453;526;580;623;631;638;647;651;657;660	241
+271	EPLC272H	SNP-matched-reference	RPMI003	lung	carcinoma	squamous_cell_carcinoma	241;399;503;551;565;601;604;615;624;631;638;647;651;657;660	246
+272	HARA	SNP-matched-reference	RPMI001	lung	carcinoma	squamous_cell_carcinoma	44;185;223;366;454;538;559;591;598;616;630;643;645;654;659;660	293
+273	HCC1171	SNP-matched-reference	RPMI001	lung	carcinoma	non_small_cell_carcinoma	544;576;594;602;608;627;636;646;651;657;660	296
+274	HCC1195	SNP-unconfirmed	RPMI001	lung	carcinoma	mixed_adenosquamous_carcinoma	284;406;485;542;567;600;609;624;631;638;647;651;657;660	298
+275	HCC1438	SNP-unconfirmed	RPMI001	lung	carcinoma	large_cell_carcinoma	22;55;135;233;281;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	303
+276	HCC15	SNP-matched-reference	RPMI001	lung	carcinoma	squamous_cell_carcinoma	223;366;454;538;559;591;598;616;630;643;645;654;659;660	304
+277	HCC1588	SNP-matched-reference	RPMI001	lung	carcinoma	squamous_cell_carcinoma	3;108;249;446;528;560;586;605;611;629;643;645;654;659;660	307
+278	HCC1833	SNP-unconfirmed	RPMI001	lung	carcinoma	adenocarcinoma	355;481;538;559;591;598;616;630;643;645;654;659;660	310
+279	HCC2108	SNP-unconfirmed	RPMI001	lung	carcinoma	adenocarcinoma	153;269;405;434;476;528;560;586;605;611;629;643;645;654;659;660	316
+280	HCC2279	SNP-matched-reference	RPMI001	lung	carcinoma	adenocarcinoma	105;261;318;443;500;537;550;572;602;608;627;636;646;651;657;660	319
+281	HCC2935	SNP-matched-reference	RPMI001	lung	carcinoma	non_small_cell_carcinoma	526;580;623;631;638;647;651;657;660	324
+282	HCC33	SNP-matched-reference	RPMI003	lung	carcinoma	small_cell_carcinoma	661;662	326
+283	HCC366	SNP-not-tested	RPMI001	lung	carcinoma	mixed_adenosquamous_carcinoma	63;203;260;374;484;520;586;605;611;629;643;645;654;659;660	328
+284	HCC4006	SNP-matched-reference	RPMI001	lung	carcinoma	adenocarcinoma	360;396;510;527;588;623;631;638;647;651;657;660	331
+285	HCC44	SNP-matched-reference	RPMI001	lung	carcinoma	adenocarcinoma	131;189;274;400;454;538;559;591;598;616;630;643;645;654;659;660	332
+286	HCC78	SNP-matched-reference	RPMI001	lung	carcinoma	adenocarcinoma	174;384;432;484;520;586;605;611;629;643;645;654;659;660	339
+287	HCC827	SNP-matched-reference	RPMI001	lung	carcinoma	adenocarcinoma	198;469;540;574;591;598;616;630;643;645;654;659;660	340
+288	HCC95	SNP-matched-reference	RPMI001	lung	carcinoma	squamous_cell_carcinoma	209;367;472;507;540;574;591;598;616;630;643;645;654;659;660	342
+289	HOP62	SNP-matched-reference	RPMI005				312;404;489;562;590;593;615;624;631;638;647;651;657;660	381
+290	HOP92	SNP-matched-reference	RPMI005				407;580;623;631;638;647;651;657;660	382
+291	IALM	SNP-not-tested	HAMSF10001	lung	carcinoma	large_cell_carcinoma	578;610;628;638;647;651;657;660	469
+292	KNS62	SNP-matched-reference	EMEM005	lung	carcinoma	squamous_cell_carcinoma	81;170;346;468;587;599;634;646;651;657;660	558
+293	LC1SQSF	SNP-matched-reference	RPMI001	lung	carcinoma	squamous_cell_carcinoma	147;378;547;584;595;609;624;631;638;647;651;657;660	598
+294	LCLC103H	SNP-matched-reference	RPMI001	lung	carcinoma	large_cell_carcinoma	253;432;484;520;586;605;611;629;643;645;654;659;660	599
+295	LCLC97TM1	SNP-not-tested	RPMI003	lung	carcinoma	large_cell_carcinoma	154;275;329;423;480;556;569;601;604;615;624;631;638;647;651;657;660	600
+296	LK2	SNP-matched-reference	RPMI001	lung	carcinoma	squamous_cell_carcinoma	137;350;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	602
+297	LOUNH91	SNP-not-tested	RPMI001	lung	carcinoma	squamous_cell_carcinoma	276;435;511;600;609;624;631;638;647;651;657;660	621
+298	LU99	SNP-matched-reference	RPMI001	lung	carcinoma	large_cell_carcinoma	44;185;223;366;454;538;559;591;598;616;630;643;645;654;659;660	634
+299	LUDLU1	SNP-matched-reference	RPMI001	lung	carcinoma	squamous_cell_carcinoma	230;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	635
+300	LXF289	SNP-matched-reference	HAMSF10001	lung	carcinoma	adenocarcinoma	77;193;335;419;462;504;511;600;609;624;631;638;647;651;657;660	636
+301	MORCPR	SNP-matched-reference	RPMI001	lung	carcinoma	adenocarcinoma	102;148;271;384;432;484;520;586;605;611;629;643;645;654;659;660	703
+302	NCIH1155	SNP-unconfirmed	DMEMF12003	lung	carcinoma	large_cell_carcinoma	56;97;177;359;546;587;599;634;646;651;657;660	155388
+303	NCIH1184	SNP-matched-reference	RPMI001	lung	carcinoma	small_cell_carcinoma	199;377;460;485;542;567;600;609;624;631;638;647;651;657;660	155390
+304	NCIH1299	SNP-matched-reference	RPMI001	lung	carcinoma	non_small_cell_carcinoma	103;205;289;408;447;522;564;603;627;636;646;651;657;660	155395
+305	NCIH1339	SNP-matched-reference	RPMI003	lung	carcinoma	small_cell_carcinoma	18;34;117;246;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	155399
+306	NCIH1341	SNP-matched-reference	RPMI005	lung	carcinoma	small_cell_carcinoma	113;169;288;333;475;513;552;589;607;628;638;647;651;657;660	155400
+307	NCIH1355	SNP-matched-reference	RPMI005	lung	carcinoma	adenocarcinoma	151;275;329;423;480;556;569;601;604;615;624;631;638;647;651;657;660	155401
+308	NCIH1373	SNP-not-tested	RPMI003	lung	carcinoma	adenocarcinoma	158;234;313;381;465;520;586;605;611;629;643;645;654;659;660	155402
+309	NCIH1395	SNP-matched-reference	RPMI001	lung	carcinoma	adenocarcinoma	483;524;593;615;624;631;638;647;651;657;660	127978
+310	NCIH1435	SNP-matched-reference	RPMI001	lung	carcinoma	non_small_cell_carcinoma	442;504;511;600;609;624;631;638;647;651;657;660	155407
+311	NCIH1563	SNP-matched-reference	RPMI001	lung	carcinoma	adenocarcinoma	571;613;626;644;655;657;660	155421
+312	NCIH1568	SNP-matched-reference	RPMI001	lung	carcinoma	non_small_cell_carcinoma	112;218;349;411;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	155422
+313	NCIH1573	SNP-matched-reference	RPMI005	lung	carcinoma	adenocarcinoma	551;565;601;604;615;624;631;638;647;651;657;660	155424
+314	NCIH1581	SNP-matched-reference	DMEMF12003	lung	carcinoma	large_cell_carcinoma	177;359;546;587;599;634;646;651;657;660	155425
+315	NCIH1623	SNP-matched-reference	RPMI001	lung	carcinoma	adenocarcinoma	280;527;588;623;631;638;647;651;657;660	155431
+316	NCIH1650	SNP-matched-reference	RPMI001	lung	carcinoma	bronchioloalveolar_adenocarcinoma	212;372;467;517;576;594;602;608;627;636;646;651;657;660	155434
+317	NCIH1651	SNP-matched-reference	RPMI001	lung	carcinoma	adenocarcinoma	539;569;601;604;615;624;631;638;647;651;657;660	155435
+318	NCIH1666	SNP-unconfirmed	RPMI005	lung	carcinoma	bronchioloalveolar_adenocarcinoma	292;448;499;567;600;609;624;631;638;647;651;657;660	127983
+319	NCIH1693	SNP-unconfirmed	RPMI005	lung	carcinoma	adenocarcinoma	478;536;566;589;607;628;638;647;651;657;660	155439
+320	NCIH1703	SNP-matched-reference	RPMI001	lung	carcinoma	adenocarcinoma	35;79;263;373;409;566;589;607;628;638;647;651;657;660	155441
+321	NCIH1734	SNP-not-tested	RPMI001	lung	carcinoma	adenocarcinoma	351;505;541;592;632;641;654;659;660	155445
+322	NCIH1755	SNP-not-tested	RPMI001	lung	carcinoma	adenocarcinoma	473;508;561;594;602;608;627;636;646;651;657;660	127984
+323	A375	SNP-matched-reference	RPMI001	skin	malignant_melanoma		277;341;462;504;511;600;609;624;631;638;647;651;657;660	30
+324	NCIH1792	SNP-matched-reference	RPMI001	lung	carcinoma	adenocarcinoma	126;258;414;502;556;569;601;604;615;624;631;638;647;651;657;660	155450
+325	NCIH1793	SNP-matched-reference	DMEMF12002	lung	carcinoma	non_small_cell_carcinoma	606;612;630;643;645;654;659;660	155451
+326	NCIH1838	SNP-not-tested	RPMI001	lung	carcinoma	non_small_cell_carcinoma	279;340;417;521;550;572;602;608;627;636;646;651;657;660	155455
+327	HCC1428	SNP-matched-reference	RPMI001	breast	carcinoma		303;342;483;524;593;615;624;631;638;647;651;657;660	302
+328	NCIH1915	SNP-matched-reference	RPMI011	lung	carcinoma	large_cell_carcinoma	245;314;363;420;477;530;545;584;595;609;624;631;638;647;651;657;660	155463
+329	NCIH1944	SNP-matched-reference	RPMI001	lung	carcinoma	non_small_cell_carcinoma	167;230;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	155467
+330	NCIH196	SNP-matched-reference	RPMI001	lung	carcinoma	small_cell_carcinoma	238;426;523;574;591;598;616;630;643;645;654;659;660	155294
+331	AGS	SNP-matched-reference	RPMI001	stomach	carcinoma	adenocarcinoma	563;616;630;643;645;654;659;660	44
+332	NCIH2009	SNP-matched-reference	RPMI001	lung	carcinoma	adenocarcinoma	274;400;454;538;559;591;598;616;630;643;645;654;659;660	155476
+333	NCIH2023	SNP-matched-reference	DMEMF12002	lung	carcinoma	adenocarcinoma	247;392;512;575;605;611;629;643;645;654;659;660	155477
+334	NCIH2029	SNP-matched-reference	DMEMF12002	lung	carcinoma	small_cell_carcinoma	272;449;486;558;595;609;624;631;638;647;651;657;660	155479
+335	NCIH2030	SNP-matched-reference	RPMI001	lung	carcinoma	non_small_cell_carcinoma	222;365;445;521;550;572;602;608;627;636;646;651;657;660	155480
+336	A549	SNP-matched-reference	RPMI001	lung	carcinoma	non_small_cell_carcinoma	142;258;414;502;556;569;601;604;615;624;631;638;647;651;657;660	35
+337	NCIH2085	SNP-not-tested	RPMI005	lung	carcinoma	adenocarcinoma	508;561;594;602;608;627;636;646;651;657;660	155488
+338	NCIH2087	SNP-matched-reference	RPMI005	lung	carcinoma	adenocarcinoma	133;292;448;499;567;600;609;624;631;638;647;651;657;660	127988
+339	NCIH211	SNP-not-tested	RPMI001	lung	carcinoma	small_cell_carcinoma	88;144;186;260;374;484;520;586;605;611;629;643;645;654;659;660	155295
+340	NCIH2110	SNP-matched-reference	RPMI001	lung	carcinoma	non_small_cell_carcinoma	52;101;161;197;208;219;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	155493
+341	NCIH2122	SNP-matched-reference	RPMI001	lung	carcinoma	adenocarcinoma	380;414;502;556;569;601;604;615;624;631;638;647;651;657;660	127990
+342	NCIH2126	SNP-matched-reference	DMEMF12002	lung	carcinoma	adenocarcinoma	160;287;335;419;462;504;511;600;609;624;631;638;647;651;657;660	155494
+343	NCIH2170	SNP-matched-reference	RPMI001	lung	carcinoma	squamous_cell_carcinoma	178;280;527;588;623;631;638;647;651;657;660	155498
+344	NCIH2172	SNP-not-tested	RPMI001	lung	carcinoma	non_small_cell_carcinoma	336;496;583;611;629;643;645;654;659;660	155500
+345	NCIH2196	SNP-matched-reference	DMEMF12002	lung	carcinoma	small_cell_carcinoma	232;479;553;573;607;628;638;647;651;657;660	155502
+346	NCIH2228	SNP-not-tested	RPMI001	lung	carcinoma	adenocarcinoma	362;542;567;600;609;624;631;638;647;651;657;660	155505
+347	NCIH2452	SNP-matched-reference	RPMI001	pleura	mesothelioma		229;362;542;567;600;609;624;631;638;647;651;657;660	155520
+348	NCIH2286	SNP-matched-reference	RPMI001	lung	carcinoma	small_cell_carcinoma	531;598;616;630;643;645;654;659;660	155510
+349	NCIH2291	SNP-matched-reference	RPMI001	lung	carcinoma	adenocarcinoma	582;608;627;636;646;651;657;660	155511
+350	NCIH23	SNP-matched-reference	RPMI001	lung	carcinoma	non_small_cell_carcinoma	14;64;107;281;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	127991
+351	NCIH2342	SNP-matched-reference	RPMI004	lung	carcinoma	adenocarcinoma	300;342;483;524;593;615;624;631;638;647;651;657;660	155513
+352	NCIH2405	SNP-matched-reference	RPMI001	lung	carcinoma	adenocarcinoma	309;415;465;520;586;605;611;629;643;645;654;659;660	155518
+353	NCIH2444	SNP-matched-reference	RPMI001	lung	carcinoma	non_small_cell_carcinoma	436;613;626;644;655;657;660	155519
+354	H292	SNP-matched-reference	RPMI001	lung	carcinoma	mucoepidermoid_carcinoma	119;422;500;537;550;572;602;608;627;636;646;651;657;660	290
+355	NCIH322	SNP-matched-reference	RPMI007	lung	carcinoma	adenocarcinoma	124;219;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	155305
+356	NCIH358	SNP-matched-reference	RPMI001	lung	carcinoma	bronchioloalveolar_adenocarcinoma	185;223;366;454;538;559;591;598;616;630;643;645;654;659;660	127997
+357	NCIH441	SNP-not-tested	RPMI001	lung	carcinoma	adenocarcinoma	435;511;600;609;624;631;638;647;651;657;660	127999
+358	NCIH446	SNP-matched-reference	RPMI001	lung	carcinoma	small_cell_carcinoma	116;259;393;423;480;556;569;601;604;615;624;631;638;647;651;657;660	128000
+359	NCIH460	SNP-matched-reference	RPMI001	lung	carcinoma	large_cell_carcinoma	254;468;587;599;634;646;651;657;660	128001
+360	NCIH520	SNP-matched-reference	RPMI001	lung	carcinoma	squamous_cell_carcinoma	57;270;393;423;480;556;569;601;604;615;624;631;638;647;651;657;660	155324
+361	NCIH522	SNP-matched-reference	RPMI001	lung	carcinoma	non_small_cell_carcinoma	50;175;207;294;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	155325
+362	NCIH460	SNP-matched-reference	RPMI001	lung	carcinoma	large_cell_carcinoma	254;468;587;599;634;646;651;657;660	128001
+363	NCIH647	SNP-matched-reference	RPMI001	lung	carcinoma	mixed_adenosquamous_carcinoma	130;195;285;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	155339
+364	NCIH650	SNP-matched-reference	RPMI001	lung	carcinoma	bronchioloalveolar_adenocarcinoma	293;309;415;465;520;586;605;611;629;643;645;654;659;660	155340
+365	NCIH661	SNP-matched-reference	RPMI005	lung	carcinoma	large_cell_carcinoma	125;173;319;379;480;556;569;601;604;615;624;631;638;647;651;657;660	128005
+366	NCIH520	SNP-matched-reference	RPMI001	lung	carcinoma	squamous_cell_carcinoma	180;308;374;484;520;586;605;611;629;643;645;654;659;660	155324
+367	NCIH727	SNP-matched-reference	RPMI001	lung	carcinoid_endocrine_tumor		306;434;476;528;560;586;605;611;629;643;645;654;659;660	155352
+368	NCIH810	SNP-not-tested	DMEMF12002	lung	carcinoma	large_cell_carcinoma	100;190;294;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	155362
+369	NCIH838	SNP-matched-reference	RPMI001	lung	carcinoma	non_small_cell_carcinoma	112;218;349;411;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	155365
+370	NCIH841	SNP-matched-reference	DMEMF12002	lung	carcinoma	small_cell_carcinoma	25;36;85;239;350;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	155366
+371	PC14	SNP-matched-reference	RPMI001	lung	carcinoma	non_small_cell_carcinoma	198;469;540;574;591;598;616;630;643;645;654;659;660	931
+372	RERFLCAD1	SNP-not-tested	RPMI001	lung	carcinoma	adenocarcinoma	617;650;659;660	967
+373	RERFLCAD2	SNP-matched-reference	RPMI001	lung	carcinoma	adenocarcinoma	165;368;378;547;584;595;609;624;631;638;647;651;657;660	968
+374	RERFLCAI	SNP-matched-reference	EMEM001	lung	carcinoma	squamous_cell_carcinoma	2;97;177;359;546;587;599;634;646;651;657;660	969
+375	RERFLCMS	SNP-matched-reference	EMEM001	lung	carcinoma	non_small_cell_carcinoma	25;36;85;239;350;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	971
+376	SBC5	SNP-not-tested	EMEM001	lung	carcinoma	small_cell_carcinoma	359;546;587;599;634;646;651;657;660	1005
+377	SKLU1	SNP-matched-reference	MEM001	lung	carcinoma	adenocarcinoma	297;451;529;581;583;611;629;643;645;654;659;660	1038
+378	SKMES1	SNP-matched-reference	DMEM001	lung	carcinoma	squamous_cell_carcinoma	41;69;197;208;219;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	1048
+379	SQ1	SNP-not-tested	RPMI001	lung	carcinoma	squamous_cell_carcinoma	473;508;561;594;602;608;627;636;646;651;657;660	1135
+380	SW1271	SNP-matched-reference	RPMI001	lung	carcinoma	small_cell_carcinoma	311;439;499;567;600;609;624;631;638;647;651;657;660	1153
+381	SW1573	SNP-matched-reference	L15001	lung	carcinoma	squamous_cell_carcinoma	634;646;651;657;660	1157
+382	T3M10	SNP-matched-reference	HAMSF12001	lung	carcinoma	large_cell_carcinoma	427;532;547;584;595;609;624;631;638;647;651;657;660	1173
+383	VMRCLCD	SNP-matched-reference	MEM001	lung	carcinoma	adenocarcinoma	122;202;239;350;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	1251
+384	COLO680N	SNP-matched-reference	RPMI001	oesophagus	carcinoma	squamous_cell_carcinoma	123;313;381;465;520;586;605;611;629;643;645;654;659;660	162
+385	ECGI10	SNP-not-tested	HAMSF12001	oesophagus	carcinoma		196;326;501;530;545;584;595;609;624;631;638;647;651;657;660	233
+386	KYSE140	SNP-matched-reference	RPMI001	oesophagus	carcinoma	squamous_cell_carcinoma	251;430;523;574;591;598;616;630;643;645;654;659;660	580
+387	KYSE150	SNP-matched-reference	RPMIF12001	oesophagus	carcinoma	squamous_cell_carcinoma	139;301;424;502;556;569;601;604;615;624;631;638;647;651;657;660	581
+388	KYSE180	SNP-matched-reference	RPMI001	oesophagus	carcinoma	squamous_cell_carcinoma	6;32;148;271;384;432;484;520;586;605;611;629;643;645;654;659;660	582
+389	KYSE30	SNP-matched-reference	RPMIF12001	oesophagus	carcinoma	squamous_cell_carcinoma	221;312;404;489;562;590;593;615;624;631;638;647;651;657;660	584
+390	KYSE410	SNP-matched-reference	RPMI001	oesophagus	carcinoma	squamous_cell_carcinoma	151;275;329;423;480;556;569;601;604;615;624;631;638;647;651;657;660	585
+391	KYSE450	SNP-matched-reference	RPMIF12001	oesophagus	carcinoma	squamous_cell_carcinoma	70;250;352;455;557;596;619;629;643;645;654;659;660	586
+392	KYSE510	SNP-matched-reference	RPMI001	oesophagus	carcinoma	squamous_cell_carcinoma	170;346;468;587;599;634;646;651;657;660	587
+393	KYSE520	SNP-matched-reference	RPMI001	oesophagus	carcinoma	squamous_cell_carcinoma	147;378;547;584;595;609;624;631;638;647;651;657;660	588
+394	KYSE70	SNP-matched-reference	RPMI001	oesophagus	carcinoma	squamous_cell_carcinoma	77;193;335;419;462;504;511;600;609;624;631;638;647;651;657;660	589
+395	OE19	SNP-matched-reference	RPMI001	oesophagus	carcinoma	adenocarcinoma	352;455;557;596;619;629;643;645;654;659;660	894
+396	OE21	SNP-matched-reference	RPMI001	oesophagus	carcinoma	squamous_cell_carcinoma	30;101;161;197;208;219;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	895
+397	OE33	SNP-matched-reference	RPMI001	oesophagus		metaplasia	466;536;566;589;607;628;638;647;651;657;660	896
+398	TE1	SNP-matched-reference	RPMI001	oesophagus	carcinoma	squamous_cell_carcinoma	89;155;321;382;442;504;511;600;609;624;631;638;647;651;657;660	1184
+399	TE10	SNP-matched-reference	RPMI001	oesophagus	carcinoma	squamous_cell_carcinoma	43;158;234;313;381;465;520;586;605;611;629;643;645;654;659;660	1185
+400	TE11	SNP-matched-reference	RPMI001	oesophagus	carcinoma	squamous_cell_carcinoma	17;31;52;101;161;197;208;219;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	1186
+401	TE14	SNP-matched-reference	RPMI001	oesophagus	carcinoma	squamous_cell_carcinoma	78;124;219;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	1188
+402	TE15	SNP-matched-reference	RPMI001	oesophagus	carcinoma	squamous_cell_carcinoma	30;101;161;197;208;219;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	1189
+403	TE4	SNP-matched-reference	RPMI001	oesophagus	carcinoma	squamous_cell_carcinoma	145;367;472;507;540;574;591;598;616;630;643;645;654;659;660	1191
+404	TE5	SNP-matched-reference	RPMI001	oesophagus	carcinoma	squamous_cell_carcinoma	86;190;294;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	1193
+405	TE6	SNP-matched-reference	RPMI001	oesophagus	carcinoma	squamous_cell_carcinoma	145;367;472;507;540;574;591;598;616;630;643;645;654;659;660	1194
+406	TE8	SNP-matched-reference	RPMI001	oesophagus	carcinoma	squamous_cell_carcinoma	54;236;266;439;499;567;600;609;624;631;638;647;651;657;660	1196
+407	TE9	SNP-matched-reference	RPMI001	oesophagus	carcinoma	squamous_cell_carcinoma	6;32;148;271;384;432;484;520;586;605;611;629;643;645;654;659;660	1197
+408	A2780	SNP-matched-reference	RPMI001	ovary	carcinoma	adenocarcinoma	118;270;393;423;480;556;569;601;604;615;624;631;638;647;651;657;660	29
+409	CAOV3	SNP-matched-reference	DMEM001	ovary	carcinoma	adenocarcinoma	256;328;460;485;542;567;600;609;624;631;638;647;651;657;660	126
+410	COV318	SNP-unconfirmed	DMEM005	ovary	carcinoma		286;497;557;596;619;629;643;645;654;659;660	184
+411	COV362	SNP-matched-reference	DMEM005	ovary	carcinoma		413;490;558;595;609;624;631;638;647;651;657;660	185
+412	COV434	SNP-matched-reference	DMEM005	ovary	sex_cord_stromal_tumor	granulosa_cell_tumor	42;187;267;349;411;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	186
+413	COV644	SNP-matched-reference	DMEM005	ovary	carcinoma		370;486;558;595;609;624;631;638;647;651;657;660	188
+414	DOV13	SNP-matched-reference	RPMI001				110;299;488;522;564;603;627;636;646;651;657;660	223
+415	EFO21	SNP-unconfirmed	RPMI010	ovary	carcinoma	serous_carcinoma	58;74;215;285;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	237
+416	EFO27	SNP-matched-reference	RPMI010	ovary	carcinoma	mucinous_carcinoma	176;315;412;477;530;545;584;595;609;624;631;638;647;651;657;660	238
+417	ES2	SNP-matched-reference	RPMI001	ovary	carcinoma	clear_cell_carcinoma	110;299;488;522;564;603;627;636;646;651;657;660	247
+418	FUOV1	SNP-matched-reference	DMEMF12006	ovary	carcinoma	serous_carcinoma	517;576;594;602;608;627;636;646;651;657;660	261
+419	HEYA8	SNP-not-tested	EMEM003	ovary	carcinoma		67;168;297;451;529;581;583;611;629;643;645;654;659;660	367
+420	IGROV1	SNP-matched-reference	RPMI001	ovary	carcinoma	adenocarcinoma	216;399;503;551;565;601;604;615;624;631;638;647;651;657;660	473
+421	JHOC5	SNP-matched-reference	DMEMF12004	ovary	carcinoma	clear_cell_carcinoma	181;234;313;381;465;520;586;605;611;629;643;645;654;659;660	492
+422	JHOM1	SNP-matched-reference	DMEMF12004	ovary	carcinoma	adenocarcinoma	302;495;532;547;584;595;609;624;631;638;647;651;657;660	493
+423	JHOS2	SNP-matched-reference	DMEMF12003	ovary	carcinoma	adenocarcinoma	224;324;389;420;477;530;545;584;595;609;624;631;638;647;651;657;660	495
+424	KURAMOCHI	SNP-matched-reference	RPMI001	ovary	carcinoma	undifferentiated_carcinoma	337;443;500;537;550;572;602;608;627;636;646;651;657;660	577
+425	MCAS	SNP-matched-reference	EMEM005	ovary	carcinoma	adenocarcinoma	84;235;319;379;480;556;569;601;604;615;624;631;638;647;651;657;660	644
+426	OAW28	SNP-matched-reference	DMEM007	ovary	carcinoma		300;342;483;524;593;615;624;631;638;647;651;657;660	879
+427	OAW42	SNP-matched-reference	DMEM007	ovary	carcinoma		246;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	880
+428	OC314	SNP-matched-reference	RPMI005	ovary	carcinoma	serous_carcinoma	22;55;135;233;281;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	881
+429	ONCODG1	SNP-not-tested	RPMI001	ovary	carcinoma	adenocarcinoma	63;203;260;374;484;520;586;605;611;629;643;645;654;659;660	898
+430	OV56	SNP-matched-reference	DMEMF12005	ovary	carcinoma		330;390;474;570;599;634;646;651;657;660	905
+431	OV7	SNP-matched-reference	DMEMF12007	ovary	carcinoma		339;475;513;552;589;607;628;638;647;651;657;660	906
+432	OV90	SNP-not-tested	MCDB001	ovary	carcinoma	mixed_carcinoma	305;458;494;545;584;595;609;624;631;638;647;651;657;660	907
+433	OVCAR4	SNP-not-tested	RPMI001	ovary	carcinoma		386;457;529;581;583;611;629;643;645;654;659;660	908
+434	OVCAR5	SNP-unconfirmed	RPMI005				221;312;404;489;562;590;593;615;624;631;638;647;651;657;660	909
+435	OVCAR8	SNP-matched-reference	RPMI001	ovary	carcinoma		59;235;319;379;480;556;569;601;604;615;624;631;638;647;651;657;660	910
+436	OVISE	SNP-matched-reference	RPMI001	ovary	carcinoma	clear_cell_carcinoma	299;488;522;564;603;627;636;646;651;657;660	911
+437	OVK18	SNP-matched-reference	MEM001	ovary	carcinoma	endometrioid_carcinoma	98;138;199;377;460;485;542;567;600;609;624;631;638;647;651;657;660	912
+438	IGROV1	SNP-matched-reference	RPMI001	ovary	carcinoma	adenocarcinoma	216;399;503;551;565;601;604;615;624;631;638;647;651;657;660	473
+439	MKN74	SNP-matched-reference	RPMI001	stomach	carcinoma	tubular_adenocarcinoma	179;303;342;483;524;593;615;624;631;638;647;651;657;660	685
+440	OVSAHO	SNP-matched-reference	RPMI001	ovary	carcinoma	adenocarcinoma	337;443;500;537;550;572;602;608;627;636;646;651;657;660	915
+441	OVTOKO	SNP-matched-reference	RPMI001	ovary	carcinoma	clear_cell_carcinoma	231;358;445;521;550;572;602;608;627;636;646;651;657;660	916
+442	RMGI	SNP-matched-reference	HAMSF12001	ovary	carcinoma	clear_cell_carcinoma	141;382;442;504;511;600;609;624;631;638;647;651;657;660	983
+443	OAW28	SNP-matched-reference	HAMSF12001	ovary	carcinoma		141;382;442;504;511;600;609;624;631;638;647;651;657;660	879
+444	SKOV3	SNP-matched-reference	MCCOYS5A001	ovary	carcinoma	adenocarcinoma	277;341;462;504;511;600;609;624;631;638;647;651;657;660	1059
+445	SNU119	SNP-unconfirmed	RPMI001	ovary	carcinoma	adenocarcinoma	279;340;417;521;550;572;602;608;627;636;646;651;657;660	1084
+446	SNU8	SNP-matched-reference	RPMI001	ovary	carcinoma	adenocarcinoma	21;149;204;381;465;520;586;605;611;629;643;645;654;659;660	1123
+447	SNU840	SNP-not-tested	RPMI001	ovary	carcinoma	Brenner_tumor	509;561;594;602;608;627;636;646;651;657;660	1125
+448	TOV112D	SNP-matched-reference	MCDB002	ovary	carcinoma	endometrioid_carcinoma	106;233;281;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	1208
+449	TOV21G	SNP-matched-reference	MCDB001	ovary	carcinoma	clear_cell_carcinoma	474;570;599;634;646;651;657;660	1209
+450	TYKNU	SNP-not-tested	EMEM001	ovary	carcinoma	undifferentiated_carcinoma	67;168;297;451;529;581;583;611;629;643;645;654;659;660	1217
+451	ASPC1	SNP-matched-reference	RPMI001	pancreas	carcinoma	ductal_carcinoma	140;320;412;477;530;545;584;595;609;624;631;638;647;651;657;660	52
+452	BXPC3	SNP-matched-reference	RPMI001	pancreas	carcinoma	ductal_carcinoma	189;274;400;454;538;559;591;598;616;630;643;645;654;659;660	101
+453	CAPAN1	SNP-matched-reference	IMDM003	pancreas	carcinoma	ductal_carcinoma	316;433;478;536;566;589;607;628;638;647;651;657;660	128
+454	CAPAN2	SNP-not-tested	MCCOYS5A001	pancreas	carcinoma	ductal_carcinoma	376;421;489;562;590;593;615;624;631;638;647;651;657;660	129
+455	CFPAC1	SNP-matched-reference	DMEM001	pancreas	carcinoma	ductal_carcinoma	401;470;555;575;605;611;629;643;645;654;659;660	138
+456	DANG	SNP-matched-reference	RPMI001	pancreas	carcinoma		213;441;497;557;596;619;629;643;645;654;659;660	201
+457	HPAC	SNP-matched-reference	DMEMF12002	pancreas	carcinoma	ductal_carcinoma	392;512;575;605;611;629;643;645;654;659;660	384
+458	HPAFII	SNP-matched-reference	EMEM001	pancreas	carcinoma	ductal_carcinoma	344;365;445;521;550;572;602;608;627;636;646;651;657;660	385
+459	HS766T	SNP-matched-reference	DMEM001	pancreas	carcinoma	ductal_carcinoma	437;516;590;593;615;624;631;638;647;651;657;660	421
+460	HUPT3	SNP-matched-reference	MEM001	pancreas	carcinoma		324;389;420;477;530;545;584;595;609;624;631;638;647;651;657;660	462
+461	HUPT4	SNP-not-tested	MEM001	pancreas	carcinoma		166;256;328;460;485;542;567;600;609;624;631;638;647;651;657;660	463
+462	KP2	SNP-matched-reference	RPMI001	pancreas	carcinoma		188;240;363;420;477;530;545;584;595;609;624;631;638;647;651;657;660	566
+463	KP3	SNP-matched-reference	RPMI001	pancreas	carcinoma	ductal_carcinoma	348;476;528;560;586;605;611;629;643;645;654;659;660	567
+464	KP4	SNP-matched-reference	DMEMF12003	pancreas	carcinoma	ductal_carcinoma	56;97;177;359;546;587;599;634;646;651;657;660	568
+465	L33	SNP-matched-reference	RPMI001	pancreas	carcinoma		296;379;480;556;569;601;604;615;624;631;638;647;651;657;660	591
+466	MIAPACA2	SNP-matched-reference	DMEM001	pancreas	carcinoma	ductal_carcinoma	7;19;64;107;281;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	679
+467	PANC0203	SNP-matched-reference	RPMI009	pancreas	carcinoma		240;363;420;477;530;545;584;595;609;624;631;638;647;651;657;660	920
+468	PANC0327	SNP-matched-reference	RPMI009	pancreas	carcinoma	ductal_carcinoma	34;117;246;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	922
+469	PANC0403	SNP-matched-reference	RPMI009	pancreas	carcinoma		136;245;314;363;420;477;530;545;584;595;609;624;631;638;647;651;657;660	923
+470	PANC0504	SNP-matched-reference	RPMI001	pancreas	carcinoma		321;382;442;504;511;600;609;624;631;638;647;651;657;660	924
+471	PANC0813	SNP-unconfirmed	RPMI020	pancreas	carcinoma	ductal_carcinoma	146;301;424;502;556;569;601;604;615;624;631;638;647;651;657;660	925
+472	HS934T	SNP-matched-reference	DMEM001	skin	malignant_melanoma		548;618;644;655;657;660	436
+473	PANC1005	SNP-not-tested	RPMI006	pancreas	carcinoma	ductal_carcinoma	171;338;421;489;562;590;593;615;624;631;638;647;651;657;660	927
+474	PATU8902	SNP-not-tested	DMEM001	pancreas	carcinoma	ductal_carcinoma	463;543;597;619;629;643;645;654;659;660	928
+475	PATU8988S	SNP-matched-reference	DMEM005	pancreas	carcinoma	ductal_carcinoma	357;494;545;584;595;609;624;631;638;647;651;657;660	929
+476	PATU8988T	SNP-matched-reference	DMEM001	pancreas	carcinoma	ductal_carcinoma	327;441;497;557;596;619;629;643;645;654;659;660	930
+477	PK1	SNP-not-tested	RPMI001	pancreas	carcinoma		70;250;352;455;557;596;619;629;643;645;654;659;660	944
+478	PK45H	SNP-matched-reference	RPMI001	pancreas	carcinoma		165;368;378;547;584;595;609;624;631;638;647;651;657;660	945
+479	PK59	SNP-matched-reference	RPMI001	pancreas	carcinoma		89;155;321;382;442;504;511;600;609;624;631;638;647;651;657;660	946
+480	PSN1	SNP-matched-reference	RPMI007	pancreas	carcinoma	ductal_carcinoma	37;106;233;281;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	952
+481	QGP1	SNP-matched-reference	RPMI001	pancreas	carcinoma		334;446;528;560;586;605;611;629;643;645;654;659;660	954
+482	SNU213	SNP-matched-reference	RPMI001	pancreas	carcinoma		537;550;572;602;608;627;636;646;651;657;660	1093
+483	SNU410	SNP-matched-reference	RPMI001	pancreas	carcinoma		626;644;655;657;660	1103
+484	SU8686	SNP-matched-reference	RPMI001	pancreas	carcinoma	ductal_carcinoma	266;439;499;567;600;609;624;631;638;647;651;657;660	1138
+485	SUIT2	SNP-matched-reference	RPMI001	pancreas	carcinoma	ductal_carcinoma	625;637;653;658;662	1145
+486	SW1990	SNP-matched-reference	RPMI001	pancreas	carcinoma	ductal_carcinoma	130;195;285;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	1160
+487	TCCPAN2	SNP-matched-reference	RPMI001	pancreas	carcinoma		217;372;467;517;576;594;602;608;627;636;646;651;657;660	1182
+488	YAPC	SNP-matched-reference	RPMI001	pancreas	carcinoma		247;392;512;575;605;611;629;643;645;654;659;660	1277
+489	ACCMESO1	SNP-matched-reference	RPMI001	pleura	mesothelioma		447;522;564;603;627;636;646;651;657;660	41
+490	CAL51	SNP-matched-reference	DMEM006	breast	carcinoma		15;180;308;374;484;520;586;605;611;629;643;645;654;659;660	117
+491	ISTMES1	SNP-matched-reference	DMEM012	pleura	mesothelioma		332;394;490;558;595;609;624;631;638;647;651;657;660	480
+492	JL1	SNP-matched-reference	DMEM005	pleura	mesothelioma		492;549;571;613;626;644;655;657;660	504
+493	MPP89	SNP-matched-reference	DMEM001	pleura	mesothelioma		278;466;536;566;589;607;628;638;647;651;657;660	705
+494	MSTO211H	SNP-matched-reference	RPMI001	pleura	mesothelioma		377;460;485;542;567;600;609;624;631;638;647;651;657;660	706
+495	NCIH2052	SNP-not-tested	RPMI001	pleura	mesothelioma		220;397;519;572;602;608;627;636;646;651;657;660	155481
+496	NCIH226	SNP-matched-reference	RPMI001	lung	carcinoma	squamous_cell_carcinoma	317;436;613;626;644;655;657;660	155297
+497	NCIH28	SNP-not-tested	RPMI001	pleura	mesothelioma		40;99;203;260;374;484;520;586;605;611;629;643;645;654;659;660	155285
+498	22RV1	SNP-matched-reference	RPMI001	prostate	carcinoma		132;405;434;476;528;560;586;605;611;629;643;645;654;659;660	7
+499	DU145	SNP-matched-reference	EMEM001	prostate	carcinoma		46;211;307;390;474;570;599;634;646;651;657;660	225
+500	LNCAPCLONEFGC	SNP-not-tested	RPMI001	prostate	carcinoma	adenocarcinoma	53;122;202;239;350;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	618
+501	PC3	SNP-matched-reference	F12K001	prostate	carcinoma	adenocarcinoma	255;410;471;578;610;628;638;647;651;657;660	932
+502	VCAP	SNP-matched-reference	DMEM001	prostate	carcinoma	adenocarcinoma	272;449;486;558;595;609;624;631;638;647;651;657;660	1249
+503	A253	SNP-matched-reference	MCCOYS5A001	salivary_gland	carcinoma	mucoepidermoid_carcinoma	461;579;622;635;645;654;659;660	28
+504	YD15	SNP-matched-reference	RPMI001	salivary_gland	carcinoma	mucoepidermoid_carcinoma	29;82;194;290;304;388;507;540;574;591;598;616;630;643;645;654;659;660	1279
+505	A101D	SNP-matched-reference	DMEM001	skin	malignant_melanoma		394;490;558;595;609;624;631;638;647;651;657;660	23
+506	A2058	SNP-matched-reference	DMEM001	skin	malignant_melanoma		73;286;497;557;596;619;629;643;645;654;659;660	27
+507	A375	SNP-matched-reference	DMEM001	skin	malignant_melanoma		293;309;415;465;520;586;605;611;629;643;645;654;659;660	30
+508	C32	SNP-matched-reference	EMEM001	skin	malignant_melanoma		461;579;622;635;645;654;659;660	103
+509	CJM	SNP-matched-reference	HAMSF10001	skin	malignant_melanoma		129;196;326;501;530;545;584;595;609;624;631;638;647;651;657;660	146
+510	NCIH1869	SNP-matched-reference	RPMI001	lung	carcinoma	squamous_cell_carcinoma	51;243;389;420;477;530;545;584;595;609;624;631;638;647;651;657;660	155456
+511	COLO741	SNP-not-tested	RPMI001	skin	malignant_melanoma		635;645;654;659;660	166
+512	KE39	SNP-matched-reference	RPMI001	stomach	carcinoma		453;526;580;623;631;638;647;651;657;660	526
+513	COLO792	SNP-unconfirmed	RPMI007	skin	malignant_melanoma		305;458;494;545;584;595;609;624;631;638;647;651;657;660	169
+514	COLO800	SNP-matched-reference	RPMI001	skin	malignant_melanoma		95;225;425;487;577;614;640;650;659;660	170
+515	COLO829	SNP-matched-reference	RPMI001	skin	malignant_melanoma		95;225;425;487;577;614;640;650;659;660	172
+516	G361	SNP-matched-reference	MCCOYS5A001	skin	malignant_melanoma		128;287;335;419;462;504;511;600;609;624;631;638;647;651;657;660	263
+517	HMCB	SNP-matched-reference	EMEM003	skin	malignant_melanoma		73;286;497;557;596;619;629;643;645;654;659;660	377
+518	HS294T	SNP-matched-reference	DMEM001	skin	malignant_melanoma		19;64;107;281;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	395
+519	HS688AT	SNP-not-tested	DMEM001	skin	malignant_melanoma		548;618;644;655;657;660	410
+520	HS839T	SNP-matched-reference	DMEM001	skin	malignant_melanoma		549;571;613;626;644;655;657;660	426
+521	HS852T	SNP-matched-reference	DMEM002	skin	malignant_melanoma		341;462;504;511;600;609;624;631;638;647;651;657;660	428
+522	HS895T	SNP-matched-reference	DMEM001	skin	malignant_melanoma		227;492;549;571;613;626;644;655;657;660	434
+523	PANC1	SNP-matched-reference	DMEM001	pancreas	carcinoma	ductal_carcinoma	658;662	926
+524	HS936T	SNP-matched-reference	DMEM002	skin	malignant_melanoma		160;287;335;419;462;504;511;600;609;624;631;638;647;651;657;660	437
+525	HS940T	SNP-matched-reference	DMEM001	skin	malignant_melanoma		525;554;618;644;655;657;660	439
+526	HS944T	SNP-matched-reference	RPMI001	skin	malignant_melanoma		156;284;406;485;542;567;600;609;624;631;638;647;651;657;660	440
+527	HT144	SNP-matched-reference	MCCOYS5A001	skin	malignant_melanoma		48;172;225;425;487;577;614;640;650;659;660	450
+528	IGR1	SNP-matched-reference	DMEM001	skin	malignant_melanoma		248;444;514;539;569;601;604;615;624;631;638;647;651;657;660	470
+529	IGR37	SNP-not-tested	DMEM011	skin	malignant_melanoma		201;248;444;514;539;569;601;604;615;624;631;638;647;651;657;660	471
+530	IGR39	SNP-matched-reference	DMEM011	skin	malignant_melanoma		413;490;558;595;609;624;631;638;647;651;657;660	472
+531	IPC298	SNP-matched-reference	RPMI001	skin	malignant_melanoma		16;242;310;345;498;555;575;605;611;629;643;645;654;659;660	478
+532	K029AX	SNP-matched-reference	RPMI001	skin	malignant_melanoma		201;248;444;514;539;569;601;604;615;624;631;638;647;651;657;660	512
+533	LOXIMVI	SNP-matched-reference	RPMI001	skin	malignant_melanoma		354;386;457;529;581;583;611;629;643;645;654;659;660	623
+534	MALME3M	SNP-not-tested	RPMI001	skin	malignant_melanoma		640;650;659;660	641
+535	MDAMB435S	SNP-matched-reference	RPMI001	skin	malignant_melanoma		191;354;386;457;529;581;583;611;629;643;645;654;659;660	655
+536	MELHO	SNP-matched-reference	RPMI001	skin	malignant_melanoma		242;310;345;498;555;575;605;611;629;643;645;654;659;660	666
+537	MELJUSO	SNP-matched-reference	RPMI001	skin	malignant_melanoma		59;235;319;379;480;556;569;601;604;615;624;631;638;647;651;657;660	667
+538	MEWO	SNP-matched-reference	EMEM001	skin	malignant_melanoma		136;245;314;363;420;477;530;545;584;595;609;624;631;638;647;651;657;660	669
+539	RPMI7951	SNP-matched-reference	DMEM001	skin	malignant_melanoma		120;325;472;507;540;574;591;598;616;630;643;645;654;659;660	991
+540	SH4	SNP-unconfirmed	DMEM001	skin	malignant_melanoma		577;614;640;650;659;660	1025
+541	SKMEL2	SNP-not-tested	EMEM001	skin	malignant_melanoma		585;617;650;659;660	1041
+542	SKMEL24	SNP-matched-reference	EMEM003	skin	malignant_melanoma		487;577;614;640;650;659;660	1042
+543	SKMEL28	SNP-not-tested	EMEM001	skin	malignant_melanoma		614;640;650;659;660	1043
+544	SKMEL3	SNP-unconfirmed	MCCOYS5A003	skin	malignant_melanoma		438;524;593;615;624;631;638;647;651;657;660	1044
+545	SKMEL30	SNP-matched-reference	RPMI001	skin	malignant_melanoma		16;242;310;345;498;555;575;605;611;629;643;645;654;659;660	1045
+546	SKMEL31	SNP-not-tested	EMEM002	skin	malignant_melanoma		353;451;529;581;583;611;629;643;645;654;659;660	1046
+547	SKMEL5	SNP-not-tested	EMEM001	skin	malignant_melanoma		353;451;529;581;583;611;629;643;645;654;659;660	1047
+548	UACC257	SNP-matched-reference	RPMI001	skin	malignant_melanoma		375;425;487;577;614;640;650;659;660	1232
+549	UACC62	SNP-matched-reference	RPMI001	skin	malignant_melanoma		200;375;425;487;577;614;640;650;659;660	1233
+550	WM115	SNP-matched-reference	EMEM001	skin	malignant_melanoma		33;200;375;425;487;577;614;640;650;659;660	1255
+551	WM1799	SNP-unconfirmed	RPMI001	skin	malignant_melanoma		49;206;419;462;504;511;600;609;624;631;638;647;651;657;660	1256
+552	WM2664	SNP-matched-reference	EMEM001	skin	malignant_melanoma		33;200;375;425;487;577;614;640;650;659;660	1260
+553	WM793	SNP-matched-reference	RPMI001	skin	malignant_melanoma		49;206;419;462;504;511;600;609;624;631;638;647;651;657;660	1270
+554	WM88	SNP-matched-reference	RPMI001	skin	malignant_melanoma		48;172;225;425;487;577;614;640;650;659;660	1271
+555	WM983B	SNP-matched-reference	RPMI001	skin	malignant_melanoma		172;225;425;487;577;614;640;650;659;660	1273
+556	A204	SNP-matched-reference	MCCOYS5A001	soft_tissue	rhabdoid_tumor		79;263;373;409;566;589;607;628;638;647;651;657;660	26
+557	G401	SNP-matched-reference	MCCOYS5A001	soft_tissue	rhabdoid_tumor		38;50;175;207;294;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	264
+558	G402	SNP-matched-reference	MCCOYS5A001	soft_tissue	rhabdoid_tumor		9;35;79;263;373;409;566;589;607;628;638;647;651;657;660	265
+559	GCT	SNP-matched-reference	MCCOYS5A001	soft_tissue	malignant_fibrous_histiocytoma_pleomorphic_sarcoma		184;218;349;411;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	271
+560	HS729	SNP-matched-reference	DMEM001	soft_tissue	rhabdomyosarcoma		83;184;218;349;411;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	414
+561	HT1080	SNP-matched-reference	EMEM001	soft_tissue	fibrosarcoma		37;106;233;281;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	446
+562	KYM1	SNP-matched-reference	DMEMF12003	soft_tissue	rhabdomyosarcoma		411;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	578
+563	MESSA	SNP-matched-reference	MCCOYS5A001	soft_tissue	sarcoma		579;622;635;645;654;659;660	668
+564	RD	SNP-matched-reference	DMEM001	soft_tissue	rhabdomyosarcoma	embryonal	14;64;107;281;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	961
+565	KALS1	SNP-matched-reference	RPMI003	central_nervous_system	glioma		154;275;329;423;480;556;569;601;604;615;624;631;638;647;651;657;660	514
+566	RH30	SNP-matched-reference	RPMI001	soft_tissue	rhabdomyosarcoma	alveolar	138;199;377;460;485;542;567;600;609;624;631;638;647;651;657;660	975
+567	RH41	SNP-matched-reference	RPMI001	soft_tissue	rhabdomyosarcoma	alveolar	144;186;260;374;484;520;586;605;611;629;643;645;654;659;660	976
+568	RKN	SNP-matched-reference	HAMSF12001	soft_tissue	leiomyosarcoma		210;457;529;581;583;611;629;643;645;654;659;660	978
+569	SNU245	SNP-matched-reference	RPMI001	biliary_tract	carcinoma		636;646;651;657;660	1095
+570	SKLMS1	SNP-unconfirmed	EMEM001	soft_tissue	sarcoma		72;104;268;402;450;506;570;599;634;646;651;657;660	1037
+571	SKUT1	SNP-matched-reference	EMEM001	soft_tissue	leiomyosarcoma		26;65;104;268;402;450;506;570;599;634;646;651;657;660	1063
+572	DU145	SNP-matched-reference	EMEM001	prostate	carcinoma		46;211;307;390;474;570;599;634;646;651;657;660	225
+573	TE441T	SNP-matched-reference	DMEM001	soft_tissue	rhabdomyosarcoma		552;589;607;628;638;647;651;657;660	1192
+574	TE617T	SNP-matched-reference	DMEM001	soft_tissue	rhabdomyosarcoma		69;197;208;219;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	1195
+575	2313287	SNP-matched-reference	RPMI001	stomach	carcinoma	adenocarcinoma	174;384;432;484;520;586;605;611;629;643;645;654;659;660	4
+576	AGS	SNP-matched-reference	F12K001	stomach	carcinoma	adenocarcinoma	226;470;555;575;605;611;629;643;645;654;659;660	44
+577	ECC10	SNP-matched-reference	RPMI001	stomach	carcinoma	small_cell_adenocarcinoma	214;406;485;542;567;600;609;624;631;638;647;651;657;660	231
+578	ECC12	SNP-unconfirmed	RPMI001	stomach	carcinoma	small_cell_adenocarcinoma	40;99;203;260;374;484;520;586;605;611;629;643;645;654;659;660	232
+579	FU97	SNP-matched-reference	DMEM004	stomach	carcinoma	diffuse_adenocarcinoma	387;496;583;611;629;643;645;654;659;660	259
+580	GSS	SNP-not-tested	RPMI001	stomach	carcinoma	adenocarcinoma	88;144;186;260;374;484;520;586;605;611;629;643;645;654;659;660	285
+581	GSU	SNP-matched-reference	RPMI001	stomach	carcinoma	adenocarcinoma	498;555;575;605;611;629;643;645;654;659;660	286
+582	HGC27	SNP-matched-reference	MEM001	stomach	carcinoma	undifferentiated_adenocarcinoma	118;270;393;423;480;556;569;601;604;615;624;631;638;647;651;657;660	368
+583	HS746T	SNP-matched-reference	DMEM001	stomach	carcinoma		143;278;466;536;566;589;607;628;638;647;651;657;660	418
+584	IM95	SNP-matched-reference	DMEM001	stomach	carcinoma	intestinal_adenocarcinoma	127;208;219;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	474
+585	KE39	SNP-matched-reference	RPMI001	stomach	carcinoma		159;306;434;476;528;560;586;605;611;629;643;645;654;659;660	526
+586	LMSU	SNP-not-tested	HAMSF10001	stomach	carcinoma	adenocarcinoma	263;373;409;566;589;607;628;638;647;651;657;660	603
+587	MKN1	SNP-matched-reference	RPMI001	stomach	carcinoma	mixed_adenosquamous_carcinoma	431;534;564;603;627;636;646;651;657;660	682
+588	MKN45	SNP-matched-reference	RPMI001	stomach	carcinoma	diffuse_adenocarcinoma	625;637;653;658;662	683
+589	MKN7	SNP-matched-reference	RPMI001	stomach	carcinoma	tubular_adenocarcinoma	179;303;342;483;524;593;615;624;631;638;647;651;657;660	684
+590	MKN74	SNP-matched-reference	RPMI001	stomach	carcinoma	tubular_adenocarcinoma	173;319;379;480;556;569;601;604;615;624;631;638;647;651;657;660	685
+591	NCIN87	SNP-matched-reference	RPMI001	stomach	carcinoma		388;507;540;574;591;598;616;630;643;645;654;659;660	134841
+592	NUGC3	SNP-matched-reference	RPMI001	stomach	carcinoma		128;287;335;419;462;504;511;600;609;624;631;638;647;651;657;660	877
+593	OCUM1	SNP-matched-reference	DMEM010	stomach	carcinoma	diffuse_adenocarcinoma	622;635;645;654;659;660	893
+594	SH10TC	SNP-matched-reference	RPMI001	stomach	carcinoma		137;350;383;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	1024
+595	SNU216	SNP-matched-reference	RPMI001	stomach	carcinoma		163;338;421;489;562;590;593;615;624;631;638;647;651;657;660	1094
+596	SNU601	SNP-matched-reference	RPMI001	stomach	carcinoma		135;233;281;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	1114
+597	SNU668	SNP-matched-reference	RPMI001	stomach	carcinoma	signet_ring_adenocarcinoma	62;119;422;500;537;550;572;602;608;627;636;646;651;657;660	1118
+598	SNU719	SNP-matched-reference	RPMI001	stomach	carcinoma		159;306;434;476;528;560;586;605;611;629;643;645;654;659;660	1120
+599	8305C	SNP-matched-reference	DMEM001	thyroid	carcinoma	anaplastic_carcinoma	21;149;204;381;465;520;586;605;611;629;643;645;654;659;660	20
+600	8505C	SNP-matched-reference	EMEM001	thyroid	carcinoma	anaplastic_carcinoma	71;205;289;408;447;522;564;603;627;636;646;651;657;660	21
+601	BCPAP	SNP-matched-reference	RPMI001	thyroid	carcinoma	papillary_carcinoma	149;204;381;465;520;586;605;611;629;643;645;654;659;660	57
+602	BHT101	SNP-matched-reference	DMEM006	thyroid	carcinoma	anaplastic_carcinoma	114;322;426;523;574;591;598;616;630;643;645;654;659;660	64
+603	CAL62	SNP-matched-reference	DMEM001	thyroid	carcinoma	anaplastic_carcinoma	273;371;515;632;641;654;659;660	119
+604	CGTHW1	SNP-matched-reference	RPMI001	thyroid	carcinoma	follicular_carcinoma	373;409;566;589;607;628;638;647;651;657;660	139
+605	FTC133	SNP-not-tested	DMEMF12001	thyroid	carcinoma	follicular_carcinoma	307;390;474;570;599;634;646;651;657;660	257
+606	FTC238	SNP-matched-reference	DMEMF12003	thyroid	carcinoma	follicular_carcinoma	13;61;117;246;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	258
+607	ML1	SNP-not-tested	DMEM006	thyroid	carcinoma	follicular_carcinoma	229;362;542;567;600;609;624;631;638;647;651;657;660	686
+608	SW579	SNP-matched-reference	DMEM001	thyroid	carcinoma	anaplastic_carcinoma	9;35;79;263;373;409;566;589;607;628;638;647;651;657;660	1165
+609	TTTHYROID	SNP-matched-reference	RPMI001	thyroid	carcinoma	medullary_carcinoma	209;367;472;507;540;574;591;598;616;630;643;645;654;659;660	1212
+610	TT2609C02	SNP-matched-reference	RPMI003	thyroid	carcinoma	follicular_carcinoma	215;285;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	1210
+611	BHY	SNP-matched-reference	DMEM001	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	76;194;290;304;388;507;540;574;591;598;616;630;643;645;654;659;660	65
+612	BICR16	SNP-matched-reference	DMEM013	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	146;301;424;502;556;569;601;604;615;624;631;638;647;651;657;660	66
+613	BICR18	SNP-matched-reference	DMEM013	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	195;285;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	67
+614	BICR22	SNP-matched-reference	DMEM013	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	31;52;101;161;197;208;219;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	68
+615	BICR31	SNP-matched-reference	DMEM013	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	27;121;243;389;420;477;530;545;584;595;609;624;631;638;647;651;657;660	69
+616	BICR56	SNP-matched-reference	DMEM013	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	356;510;527;588;623;631;638;647;651;657;660	70
+617	BICR6	SNP-matched-reference	DMEM005	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	47;161;197;208;219;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	71
+618	CAL27	SNP-matched-reference	DMEM001	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	39;291;326;501;530;545;584;595;609;624;631;638;647;651;657;660	114
+619	CAL33	SNP-matched-reference	DMEM005	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	78;124;219;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	116
+620	DETROIT562	SNP-matched-reference	EMEM001	upper_aerodigestive_tract	carcinoma		162;228;358;445;521;550;572;602;608;627;636;646;651;657;660	208
+621	FADU	SNP-matched-reference	EMEM001	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	152;346;468;587;599;634;646;651;657;660	255
+622	HSC2	SNP-matched-reference	EMEM001	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	129;196;326;501;530;545;584;595;609;624;631;638;647;651;657;660	441
+623	HSC3	SNP-matched-reference	EMEM001	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	162;228;358;445;521;550;572;602;608;627;636;646;651;657;660	442
+624	HSC4	SNP-not-tested	EMEM001	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	152;346;468;587;599;634;646;651;657;660	443
+625	PECAPJ41CLONED2	SNP-matched-reference	IMDM005	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	178;280;527;588;623;631;638;647;651;657;660	939
+626	PECAPJ34CLONEC12	SNP-matched-reference	IMDM005	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	1;4;17;31;52;101;161;197;208;219;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	937
+627	PECAPJ15	SNP-matched-reference	IMDM005	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	1;4;17;31;52;101;161;197;208;219;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	935
+628	PECAPJ49	SNP-matched-reference	IMDM002	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	4;17;31;52;101;161;197;208;219;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	940
+629	SCC25	SNP-unconfirmed	DMEMF12005	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	241;399;503;551;565;601;604;615;624;631;638;647;651;657;660	1008
+630	SCC4	SNP-matched-reference	DMEMF12003	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	298;356;510;527;588;623;631;638;647;651;657;660	1009
+631	SCC9	SNP-not-tested	DMEMF12005	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	27;121;243;389;420;477;530;545;584;595;609;624;631;638;647;651;657;660	1010
+632	SNU1041	SNP-unconfirmed	RPMI001	upper_aerodigestive_tract	carcinoma		222;365;445;521;550;572;602;608;627;636;646;651;657;660	1078
+633	SNU1066	SNP-unconfirmed	RPMI001	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	385;533;604;615;624;631;638;647;651;657;660	1079
+634	SNU1076	SNP-matched-reference	RPMI001	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	76;194;290;304;388;507;540;574;591;598;616;630;643;645;654;659;660	1080
+635	SNU1214	SNP-matched-reference	RPMI001	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	182;304;388;507;540;574;591;598;616;630;643;645;654;659;660	1087
+636	SNU46	SNP-matched-reference	RPMI001	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	422;500;537;550;572;602;608;627;636;646;651;657;660	1106
+637	SNU899	SNP-matched-reference	RPMI001	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	62;119;422;500;537;550;572;602;608;627;636;646;651;657;660	1129
+638	YD10B	SNP-matched-reference	RPMI001	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	182;304;388;507;540;574;591;598;616;630;643;645;654;659;660	1278
+639	YD38	SNP-matched-reference	RPMI001	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	29;82;194;290;304;388;507;540;574;591;598;616;630;643;645;654;659;660	1280
+640	YD8	SNP-matched-reference	RPMI001	upper_aerodigestive_tract	carcinoma	squamous_cell_carcinoma	212;372;467;517;576;594;602;608;627;636;646;651;657;660	1281
+641	253J	SNP-unconfirmed	DMEM001	urinary_tract	carcinoma	transitional_cell_carcinoma	308;374;484;520;586;605;611;629;643;645;654;659;660	8
+642	253JBV	SNP-unconfirmed	DMEM001	urinary_tract	carcinoma	transitional_cell_carcinoma	273;371;515;632;641;654;659;660	9
+643	5637	SNP-matched-reference	RPMI001	urinary_tract	carcinoma		131;189;274;400;454;538;559;591;598;616;630;643;645;654;659;660	3
+644	639V	SNP-matched-reference	DMEM001	urinary_tract	carcinoma	transitional_cell_carcinoma	271;384;432;484;520;586;605;611;629;643;645;654;659;660	14
+645	647V	SNP-not-tested	DMEM011	urinary_tract	carcinoma	transitional_cell_carcinoma	13;61;117;246;331;395;464;514;539;569;601;604;615;624;631;638;647;651;657;660	15
+646	BC3C	SNP-matched-reference	MCCOYS5A001	urinary_tract	carcinoma	transitional_cell_carcinoma	167;230;369;444;514;539;569;601;604;615;624;631;638;647;651;657;660	55
+647	BFTC909	SNP-matched-reference	DMEM001	kidney	carcinoma		543;597;619;629;643;645;654;659;660	62
+648	CAL29	SNP-matched-reference	DMEM001	urinary_tract	carcinoma	transitional_cell_carcinoma	325;472;507;540;574;591;598;616;630;643;645;654;659;660	115
+649	HT1197	SNP-matched-reference	EMEM003	urinary_tract	carcinoma		438;524;593;615;624;631;638;647;651;657;660	448
+650	HT1376	SNP-matched-reference	EMEM003	urinary_tract	carcinoma	transitional_cell_carcinoma	509;561;594;602;608;627;636;646;651;657;660	449
+651	SKUT1	SNP-matched-reference	EMEM001	soft_tissue	leiomyosarcoma		262;506;570;599;634;646;651;657;660	1063
+652	JMSU1	SNP-matched-reference	RPMI001	urinary_tract	carcinoma		99;203;260;374;484;520;586;605;611;629;643;645;654;659;660	506
+653	KMBC2	SNP-not-tested	HAMSF12002	urinary_tract	carcinoma		298;356;510;527;588;623;631;638;647;651;657;660	537
+654	KU1919	SNP-matched-reference	RPMI001	urinary_tract	carcinoma	transitional_cell_carcinoma	226;470;555;575;605;611;629;643;645;654;659;660	575
+655	RT112	SNP-matched-reference	RPMI001	urinary_tract	carcinoma	transitional_cell_carcinoma	126;258;414;502;556;569;601;604;615;624;631;638;647;651;657;660	997
+656	RT4	SNP-matched-reference	MCCOYS5A001	urinary_tract	carcinoma	transitional_cell_carcinoma	193;335;419;462;504;511;600;609;624;631;638;647;651;657;660	999
+657	SCABER	SNP-matched-reference	EMEM003	urinary_tract	carcinoma	transitional_cell_carcinoma	39;291;326;501;530;545;584;595;609;624;631;638;647;651;657;660	1006
+658	AM38	SNP-matched-reference	DMEM011	central_nervous_system	glioma	astrocytoma_Grade_IV	639;648;656;661;662	47
+659	T24	SNP-matched-reference	MCCOYS5A001	urinary_tract	carcinoma	transitional_cell_carcinoma	83;184;218;349;411;459;464;514;539;569;601;604;615;624;631;638;647;651;657;660	1172
+660	TCCSUP	SNP-matched-reference	EMEM001	urinary_tract	carcinoma	transitional_cell_carcinoma	244;340;417;521;550;572;602;608;627;636;646;651;657;660	1183
+661	UBLC1	SNP-not-tested	DMEM005	urinary_tract	carcinoma	transitional_cell_carcinoma	163;338;421;489;562;590;593;615;624;631;638;647;651;657;660	1236
+662	UMUC1	SNP-matched-reference	MEM003	urinary_tract	carcinoma	transitional_cell_carcinoma	458;494;545;584;595;609;624;631;638;647;651;657;660	1243
+663	UMUC3	SNP-not-tested	EMEM001	urinary_tract	carcinoma	transitional_cell_carcinoma	92;296;379;480;556;569;601;604;615;624;631;638;647;651;657;660	1244
+664	VMCUB1	SNP-unconfirmed	RPMI001	urinary_tract	carcinoma	transitional_cell_carcinoma	28;82;194;290;304;388;507;540;574;591;598;616;630;643;645;654;659;660	1250

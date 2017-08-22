@@ -1,0 +1,21 @@
+Annotated Cluster Multidimensional Enrichment (ACME) Analysis of Small-Molecule Cancer Cell-Line Sensitivity Profiling Data
+
+CTRPv2.2_2015_pub_CancerDisc_5_1210.zip
+
+Reference: Seashore-Ludlow, B., et al., Harnessing Connectivity in a Large-Scale Small-Molecule Sensitivity Dataset. Cancer Discovery (2015) 5:1210-1223.
+
+The package contains 8 data files, a README file that describes the data, and a COLUMNS file of descriptions of column headers shared by the 8 data files.
+
+metadata files
+v22.meta.per_compound.txt: contextual compound information and annotation
+v22.meta.per_cell_line.txt: contextual cancer cell line information and annotation
+v22.meta.media_comp.txt: basal media names and short description of media additives
+
+annotation files
+v22.anno.cpd_protein_targets.txt: annotation mapping between compounds and protein targets
+v22.anno.ccl_anno_features.txt: annotation mapping between cell lines and cellular annotations (such as tissue of origin, histological terms)
+v22.anno.ccl_mut_features.txt: annotation mapping between cell lines and mutation annotations
+
+data files
+v22.data.auc_sensitivities.txt: unpivoted table of area-under-concentration-response curve (AUC) sensitivity scores for each cancer cell line and each compound
+v22.acme_hotspots.txt: table of ACME-derived associations between enriched protein targets and cellular or genetic features of cell lines, including all relevant statistics
