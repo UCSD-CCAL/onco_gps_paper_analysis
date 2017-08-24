@@ -40,13 +40,13 @@ If you're not familiar with git:
 1. Click the green "Clone or download" button, and "Download ZIP"
 2. Unzip the Onco-GPS NbPackage and put it anywhere in your computer
 
-If you're familiar with git, in Terminal:
+If you're familiar with git, in Terminal enter:
 ```
 git clone --recursive https://github.com/UCSD-CCAL/onco-gps-paper-analysis.git
 ```
 
 #### 3. Run the notebooks
-In Terminal:
+In Terminal enter:
 ```sh
 jupyter notebook
 ```
