@@ -48,6 +48,7 @@ git clone --recursive https://github.com/UCSD-CCAL/onco-gps-paper-analysis.git
 #### 3. Run the notebooks
 In Terminal enter:
 ```sh
+cd
 jupyter notebook
 ```
 Navigate to the onco-gps-paper-analysis/notebooks directory and begin running the notebooks.
