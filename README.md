@@ -8,7 +8,7 @@ This repository contains the Onco-GPS Notebook Package (NbPackage), which is a b
 [Watch](https://www.youtube.com/watch?v=Tph5BVYcbUA) how we're making the Onco-GPS Analysis easily accessible.
 
 ## The NbPackage
-An NbPackage is a self-contained bundle of stuff needed to reproduce a computational analysis. The NbPackage model was created to make every Jupyter-based computational analysis easily reproducible. [Learn more here]().
+An NbPackage is a self-contained bundle of stuff needed to reproduce a computational analysis. The NbPackage model was created to make every Jupyter-based computational analysis easily reproducible. [Learn more here](https://github.com/UCSD-CCAL/nbpackage).
 
 
 ## The Onco-GPS Book of analysis
