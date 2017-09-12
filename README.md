@@ -53,7 +53,7 @@ If something's not working or you have questions, comments, or concerns, please 
 
 <br><br>
 
-<h3 align="center">
+<h3 align="left">
   <br>
   Powered by
   <br><br>
