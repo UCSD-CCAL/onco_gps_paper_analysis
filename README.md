@@ -14,7 +14,7 @@ An NbPackage is a self-contained bundle of stuff needed to reproduce a computati
 ## The Onco-GPS Book of analysis
 Inside the `notebooks/` directory you'll find 10 notebooks, numbered 0 to 9. You can think of these notebooks as chapters in the Onco-GPS book of analysis, where notebook 0 ("0 Introduction and Overview.ipynb") is an introduction to the chapters to come. Just as you read a book moving from chapter 1, to chapter 2, and so on, you run the notebooks moving from notebook 1, to notebook 2, and so forth. Notebook 1 ("1 Downloading Data.ipynb") for example, populates the `data/` directory and prepares the datasets in the `data/` directory for use in the analyses of following chapters.
 
-
+<br><br>
 ## Reproduce the Onco-GPS paper analysis
 You'll need to:
 1. Set up your computer's environment
