@@ -57,6 +57,6 @@ If something's not working or you have questions, comments, or concerns, please 
   <br>
   Powered by
   <br><br>
-  <a href="https://github.com/UCSD-CCAL"><img src="\_readme/ccal-logo.jpg" alt="Markdownify" width="400"></a>
+  <a href="https://github.com/UCSD-CCAL"><img src="\_readme/ccal-logo.jpg" width="400"></a>
   <br>
 </h3>
