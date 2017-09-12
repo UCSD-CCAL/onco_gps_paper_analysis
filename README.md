@@ -21,7 +21,7 @@ You'll need to:
 2. Get the Onco-GPS NbPackage
 3. Run the notebooks
 
-#### 1. Set up your computer's environment  
+### 1. Set up your computer's environment  
 Your computer needs the following things to run the notebooks: 1) python>=3.6, 2) Jupyter Notebook, 3) R and two R packages (rpy2 and r-mass), and 4) biopython. In case you're missing these things, the good news is python 3.6 and Jupyter Notebook come with a software bundle called Anaconda. So all you need to do is install Anaconda and use Anaconda to install R, the R packages, and biopython. Here's how:
 
 1. Install Anaconda
@@ -34,7 +34,7 @@ Your computer needs the following things to run the notebooks: 1) python>=3.6, 2
   conda install r-mass biopython
   ```
 
-#### 2. Get the Onco-GPS NbPackage
+### 2. Get the Onco-GPS NbPackage
 
 If you're not familiar with git:
 1. Click the green "Clone or download" button, and "Download ZIP"
@@ -45,7 +45,7 @@ If you're familiar with git, in Terminal enter:
 git clone --recursive https://github.com/UCSD-CCAL/onco-gps-paper-analysis.git
 ```
 
-#### 3. Run the notebooks
+### 3. Run the notebooks
 In Terminal enter:
 ```sh
 jupyter notebook
