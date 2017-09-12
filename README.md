@@ -16,10 +16,6 @@ Inside the `notebooks/` directory you'll find 10 notebooks, numbered 0 to 9. You
 
 <br><br>
 ## Reproduce the Onco-GPS paper analysis
-You'll need to:
-1. Set up your computer's environment
-2. Get the Onco-GPS NbPackage
-3. Run the notebooks
 
 ### 1. Set up your computer's environment  
 Your computer needs the following things to run the notebooks: 1) python>=3.6, 2) Jupyter Notebook, 3) R and two R packages (rpy2 and r-mass), and 4) biopython. In case you're missing these things, the good news is python 3.6 and Jupyter Notebook come with a software bundle called Anaconda. So all you need to do is install Anaconda and use Anaconda to install R, the R packages, and biopython. Here's how:
