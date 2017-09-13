@@ -1,7 +1,13 @@
-# Onco-GPS Paper Analysis
-
-NbPackage for [Onco-GPS paper](<http://www.cell.com/cell-systems/fulltext/S2405-4712(17)30335-6>) analysis
+<h1 align="center">
+  <br>
+  <a href="https://github.com/UCSD-CCAL"><img src="media/ccal-logo-D3.png" width="400"></a>
+  <br>
+  Onco-GPS Paper Analysis
+  <br>
+</h1>
+<h4 align="center">NbPackage for the <a href="http://electron.atom.io" target="_blank">Onco-GPS paper</a> analysis</h4>
 <br><br>
+
 ## The Onco-GPS Notebook Package (NbPackage)
 This repository contains the Onco-GPS Notebook Package (NbPackage), which is a bundle of the computational notebooks, tools, data (or the code to download data), and results for the Onco-GPS paper. Everything you need to reproduce the Onco-GPS paper analysis is here in the Onco-GPS NbPackage.
 
