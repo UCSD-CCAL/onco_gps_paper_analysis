@@ -56,13 +56,3 @@ Navigate to the onco-gps-paper-analysis/notebooks directory and begin running th
 
 ## Feedback
 If something's not working or you have questions, comments, or concerns, please [create an issue](https://github.com/UCSD-CCAL/onco-gps-paper-analysis/issues/new).
-
-<br><br>
-
-<h3 align="center">
-  <br>
-  Powered by
-  <br><br>
-  <a href="https://github.com/UCSD-CCAL"><img src="media/ccal-logo-D3.png" width="400"></a>
-  <br>
-</h3>
