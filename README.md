@@ -53,6 +53,6 @@ In Terminal enter:
 jupyter notebook
 ```
 Navigate to the onco-gps-paper-analysis/notebooks directory and begin running the notebooks.
-
+<br><br>
 ## Feedback
 If something's not working or you have questions, comments, or concerns, please [create an issue](https://github.com/UCSD-CCAL/onco-gps-paper-analysis/issues/new).
