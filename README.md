@@ -5,7 +5,7 @@
   Onco-GPS Paper Analysis
   <br>
 </h1>
-<h4 align="center">NbPackage for the <a href="http://electron.atom.io" target="_blank">Onco-GPS paper</a> analysis</h4>
+<h4 align="center">NbPackage for the <a href="http://www.cell.com/cell-systems/fulltext/S2405-4712(17)30335-6" target="_blank">Onco-GPS paper</a> analysis</h4>
 <br><br>
 
 ## The Onco-GPS Notebook Package (NbPackage)
