@@ -1,19 +1,58 @@
-# Onco-GPS Paper Analysis
+<h1 align="center">
+  <br>
+  <a href="https://github.com/UCSD-CCAL"><img src="media/ccal-logo-D3.png" width="400"></a>
+  <br>
+  Onco-GPS Paper Analysis
+  <br>
+</h1>
+<h4 align="center">NbPackage for the <a href="http://www.cell.com/cell-systems/fulltext/S2405-4712(17)30335-6" target="_blank">Onco-GPS paper</a> analysis</h4>
+<br><br>
 
-NbPackage for [Onco-GPS paper]() analysis
+## The Onco-GPS Notebook Package (NbPackage)
+This repository contains the Onco-GPS Notebook Package (NbPackage), which is a bundle of the computational notebooks, tools, data (or the code to download data), and results for the Onco-GPS paper. Everything you need to reproduce the Onco-GPS paper analysis is here in the Onco-GPS NbPackage.
 
-## Onco-GPS Notebook Package (NbPackage)
-This repository contains the Onco-GPS Notebook Package (NbPackage), which is a complete bundle of computational notebooks, tools, data (or the code to download data not hosted on this GitHub repository), and results from the Onco-GPS paper. A NbPackage is a self-contained, comprehensive bundle of stuff needed to reproduce a computational analysis. The NbPackage model was created to make every Jupyter-based computational analysis fully reproducible. And this NbPackage contains everything you need to reproduce the computational analyses seen in the Onco-GPS paper. 
+[Watch](https://www.youtube.com/watch?v=Tph5BVYcbUA) how we're making the Onco-GPS Analysis easily accessible.
 
-[Watch](https://www.youtube.com/watch?v=Tph5BVYcbUA) how we're making the Onco-GPS Analysis easily accessbile.
+## The NbPackage
+An NbPackage is a self-contained bundle of stuff needed to reproduce a computational analysis done in Jupyter notebooks. The NbPackage model was created to make every Jupyter-based computational analysis easily reproducible. [Learn more here](https://github.com/UCSD-CCAL/nbpackage).
 
-### Book of Analysis
-There are 10 notebooks in the notebooks/ directory. They are numbered from 0 to 9. These notebooks compose the "analysis book" for the Onco-GPS paper, where notebook "0 Introduction and Overview.ipynb" (as the name already suggests) is the overview of notebooks 1 to 9, which are the chapters of the analysis book. Just as you read a book moving from chapter 1, to chapter 2, and so on, you run the notebooks moving from notebook 1, to notebook 2, and so forth. For instance, notebook "1 Downloading Data.ipynb" contains code to download data that is too large to put on this GitHub repository. So, simply running notebook 1 would populate the data/ directory with some data hosted elsewhere, leaving you with a complete data/ directory needed to reproduce the analysis.
 
-### Tools for Analysis
-You only need 3 things to be able to run all of the notebooks: 1) python>=3.6, 2) R, and 3) Jupyter Notebook (R is required because, although we don't code in R, some python functions internally use R libraries.) Fortunately, Jupyter Notebook comes with Anaconda3, and installing rpy2 (which in turn installs R) with Anaconda is easy. So you only need to install Anaconda, then rpy2 (if you dont already have them)! 
+## The Onco-GPS Book of analysis
+Inside the `notebooks/` directory you'll find 10 notebooks, numbered 0 to 9. You can think of these notebooks as chapters in the Onco-GPS book of analysis, where notebook 0 ("0 Introduction and Overview.ipynb") is an introduction to the chapters to come. Just as you read a book moving from chapter 1, to chapter 2, and so on, you run the notebooks moving from notebook 1, to notebook 2, and so forth. Notebook 1 ("1 Downloading Data.ipynb") for example, populates the `data/` directory and prepares the datasets in the `data/` directory for use in the analyses of following chapters.
 
-Watch [this](https://youtu.be/xKGaGXmy8j4) to see how to install Anaconda and [this](https://youtu.be/sm_zyacx6C0) to see how to install rpy2 using Anaconda.
+<br><br>
+## Reproduce the Onco-GPS paper analysis
 
-### Feedback
-If something is not working or if you have any questions, comments, or concerns, please [create an issue](https://github.com/UCSD-CCAL/onco-gps-paper-analysis/issues/new).
+### 1. Set up your computer's environment  
+Your computer needs the following things to run the notebooks: 1) python>=3.6, 2) Jupyter Notebook, 3) R and two R packages (rpy2 and r-mass), and 4) biopython. In case you're missing these things, the good news is python 3.6 and Jupyter Notebook come with a software bundle called Anaconda. So all you need to do is install Anaconda and use Anaconda to install R, the R packages, and biopython. Here's how:
+
+1. Install Anaconda
+   * [Watch how](https://youtu.be/xKGaGXmy8j4) or [go here](https://www.continuum.io/downloads)
+2. Install R, rpy2, r-mass, and biopython
+   * [Watch how](https://www.youtube.com/watch?v=m8wWZEV4z2A&feature=youtu.be) or in Terminal enter:
+
+  ```
+  conda install rpy2
+  conda install r-mass biopython
+  ```
+
+### 2. Get the Onco-GPS NbPackage
+
+If you're not familiar with git:
+1. Click the green "Clone or download" button, and "Download ZIP"
+2. Unzip the Onco-GPS NbPackage and put it anywhere in your computer
+
+If you're familiar with git, in Terminal enter:
+```
+git clone --recursive https://github.com/UCSD-CCAL/onco-gps-paper-analysis.git
+```
+
+### 3. Run the notebooks
+In Terminal enter:
+```sh
+jupyter notebook
+```
+Navigate to the onco-gps-paper-analysis/notebooks directory and begin running the notebooks.
+<br><br>
+## Feedback
+If something's not working or you have questions, comments, or concerns, please [create an issue](https://github.com/UCSD-CCAL/onco-gps-paper-analysis/issues/new).
