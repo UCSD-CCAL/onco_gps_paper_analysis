@@ -1,0 +1,3 @@
+[submodule "tools/ccal"]
+	path = tools/ccal
+	url = https://github.com/kwatme/ccal
