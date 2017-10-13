@@ -32,8 +32,6 @@ Inside the `notebooks/` directory you'll find 10 notebooks, numbered 0 to 9. Jus
 2. Install R, rpy2, r-mass, and biopython
    * [Watch how](https://www.youtube.com/watch?v=m8wWZEV4z2A&feature=youtu.be) or in Terminal enter:
 
-[![asciicast](https://asciinema.org/a/odNkxTVD5MYNsu0RTOj49FRm8.png)](https://asciinema.org/a/odNkxTVD5MYNsu0RTOj49FRm8)
-
   ```
   conda install rpy2
   conda install r-mass biopython
