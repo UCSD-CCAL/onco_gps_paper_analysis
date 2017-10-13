@@ -9,13 +9,9 @@
 <br><br>
 
 ## The Onco-GPS Notebook Package (NbPackage)
-This repository contains the Onco-GPS Notebook Package (NbPackage), which is everything you need to reproduce the Onco-GPS paper analysis.
+This repository contains the Onco-GPS [Notebook Package (NbPackage](https://github.com/UCSD-CCAL/nbpackage), which is everything you need to reproduce the Onco-GPS paper analysis.
 
 [Watch](https://www.youtube.com/watch?v=Tph5BVYcbUA) how we're making the Onco-GPS Analysis easily accessible.
-
-## The NbPackage
-An NbPackage is a self-contained bundle of stuff needed to reproduce a computational analysis done in Jupyter notebooks. The NbPackage model was created to make every Jupyter-based computational analysis easily reproducible. [Learn more here](https://github.com/UCSD-CCAL/nbpackage).
-
 
 ## The Onco-GPS Book of analysis
 Inside the `notebooks/` directory you'll find 10 notebooks, numbered 0 to 9. You can think of these notebooks as chapters in the Onco-GPS book of analysis, where notebook 0 ("0 Introduction and Overview.ipynb") is an introduction to the chapters to come. Just as you read a book moving from chapter 1, to chapter 2, and so on, you run the notebooks moving from notebook 1, to notebook 2, and so forth. Notebook 1 ("1 Downloading Data.ipynb") for example, populates the `data/` directory and prepares the datasets in the `data/` directory for use in the analyses of following chapters.
