@@ -13,7 +13,7 @@ This repository contains the Onco-GPS [Notebook Package (NbPackage)](https://git
 
 [Watch](https://www.youtube.com/watch?v=Tph5BVYcbUA) how we're making the Onco-GPS Analysis easily accessible.
 
-## The Onco-GPS Book of analysis
+## Book of analysis
 Inside the `notebooks/` directory you'll find 10 notebooks, numbered 0 to 9. Just like chapters in a book, each notebook builds off the previous notebook. So each notebook should be run one after another startting with 0 and ending with 9.
 
 <br><br>
