@@ -9,7 +9,7 @@
 <br><br>
 
 ## The Onco-GPS Notebook Package (NbPackage)
-This repository contains the Onco-GPS Notebook Package (NbPackage), which is a bundle of the computational notebooks, tools, data (or the code to download data), and results for the Onco-GPS paper. Everything you need to reproduce the Onco-GPS paper analysis is here in the Onco-GPS NbPackage.
+This repository contains the Onco-GPS Notebook Package (NbPackage), which is everything you need to reproduce the Onco-GPS paper analysis.
 
 [Watch](https://www.youtube.com/watch?v=Tph5BVYcbUA) how we're making the Onco-GPS Analysis easily accessible.
 
