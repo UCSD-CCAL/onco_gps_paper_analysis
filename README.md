@@ -40,11 +40,7 @@ Inside the `notebooks/` directory you'll find 10 notebooks, numbered 0 to 9. You
 
 ### 2. Get the Onco-GPS NbPackage
 
-If you're not familiar with git:
-1. Click the green "Clone or download" button, and "Download ZIP"
-2. Unzip the Onco-GPS NbPackage and put it anywhere in your computer
-
-If you're familiar with git, in Terminal enter:
+In Terminal enter:
 ```
 git clone --recursive https://github.com/UCSD-CCAL/onco-gps-paper-analysis.git
 ```
