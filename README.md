@@ -29,9 +29,8 @@ Inside the `notebooks/` directory you'll find 10 notebooks, numbered 0 to 9. Jus
 
 1. Install Anaconda
    * [Watch how](https://youtu.be/xKGaGXmy8j4) or [go here](https://www.continuum.io/downloads)
-2. Install R, rpy2, r-mass, and biopython
+2. [Install R, rpy2, r-mass, and biopython](https://asciinema.org/a/142193)
 
-<a href="https://asciinema.org/a/142193" target="_blank"><img src="https://asciinema.org/a/142193.png"/></a>
 
 ### 2. Get the Onco-GPS NbPackage
 
