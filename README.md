@@ -14,7 +14,7 @@ This repository contains the Onco-GPS [Notebook Package (NbPackage)](https://git
 [Watch](https://www.youtube.com/watch?v=Tph5BVYcbUA) how we're making the Onco-GPS Analysis easily accessible.
 
 ## The Onco-GPS Book of analysis
-Inside the `notebooks/` directory you'll find 10 notebooks, numbered 0 to 9. You can think of these notebooks as chapters in the Onco-GPS book of analysis, where notebook 0 ("0 Introduction and Overview.ipynb") is an introduction to the chapters to come. Just as you read a book moving from chapter 1, to chapter 2, and so on, you run the notebooks moving from notebook 1, to notebook 2, and so forth. Notebook 1 ("1 Downloading Data.ipynb") for example, populates the `data/` directory and prepares the datasets in the `data/` directory for use in the analyses of following chapters.
+Inside the `notebooks/` directory you'll find 10 notebooks, numbered 0 to 9. Just like chapters in a book, each notebook builds off the previous notebook. So each notebook should be run one after another startting with 0 and ending with 9.
 
 <br><br>
 ## Reproduce the Onco-GPS paper analysis
@@ -51,6 +51,7 @@ In Terminal enter:
 jupyter notebook
 ```
 Navigate to the onco-gps-paper-analysis/notebooks directory and begin running the notebooks :smile:
+
 <br><br>
 ## Feedback
 If something's not working or you have questions, comments, or concerns, please [create an issue](https://github.com/UCSD-CCAL/onco-gps-paper-analysis/issues/new).
