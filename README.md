@@ -26,7 +26,7 @@ Inside the `notebooks/` directory you'll find 10 notebooks, numbered 0 to 9. You
   3. R and two R packages (rpy2 and r-mass)
   4. biopython. 
 
-#### To get the requirements, follow these steps:
+#### To get the requirements:
 
 1. Install Anaconda
    * [Watch how](https://youtu.be/xKGaGXmy8j4) or [go here](https://www.continuum.io/downloads)
