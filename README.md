@@ -23,7 +23,7 @@ Inside the `notebooks/` directory you'll find 10 notebooks, numbered 0 to 9. Jus
   1. python>=3.6
   2. Jupyter Notebook
   3. R and two R packages (rpy2 and r-mass)
-  4. biopython. 
+  4. biopython
 
 #### To get the requirements:
 
