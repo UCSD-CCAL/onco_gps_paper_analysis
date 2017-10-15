@@ -99,16 +99,12 @@ __Chapter 9: Display genomic features on global Onco-GPS map__
 #### Requirements: 
   1. python>=3.6
   2. Jupyter Notebook
-  3. R and two R packages (rpy2 and r-mass)
-  4. biopython
+  3. rpy2, r-mass, biopython
 
 #### To get the requirements:
 
-1. Install Anaconda
-   * [Watch how](https://youtu.be/xKGaGXmy8j4) or [go here](https://www.continuum.io/downloads)
-2. Install R, rpy2, r-mass, and biopython
-   * [Watch how](https://asciinema.org/a/142193)
-
+1. [Install Anaconda](https://youtu.be/xKGaGXmy8j4) or [go here](https://www.continuum.io/downloads)
+2. [Install rpy2, r-mass, and biopython](https://asciinema.org/a/142193)
 
 ### 2. Get the Onco-GPS NbPackage
 
@@ -122,7 +118,7 @@ In Terminal enter:
 ```sh
 jupyter notebook
 ```
-Navigate to the onco-gps-paper-analysis/notebooks directory. Inside the `notebooks/` directory you'll find 10 notebooks, numbered 0 to 9. Just like chapters in a book, each notebook builds off the previous notebook. So each notebook should be run one after another startting with 0 and ending with 9.
+Navigate to the onco-gps-paper-analysis/notebooks directory. Inside the `notebooks/` directory you'll find 9 notebooks, numbered 1 to 9. Just like chapters in a book, each notebook builds off the previous notebook. So each notebook should be run one after another startting with 1 and ending with 9.
 
 ## Feedback
-If something's not working or you have questions, comments, or concerns, please [create an issue](https://github.com/UCSD-CCAL/onco-gps-paper-analysis/issues/new).
+If something's not working or you have questions, comments, or concerns, please [create an issue](https://github.com/UCSD-CCAL/onco-gps-paper-analysis/issues/new). We'll get back to you in one day.
