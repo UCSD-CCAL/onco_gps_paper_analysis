@@ -96,9 +96,9 @@ __Chapter 9: Display genomic features on global Onco-GPS map__
   2. Jupyter Notebook
   3. rpy2, r-mass, biopython
 
-#### To get the requirements:
+#### Get the requirements:
 
-1. [Install Anaconda](https://youtu.be/xKGaGXmy8j4) or [go here](https://www.continuum.io/downloads)
+1. [Install Anaconda](https://youtu.be/xKGaGXmy8j4)
 2. [Install rpy2, r-mass, and biopython](https://asciinema.org/a/142193)
 
 ### 2. Get the Onco-GPS NbPackage
