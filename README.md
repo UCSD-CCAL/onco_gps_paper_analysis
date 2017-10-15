@@ -5,7 +5,7 @@
   Onco-GPS Paper Analysis
   <br>
 </h1>
-<h4 align="center">NbPackage for the <a href="http://www.cell.com/cell-systems/fulltext/S2405-4712(17)30335-6" target="_blank">Onco-GPS paper</a> analysis</h4>
+<h4 align="center">NbPackage for <a href="http://www.cell.com/cell-systems/fulltext/S2405-4712(17)30335-6" target="_blank">Kim et al. Decomposing Oncogenic Transcriptional Signatures to Generate Maps of Divergent Cellular States</a></h4>
 <br>
 
 This repository contains the Onco-GPS [Notebook Package (NbPackage)](https://github.com/UCSD-CCAL/nbpackage), which is everything you need to reproduce the Onco-GPS paper analysis.
@@ -27,8 +27,6 @@ This repository contains the Onco-GPS [Notebook Package (NbPackage)](https://git
 3. UCSD School of Medicine
 
 **Date:** April 17, 2017
-
-**Article:** [*Kim et al.* Decomposing Oncogenic Transcriptional Signatures to Generate Maps of Divergent Cellular States](https://drive.google.com/file/d/0B0MQqMWLrsA4b2RUTTAzNjFmVkk/view?usp=sharing)
 
 ### Analysis overview
 
