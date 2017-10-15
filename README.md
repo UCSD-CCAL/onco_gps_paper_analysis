@@ -10,8 +10,13 @@
 
 This repository contains the Onco-GPS [Notebook Package (NbPackage)](https://github.com/UCSD-CCAL/nbpackage), which is everything you need to reproduce the Onco-GPS paper analysis. [Watch](https://www.youtube.com/watch?v=Tph5BVYcbUA) how we're making the Onco-GPS Analysis easily accessible.
 
-Table of Contents
-
+## Table of Contents
+- [Introduction](#introduction)
+  - [Analysis Overview](#analysis-overview)
+  - [The 9 chapters of the Onco-GPS methodology](#the-9-chapters-of-the-onco-gps-methodology)
+  - [Additional notes](#additional-notes)
+- [Reproduce the Onco-GPS paper analysis](#reproduce-the-onco-gps-paper-analysis)
+- [Feedback](#feedback)
 
 ## Introduction
 
@@ -80,7 +85,7 @@ Chapter 8: Define global cellular states and make global Onco-GPS map
 Chapter 9: Display genomic features on global Onco-GPS map
   * This chapter displays selected genomic features of interest on the global Onco-GPS map including gene, protein and pathway expression, mutations, tissue types etc.
 
-### Additional notes on using the notebooks
+### Additional notes
 
 *  To reproduce the entire analysis one runs the 9 chapters in sequence. If one is interested in applying the methodology to a different oncogene, one would start by generating the oncogenic signature (chapter 2) using an appropriate dataset e.g. one that you generate in your laboratory, one taken from the literature, or a relevant gene set.      
 
