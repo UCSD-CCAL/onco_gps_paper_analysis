@@ -121,4 +121,4 @@ jupyter notebook
 Navigate to the onco-gps-paper-analysis/notebooks directory. Inside the `notebooks/` directory you'll find 9 notebooks, numbered 1 to 9. Just like chapters in a book, each notebook builds off the previous notebook. So each notebook should be run one after another startting with 1 and ending with 9.
 
 ## Feedback
-If something's not working or you have questions, comments, or concerns, please [create an issue](https://github.com/UCSD-CCAL/onco-gps-paper-analysis/issues/new). We'll get back to you in one day.
+If something's not working or you have questions, comments, or concerns, please [create an issue](https://github.com/UCSD-CCAL/onco-gps-paper-analysis/issues/new). We'll get back to you in one business day :smile:
