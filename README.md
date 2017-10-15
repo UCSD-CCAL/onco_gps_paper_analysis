@@ -6,28 +6,23 @@
   <br>
 </h1>
 <h4 align="center">NbPackage for the <a href="http://www.cell.com/cell-systems/fulltext/S2405-4712(17)30335-6" target="_blank">Onco-GPS paper</a> analysis</h4>
-<br><br>
-
-## The Onco-GPS Notebook Package (NbPackage)
-This repository contains the Onco-GPS Notebook Package (NbPackage), which is a bundle of the computational notebooks, tools, data (or the code to download data), and results for the Onco-GPS paper. Everything you need to reproduce the Onco-GPS paper analysis is here in the Onco-GPS NbPackage.
-
-[Watch](https://www.youtube.com/watch?v=Tph5BVYcbUA) how we're making the Onco-GPS Analysis easily accessible.
+<br>
 
 <div>
     <table style="border:2px solid white;" cellspacing="0" cellpadding="0" border-collapse: collapse; border-spacing: 0;>
       <tr> 
-        <th style="background-color:white"> <img src="../media/ccal-logo-D3.png" width=225 height=225></th>
-        <th style="background-color:white"> <img src="../media/logoMoores.jpg" width=175 height=175></th>
-        <th style="background-color:white"> <img src="../media/GP.png" width=200 height=200></th>
-        <th style="background-color:white"> <img src="../media/UCSD_School_of_Medicine_logo.png" width=175 height=175></th> 
-        <th style="background-color:white"> <img src="../media/Broad.png" width=130 height=130></th> 
+        <th style="background-color:white"> <img src="media/ccal-logo-D3.png" width=225 height=225></th>
+        <th style="background-color:white"> <img src="media/logoMoores.jpg" width=175 height=175></th>
+        <th style="background-color:white"> <img src="media/GP.png" width=200 height=200></th>
+        <th style="background-color:white"> <img src="media/UCSD_School_of_Medicine_logo.png" width=175 height=175></th> 
+        <th style="background-color:white"> <img src="media/Broad.png" width=130 height=130></th> 
       </tr>
     </table>
 </div>
 
 <hr style="border: none; border-bottom: 3px solid #88BBEE;">
-# **Onco-*GPS* Methodology**
-## **Chapter 0. Introduction and Overview** 
+# Onco-GPS Methodology
+## Introduction and Overview
 
 **Authors:** William Kim(1), Huwate (Kwat) Yeerna(2), Taylor Cavazos(2), Kate Medetgul-Ernar(2), Clarence Mah(3), Stephanie Ting(2), Jason Park(2), Jill P. Mesirov(2,3), and Pablo Tamayo(2,3).
 
@@ -39,7 +34,7 @@ This repository contains the Onco-GPS Notebook Package (NbPackage), which is a b
 
 **Article:** [*Kim et al.* Decomposing Oncogenic Transcriptional Signatures to Generate Maps of Divergent Cellular States](https://drive.google.com/file/d/0B0MQqMWLrsA4b2RUTTAzNjFmVkk/view?usp=sharing)
 
-**Analysis overview:**
+### Analysis overview
 
 In this series of notebook chapters, we introduce Onco-*GPS* (OncoGenic Positioning System), a data-driven analysis framework and associated experimental and computational methodology that makes use of an oncogenic activation signature to identify multiple cellular states associated with oncogene activation. In this chapter we will describe the overall method and then we will provide a guide to the remaining chapters. We also provide at the end a guide to download the input datasets.
 
@@ -49,19 +44,19 @@ The Onco-GPS methodology decomposes an oncogenic activation signature  into its 
 The Onco-*GPS* approach is executed in 3 major modular steps as shown in the Figure below. 
 
 <div>
-    <img src="media/method_chap0.png" width=2144 height=1041>
+    <img src="../media/method_chap0.png" width=2144 height=1041>
 </div>
 
 Step I involves the experimental generation of a representative gene expression signature reflecting the activation of an oncogene of interest. In step II, the resulting signature is decomposed into a set of coherent transcriptional components using a large reference dataset that represents multiple cellular states relevant to the oncogene of interest. These components are also biologically annotated and characterized through further analysis and experimental validation (see article). In step III, a representative subset of samples and components are selected to define cellular states using a clustering procedure. The selected components are also used as transcriptional coordinates to generate a two-dimensional map where the selected individual samples are projected relative to these transcriptional coordinates in analogy to a geographical *GPS* system as shown below.
 
 <div>
-    <img src="media/GPS.png" width=500 height=500>
+    <img src="../media/GPS.png" width=500 height=500>
 </div> 
 
 The Onco-*GPS* map can also be used to display the association of samples with various genomic features, such as genetic lesions, pathway activation, individual gene expression, genetic dependencies and drug sensitivities. We will use the Onco-*GPS* approach to explore the complex functional landscape of cancer cell lines with alterations in the RAS/MAPK pathway. 
 
 
-**The Onco-GPS methodology is organized in a series of 9 chapters:**
+### The Onco-GPS methodology is organized in a series of 9 chapters
 
 Before executing these notebooks make sure you download the input datasets as described in the section at the end of this notebook.
 
@@ -83,7 +78,7 @@ Chapter 8: [Defining Global Cellular States and Onco-GPS Map](8 Defining Global 
 
 Chapter 9: [Displaying Genomic Features in the Global Onco-GPS Map](9 Displaying Genomic Features in the Global Onco-GPS Map.ipynb).  This chapter displays selected genomic features of interest on the global Onco-GPS map including gene, protein and pathway expression, mutations, tissue types etc.
 
-**Additional Notes on Using the Notebooks/Chapters**
+### Additional Notes on Using the Notebooks/Chapters
 
 *  To reproduce the entire analysis one runs the 9 chapters in sequence. If one is interested in applying the methodology to a different oncogene, one would start by generating the oncogenic signature (chapter 2) using an appropriate dataset e.g. one that you generate in your laboratory, one taken from the literature, or a relevant gene set.      
 
@@ -104,37 +99,28 @@ Chapter 9: [Displaying Genomic Features in the Global Onco-GPS Map](9 Displaying
 
 * The analysis in most chapters will run in under a couple of hours of computer execution time. However, because chapters 4 and 6 execute a full annotation sweep using all components and all states against many datasets of genomic features they could take a few days of computer time to execute.
 
+This repository contains the Onco-GPS [Notebook Package (NbPackage)](https://github.com/UCSD-CCAL/nbpackage), which is everything you need to reproduce the Onco-GPS paper analysis. [Watch](https://www.youtube.com/watch?v=Tph5BVYcbUA) how we're making the Onco-GPS Analysis easily accessible.
 
-## The NbPackage
-An NbPackage is a self-contained bundle of stuff needed to reproduce a computational analysis done in Jupyter notebooks. The NbPackage model was created to make every Jupyter-based computational analysis easily reproducible. [Learn more here](https://github.com/UCSD-CCAL/nbpackage).
-
-
-## The Onco-GPS Book of analysis
-Inside the `notebooks/` directory you'll find 10 notebooks, numbered 0 to 9. You can think of these notebooks as chapters in the Onco-GPS book of analysis, where notebook 0 ("0 Introduction and Overview.ipynb") is an introduction to the chapters to come. Just as you read a book moving from chapter 1, to chapter 2, and so on, you run the notebooks moving from notebook 1, to notebook 2, and so forth. Notebook 1 ("1 Downloading Data.ipynb") for example, populates the `data/` directory and prepares the datasets in the `data/` directory for use in the analyses of following chapters.
-
-<br><br>
 ## Reproduce the Onco-GPS paper analysis
 
 ### 1. Set up your computer's environment  
-Your computer needs the following things to run the notebooks: 1) python>=3.6, 2) Jupyter Notebook, 3) R and two R packages (rpy2 and r-mass), and 4) biopython. In case you're missing these things, the good news is python 3.6 and Jupyter Notebook come with a software bundle called Anaconda. So all you need to do is install Anaconda and use Anaconda to install R, the R packages, and biopython. Here's how:
+#### Requirements: 
+  1. python>=3.6
+  2. Jupyter Notebook
+  3. R and two R packages (rpy2 and r-mass)
+  4. biopython
+
+#### To get the requirements:
 
 1. Install Anaconda
    * [Watch how](https://youtu.be/xKGaGXmy8j4) or [go here](https://www.continuum.io/downloads)
 2. Install R, rpy2, r-mass, and biopython
-   * [Watch how](https://www.youtube.com/watch?v=m8wWZEV4z2A&feature=youtu.be) or in Terminal enter:
+   * [Watch how](https://asciinema.org/a/142193)
 
-  ```
-  conda install rpy2
-  conda install r-mass biopython
-  ```
 
 ### 2. Get the Onco-GPS NbPackage
 
-If you're not familiar with git:
-1. Click the green "Clone or download" button, and "Download ZIP"
-2. Unzip the Onco-GPS NbPackage and put it anywhere in your computer
-
-If you're familiar with git, in Terminal enter:
+In Terminal enter:
 ```
 git clone --recursive https://github.com/UCSD-CCAL/onco-gps-paper-analysis.git
 ```
@@ -144,7 +130,7 @@ In Terminal enter:
 ```sh
 jupyter notebook
 ```
-Navigate to the onco-gps-paper-analysis/notebooks directory and begin running the notebooks.
-<br><br>
+Navigate to the onco-gps-paper-analysis/notebooks directory. Inside the `notebooks/` directory you'll find 10 notebooks, numbered 0 to 9. Just like chapters in a book, each notebook builds off the previous notebook. So each notebook should be run one after another startting with 0 and ending with 9.
+
 ## Feedback
 If something's not working or you have questions, comments, or concerns, please [create an issue](https://github.com/UCSD-CCAL/onco-gps-paper-analysis/issues/new).
