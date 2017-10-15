@@ -39,7 +39,7 @@ In Terminal enter:
 ```sh
 jupyter notebook
 ```
-Navigate to the onco-gps-paper-analysis/notebooks directory. Inside the `notebooks/` directory you'll find 10 notebooks, numbered 0 to 9. Just like chapters in a book, each notebook builds off the previous notebook. So each notebook should be run one after another startting with 0 and ending with 9. Now you can begin running the notebooks :)
+Navigate to the onco-gps-paper-analysis/notebooks directory. Inside the `notebooks/` directory you'll find 10 notebooks, numbered 0 to 9. Just like chapters in a book, each notebook builds off the previous notebook. So each notebook should be run one after another startting with 0 and ending with 9. Now you can begin running the notebooks :smile:
 
 ## Feedback
 If something's not working or you have questions, comments, or concerns, please [create an issue](https://github.com/UCSD-CCAL/onco-gps-paper-analysis/issues/new).
