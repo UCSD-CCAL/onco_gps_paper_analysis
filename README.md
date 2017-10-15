@@ -13,7 +13,7 @@ This repository contains the Onco-GPS [Notebook Package (NbPackage)](https://git
 Table of Contents
 
 
-## Introduction and Overview
+## Introduction
 
 **Authors:** William Kim(1), Huwate (Kwat) Yeerna(2), Taylor Cavazos(2), Kate Medetgul-Ernar(2), Clarence Mah(3), Stephanie Ting(2), Jason Park(2), Jill P. Mesirov(2,3), and Pablo Tamayo(2,3).
 
@@ -35,19 +35,21 @@ The Onco-GPS methodology decomposes an oncogenic activation signature  into its 
 The Onco-GPS approach is executed in 3 major modular steps as shown in the Figure below. 
 
 <div>
-    <img src="media/method_chap0.png" width=2144 height=1041>
+    <img src="media/method_chap0.png" width=1000>
 </div>
 
 Step I involves the experimental generation of a representative gene expression signature reflecting the activation of an oncogene of interest. In step II, the resulting signature is decomposed into a set of coherent transcriptional components using a large reference dataset that represents multiple cellular states relevant to the oncogene of interest. These components are also biologically annotated and characterized through further analysis and experimental validation (see article). In step III, a representative subset of samples and components are selected to define cellular states using a clustering procedure. The selected components are also used as transcriptional coordinates to generate a two-dimensional map where the selected individual samples are projected relative to these transcriptional coordinates in analogy to a geographical GPS system as shown below.
 
-<div>
-    <img src="media/GPS.png" width=500 height=500>
-</div> 
+<center>
+  <div>
+      <img src="media/GPS.png" width=500>
+  </div> 
+</center>
 
 The Onco-*GPS* map can also be used to display the association of samples with various genomic features, such as genetic lesions, pathway activation, individual gene expression, genetic dependencies and drug sensitivities. We will use the Onco-*GPS* approach to explore the complex functional landscape of cancer cell lines with alterations in the RAS/MAPK pathway. 
 
 
-### The Onco-GPS methodology is organized in a series of 9 chapters
+### The 9 chapters of the Onco-GPS methodology
 
 Before executing these notebooks make sure you download the input datasets as described in the section at the end of this notebook.
 
@@ -78,7 +80,7 @@ Chapter 8: Define global cellular states and make global Onco-GPS map
 Chapter 9: Display genomic features on global Onco-GPS map
   * This chapter displays selected genomic features of interest on the global Onco-GPS map including gene, protein and pathway expression, mutations, tissue types etc.
 
-### Additional Notes on Using the Notebooks
+### Additional notes on using the notebooks
 
 *  To reproduce the entire analysis one runs the 9 chapters in sequence. If one is interested in applying the methodology to a different oncogene, one would start by generating the oncogenic signature (chapter 2) using an appropriate dataset e.g. one that you generate in your laboratory, one taken from the literature, or a relevant gene set.      
 
