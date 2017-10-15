@@ -1,24 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/UCSD-CCAL"><img src="media/ccal-logo-D3.png" width="400"></a>
+  <a href="https://github.com/UCSD-CCAL"><img src="media/logo_ccal.png" width="400"></a>
   <br>
   Onco-GPS Paper Analysis
   <br>
 </h1>
 <h4 align="center">NbPackage for the <a href="http://www.cell.com/cell-systems/fulltext/S2405-4712(17)30335-6" target="_blank">Onco-GPS paper</a> analysis</h4>
 <br>
-
-<div>
-    <table style="border:2px solid white;" cellspacing="0" cellpadding="0" border-collapse: collapse; border-spacing: 0;>
-      <tr> 
-        <th style="background-color:white"> <img src="media/logo_ccal.png" width=225 height=225></th>
-        <th style="background-color:white"> <img src="media/logo_moores_cancer_center.jpg" width=175 height=175></th>
-        <th style="background-color:white"> <img src="media/logo_gene_pattern.png" width=200 height=200></th>
-        <th style="background-color:white"> <img src="media/logo_ucsd_school_of_medicine.png" width=175 height=175></th> 
-        <th style="background-color:white"> <img src="media/logo_broad_institute.png" width=130 height=130></th> 
-      </tr>
-    </table>
-</div>
 
 <hr style="border: none; border-bottom: 3px solid #88BBEE;">
 
