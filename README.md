@@ -58,31 +58,31 @@ The Onco-*GPS* map can also be used to display the association of samples with v
 
 Before executing these notebooks make sure you download the input datasets as described in the section at the end of this notebook.
 
-Chapter 1: Set up data
+__Chapter 1: Set up data__
   * This chapter downloads data that was too large to put on GitHub, populating data/ directory and leaving the directory with all input data needed for the following analyses.
 
-Chapter 2: Generate oncogenic-activation signature 
+__Chapter 2: Generate oncogenic-activation signature__
   * This chapter shows how to generate the oncogenic signature (step 1 above). This is useful if one is interested in creating an Onco-GPS map for a given oncogene (for which one has a dataset or at least a gene set representing its activation).
 
-Chapter 3: Decompose oncogenic-activation signature and define transcriptional components
+__Chapter 3: Decompose oncogenic-activation signature and define transcriptional components__
   * This chapter shows how to take the oncogenic signature from chapter 1, or any other signature or gene set of interest, and decomposed it into transcriptional components using Non-Negative Matrix Factorization (NMF).
 
-Chapter 4: Annotate transcriptional components
+__Chapter 4: Annotate transcriptional components__
   * This chapter annotates, or characterizes, the transcriptional components found in chapter 2 by matching many types of genomic features to the component profiles (i.e. the rows of the "H" matrix generated in chapter 2). The full results sets produced by this analysis are also stored under the directory "../results" in subfolder: component_annotation.
 
-Chapter 5: Define cellular states and make Onco-GPS map
+__Chapter 5: Define cellular states and make Onco-GPS map__
   * This chapter defines the oncogenic states by clustering the KRAS mutant subset of  the "H" matrix obtained in chapter 2. It also defines a triangular or ternary Onco-GPS map using components C1, C7 and C2, and then projects the KRAS mutant samples on it.
 
-Chapter 6: Annotate cellular states
+__Chapter 6: Annotate cellular states__
   * This chapter is similar to chapter 3 but it annotates and characterizes the oncogenic states defined in chapter 4. The full results sets produced by this analysis are also stored under the directory "../results" in subfolder: state_annotation.
 
-Chapter 7: Display genomic features on Onco-GPS map
+__Chapter 7: Display genomic features on Onco-GPS map__
   * This chapter displays selected genomic features of interest on the KRAS mutants Onco-GPS map including gene, protein and pathway expression, mutations, tissue types etc.
 
-Chapter 8: Define global cellular states and make global Onco-GPS map
+__Chapter 8: Define global cellular states and make global Onco-GPS map__
   * This chapter defines the global oncogenic states (S1-S15) and corresponding Onco-GPS map using all the KRAS components (C1-C9) defined in chapter 2.
 
-Chapter 9: Display genomic features on global Onco-GPS map
+__Chapter 9: Display genomic features on global Onco-GPS map__
   * This chapter displays selected genomic features of interest on the global Onco-GPS map including gene, protein and pathway expression, mutations, tissue types etc.
 
 ### Additional notes
