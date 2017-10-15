@@ -91,18 +91,7 @@ __Chapter 9: Display genomic features on global Onco-GPS map__
 
 * If one is interested  in exploring the original KRAS mutant or the global Onco-GPS presented in the article, e.g. display your favorite gene mRNA or mutations status, you would go directly to chapters 7 or 9 and modify these chpaters to display the gene or feature of interest.      
 
-* The chapters (notebooks) are organized as a *notebook package (NB),* a collection of subfolders that contains the following subfolders:
-
- 1.  **notebooks:** contains the Jupyter notebooks, corresponding to each chapter (0-9), and **notebook_environment.py**, which is imported into every notebook to set up the notebook environment.
-
- 2.  **data:** contains the input data for the notebooks.
- 
- 3. **results:** contains the intermediate and final results produced by the notebooks.
-
- 3.  **tools:** the analysis libraries and source code that implements the Onco-GPS method.    
-
- 4. **media:** the images, logos and other supplementary files used by the notebooks.
- 
+* The chapters (notebooks) are organized as a [Notebook Package](https://github.com/UCSD-CCAL/nbpackage)
 
 * The analysis in most chapters will run in under a couple of hours of computer execution time. However, because chapters 4 and 6 execute a full annotation sweep using all components and all states against many datasets of genomic features they could take a few days of computer time to execute.
 
