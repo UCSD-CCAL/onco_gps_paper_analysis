@@ -8,6 +8,14 @@
 <h4 align="center">NbPackage for <a href="http://www.cell.com/cell-systems/fulltext/S2405-4712(17)30335-6" target="_blank">Kim et al. Decomposing Oncogenic Transcriptional Signatures to Generate Maps of Divergent Cellular States</a></h4>
 <br>
 
+**Authors:** William Kim(1), Huwate (Kwat) Yeerna(2), Taylor Cavazos(2), Kate Medetgul-Ernar(2), Clarence Mah(3), Stephanie Ting(2), Jason Park(2), Jill P. Mesirov(2,3), and Pablo Tamayo(2,3).
+
+1. Eli and Edythe Broad Institute
+2. UCSD Moores Cancer Center
+3. UCSD School of Medicine
+
+**Date:** April 17, 2017
+
 This repository contains the Onco-GPS [Notebook Package (NbPackage)](https://github.com/UCSD-CCAL/nbpackage), which is everything you need to reproduce the Onco-GPS paper analysis.
 
 ## Table of Contents
@@ -19,16 +27,6 @@ This repository contains the Onco-GPS [Notebook Package (NbPackage)](https://git
 - [Feedback](#feedback)
 
 ## Introduction
-
-**Authors:** William Kim(1), Huwate (Kwat) Yeerna(2), Taylor Cavazos(2), Kate Medetgul-Ernar(2), Clarence Mah(3), Stephanie Ting(2), Jason Park(2), Jill P. Mesirov(2,3), and Pablo Tamayo(2,3).
-
-1. Eli and Edythe Broad Institute
-2. UCSD Moores Cancer Center
-3. UCSD School of Medicine
-
-**Date:** April 17, 2017
-
-### Analysis overview
 
 In this series of notebook chapters, we introduce Onco-GPS (OncoGenic Positioning System), a data-driven analysis framework and associated experimental and computational methodology that makes use of an oncogenic activation signature to identify multiple cellular states associated with oncogene activation. In this chapter we will describe the overall method and then we will provide a guide to the remaining chapters. We also provide at the end a guide to download the input datasets.
 
@@ -50,7 +48,7 @@ Step I involves the experimental generation of a representative gene expression 
 The Onco-*GPS* map can also be used to display the association of samples with various genomic features, such as genetic lesions, pathway activation, individual gene expression, genetic dependencies and drug sensitivities. We will use the Onco-*GPS* approach to explore the complex functional landscape of cancer cell lines with alterations in the RAS/MAPK pathway. 
 
 
-### The 9 chapters of the Onco-GPS methodology
+### 9 Chapters
 
 Before executing these notebooks make sure you download the input datasets as described in the section at the end of this notebook.
 
