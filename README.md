@@ -91,13 +91,12 @@ __Chapter 9: Display genomic features on global Onco-GPS map__
 ## Reproduce the Onco-GPS paper analysis
 
 ### 1. Set up your computer's environment  
-#### Requirements: 
+Requirements: 
   1. python>=3.6
   2. Jupyter Notebook
   3. rpy2, r-mass, biopython
 
-#### Get the requirements:
-
+Get the requirements:
 1. [Install Anaconda](https://youtu.be/xKGaGXmy8j4)
 2. [Install rpy2, r-mass, and biopython](https://asciinema.org/a/142193)
 
