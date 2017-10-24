@@ -1,9 +1,12 @@
-<h1 align="center">
+<h2 align="center">
   <br>
   <a href="https://github.com/UCSD-CCAL"><img src="media/logo_ccal.png" width="400"></a>
-  </h1>
+  <br>
+  Onco-GPS Paper Analysis
+  <br>
+  </h2>
 <br>
-<h2 align="center"><a href="https://spro.io" target="blank">spro Shareable Project</a> for: <a href="http://www.cell.com/cell-systems/fulltext/S2405-4712(17)30335-6" target="blank">Decomposing Oncogenic Transcriptional Signatures to Generate Maps of Divergent Cellular States</a></h2>
+<h1 ><a href="https://spro.io" target="blank">Shareable Project</a> for: <a href="http://www.cell.com/cell-systems/fulltext/S2405-4712(17)30335-6" target="blank">Decomposing Oncogenic Transcriptional Signatures to Generate Maps of Divergent Cellular States</a></h1>
 <br>
 
 **Authors:** William Kim(1), Huwate (Kwat) Yeerna(2), Taylor Cavazos(2), Kate Medetgul-Ernar(2), Clarence Mah(3), Stephanie Ting(2), Jason Park(2), Jill P. Mesirov(2,3), and Pablo Tamayo(2,3).
@@ -15,7 +18,7 @@
 **Date:** April 17, 2017
 
 
-## Table of Contents
+# Table of Contents
 - [Introduction](#introduction)
   - [Methodology Overview](#methodology-overview)
   - [The 9 chapters of the Onco-GPS methodology](#the-9-chapters-of-the-onco-gps-methodology)
@@ -88,7 +91,7 @@ __Chapter 9: Display genomic features on global Onco-GPS map__
 
 * The analysis in most chapters will run in under a couple of hours. However, chapters 4 and 6 could take a few days of computer time because they execute full annotation sweeps using all components and all states against many datasets of genomic features.
 
-## Reproduce the Onco-GPS paper analysis
+# Reproduce the Onco-GPS paper analysis
 
 ### 1. Set up your computer's environment  
 Requirements:
@@ -98,6 +101,7 @@ Requirements:
 
 Get the requirements:
 1. Install spro
+
 [![asciicast](https://asciinema.org/a/143970.png)](https://asciinema.org/a/143970)
 2. Install [Anaconda](https://youtu.be/xKGaGXmy8j4) or [Miniconda](https://conda.io/miniconda.html)
 
@@ -121,9 +125,10 @@ jupyter notebook
 
 [![asciicast](https://asciinema.org/a/143970.png)](https://asciinema.org/a/143970)
 
-* _Every time you want to edit or run the notebooks, you'll need to run the commands shown above._
 
 Open `notebooks` and start with notebook 1, `1 Set up data.ipynb`. Then run whatever notebooks interest you.
+
+_Note: every time you want to edit or run the notebooks, you'll need to run the commands shown above._
 
 # Feedback
 If something's not working or you have questions, comments, or concerns, please [create an issue](https://github.com/UCSD-CCAL/onco-gps-paper-analysis/issues/new). We'll get back to you in one business day :smile:
