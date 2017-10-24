@@ -5,7 +5,7 @@
   Onco-GPS Paper Analysis
   <br>
 </h1>
-<h4 align="center"><a href="https://github.com/UCSD-CCAL/nbpackage" target="_blank">NbPackage</a> for: <a href="http://www.cell.com/cell-systems/fulltext/S2405-4712(17)30335-6" target="_blank">Decomposing Oncogenic Transcriptional Signatures to Generate Maps of Divergent Cellular States</a></h4>
+<h2 align="center"><a href="https://github.com/UCSD-CCAL/nbpackage" target="_blank">NbPackage</a> for: <a href="http://www.cell.com/cell-systems/fulltext/S2405-4712(17)30335-6" target="_blank">Decomposing Oncogenic Transcriptional Signatures to Generate Maps of Divergent Cellular States</a></h2>
 <br>
 
 **Authors:** William Kim(1), Huwate (Kwat) Yeerna(2), Taylor Cavazos(2), Kate Medetgul-Ernar(2), Clarence Mah(3), Stephanie Ting(2), Jason Park(2), Jill P. Mesirov(2,3), and Pablo Tamayo(2,3).
