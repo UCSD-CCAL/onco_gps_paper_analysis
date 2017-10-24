@@ -101,6 +101,7 @@ Requirements:
 
 Get the requirements:
 1. Install spro
+
 [![asciicast](https://asciinema.org/a/143970.png)](https://asciinema.org/a/143970)
 2. Install [Anaconda](https://youtu.be/xKGaGXmy8j4) or [Miniconda](https://conda.io/miniconda.html)
 
