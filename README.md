@@ -1,10 +1,10 @@
-<h4 align="center">
+<h3 align="center">
   <br>
   <a href="https://github.com/UCSD-CCAL"><img src="media/logo_ccal.png" width="400"></a>
   <br>
   Onco-GPS Paper Analysis
   <br>
-  </h4>
+  </h3>
 <br>
 <h1 ><a href="https://spro.io" target="blank">Shareable Project</a> for: <a href="http://www.cell.com/cell-systems/fulltext/S2405-4712(17)30335-6" target="blank">Decomposing Oncogenic Transcriptional Signatures to Generate Maps of Divergent Cellular States</a></h1>
 <br>
