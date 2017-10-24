@@ -15,7 +15,7 @@
 **Date:** April 17, 2017
 
 
-# Table of Contents
+## Table of Contents
 - [Introduction](#introduction)
   - [Methodology Overview](#methodology-overview)
   - [The 9 chapters of the Onco-GPS methodology](#the-9-chapters-of-the-onco-gps-methodology)
@@ -23,7 +23,7 @@
 - [Reproduce the Onco-GPS paper analysis](#reproduce-the-onco-gps-paper-analysis)
 - [Feedback](#feedback)
 
-# Introduction
+## Introduction
 
 ### Methodology Overview
 
@@ -88,7 +88,7 @@ __Chapter 9: Display genomic features on global Onco-GPS map__
 
 * The analysis in most chapters will run in under a couple of hours. However, chapters 4 and 6 could take a few days of computer time because they execute full annotation sweeps using all components and all states against many datasets of genomic features.
 
-# Reproduce the Onco-GPS paper analysis
+## Reproduce the Onco-GPS paper analysis
 
 ### 1. Set up your computer's environment  
 Requirements:
@@ -125,5 +125,5 @@ jupyter notebook
 
 Open `notebooks` and start with notebook 1, `1 Set up data.ipynb`. Then run whatever notebooks interest you.
 
-# Feedback
+## Feedback
 If something's not working or you have questions, comments, or concerns, please [create an issue](https://github.com/UCSD-CCAL/onco-gps-paper-analysis/issues/new). We'll get back to you in one business day :smile:
