@@ -95,15 +95,21 @@ __Chapter 9: Display genomic features on global Onco-GPS map__
 
 ### 1. Set up your computer's environment  
 Requirements:
-  1. [spro](https://spro.io)
-  2. conda (package manager for [Anaconda](https://www.anaconda.com/what-is-anaconda/:w
+
+1. conda (package manager for [Anaconda](https://www.anaconda.com/what-is-anaconda/:w
     ))
+2. [spro](https://spro.io)
+3. git
+ 
 
 Get the requirements:
-1. Install spro
+1. Install [Anaconda](https://youtu.be/xKGaGXmy8j4) or [Miniconda](https://conda.io/miniconda.html)
+2. Install [git](https://git-scm.com/downloads)
+3. Install spro
+
 
 [![asciicast](https://asciinema.org/a/143970.png)](https://asciinema.org/a/143970)
-2. Install [Anaconda](https://youtu.be/xKGaGXmy8j4) or [Miniconda](https://conda.io/miniconda.html)
+
 
 ### 2. Get the Onco-GPS NbPackage
 
