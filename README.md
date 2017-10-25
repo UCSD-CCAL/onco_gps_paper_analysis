@@ -100,13 +100,12 @@ Requirements:
     ))
 2. [spro](https://spro.io)
 3. git
- 
+
 
 Get the requirements:
 1. Install [Anaconda](https://youtu.be/xKGaGXmy8j4) or [Miniconda](https://conda.io/miniconda.html)
-2. Install [git](https://git-scm.com/downloads)
-3. Install spro
-
+2. Install spro
+3. Install [git](https://git-scm.com/downloads)
 
 [![asciicast](https://asciinema.org/a/143970.png)](https://asciinema.org/a/143970)
 
@@ -118,19 +117,17 @@ In Terminal enter:
 git clone --recursive https://github.com/UCSD-CCAL/onco-gps-paper-analysis.git
 ```
 
-### 3. Run the 
+### 3. Run the
 
 In Terminal enter:
 
 ```sh
 cd onco-gps-paper-analysis
-spro install
 spro enter
-jupyter notebook
+spro install
+jupyter-notebook
 ```
-
 [![asciicast](https://asciinema.org/a/143970.png)](https://asciinema.org/a/143970)
-
 
 Open `code/` and start with notebook 1, `1 Set up data.ipynb`. Then run whatever notebooks interest you.
 

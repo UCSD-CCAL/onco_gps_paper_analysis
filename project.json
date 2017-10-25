@@ -1,17 +1,18 @@
 {
-  "title": "Onco GPS Paper Anlaysis",
-  "description": "NbPackage for: Decomposing Oncogenic Transcriptional Signatures to Generate Maps of Divergent Cellular States",
+  "title": "Onco-GPS Paper Analysis",
+  "description": "Shareable Project for: Decomposing Oncogenic Transcriptional Signatures to Generate Maps of Divergent Cellular States",
   "github_url": "https://github.com/UCSD-CCAL/onco_gps_paper_analysis.git",
   "version": "0.0.1",
   "keywords": [],
   "data_urls": [
-    "https://portals.broadinstitute.org/ccle_legacy/downloadFile/DefaultSystemRoot/exp_10/ds_30/CCLE_MUT_EXPR_RPPA_OncoGPS.zip?downloadff=true&fileId=27325",
-    "'ftp://caftpd.nci.nih.gov/pub/OCG-DCC/CTD2/Broad/CTRPv2.2_2015_pub_CancerDisc_5_1210/CTRPv2.2_2015_pub_CancerDisc_5_1210.zip'"
+    "ftp://caftpd.nci.nih.gov/pub/OCG-DCC/CTD2/Broad/CTRPv2.2_2015_pub_CancerDisc_5_1210/CTRPv2.2_2015_pub_CancerDisc_5_1210.zip",
+    "https://portals.broadinstitute.org/ccle_legacy/downloadFile/DefaultSystemRoot/exp_10/ds_30/CCLE_MUT_EXPR_RPPA_OncoGPS.zip?downloadff=true&fileId=27325"
   ],
   "main_function": "",
   "environment_history": [
-    "pip install --quiet ccal",
-    "conda install --prefix environment --channel conda-forge --yes --quiet rpy2",
-    "conda install --prefix environment --channel conda-forge --yes --quiet r-mass"
+    "pip install --quiet ccal pyfaidx",
+    "conda install --prefix /Users/kazyra/u/environment --channel bioconda --yes --quiet rpy2",
+    "conda install --prefix /Users/kazyra/u/environment --channel conda-forge --yes --quiet r-mass",
+    "conda install --prefix /Users/kazyra/Jumis/ccal/repositories/onco_gps_paper_analysis/environment --channel conda-forge --yes --quiet jupyter"
   ]
 }
