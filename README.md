@@ -112,7 +112,7 @@ In Terminal enter:
 git clone --recursive https://github.com/UCSD-CCAL/onco-gps-paper-analysis.git
 ```
 
-### 3. Run the notebooks
+### 3. Run the 
 
 In Terminal enter:
 
@@ -126,7 +126,7 @@ jupyter notebook
 [![asciicast](https://asciinema.org/a/143970.png)](https://asciinema.org/a/143970)
 
 
-Open `notebooks` and start with notebook 1, `1 Set up data.ipynb`. Then run whatever notebooks interest you.
+Open `code/` and start with notebook 1, `1 Set up data.ipynb`. Then run whatever notebooks interest you.
 
 _Note: every time you want to edit or run the notebooks, you'll need to run the commands shown above._
 
