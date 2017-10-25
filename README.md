@@ -107,8 +107,6 @@ Get the requirements:
 2. Install spro
 3. Install [git](https://git-scm.com/downloads)
 
-[![asciicast](https://asciinema.org/a/143970.png)](https://asciinema.org/a/143970)
-
 
 ### 2. Get the Onco-GPS NbPackage
 
