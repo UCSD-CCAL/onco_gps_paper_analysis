@@ -127,7 +127,7 @@ spro enter
 spro install
 jupyter-notebook
 ```
-[![asciicast](https://asciinema.org/a/143970.png)](https://asciinema.org/a/143970)
+[![asciicast](https://asciinema.org/a/144034.png)](https://asciinema.org/a/144034)
 
 Open `code/` and start with notebook 1, `1 Set up data.ipynb`. Then run whatever notebooks interest you.
 
