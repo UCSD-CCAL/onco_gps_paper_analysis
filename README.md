@@ -105,9 +105,10 @@ Requirements:
 Get the requirements:
 1. Install [Anaconda](https://youtu.be/xKGaGXmy8j4) or [Miniconda](https://conda.io/miniconda.html)
 2. Install spro
-3. Install [git](https://git-scm.com/downloads)
 
 [![asciicast](https://asciinema.org/a/143970.png)](https://asciinema.org/a/143970)
+
+3. Install [git](https://git-scm.com/downloads)
 
 
 ### 2. Get the Onco-GPS NbPackage
@@ -127,7 +128,7 @@ spro enter
 spro install
 jupyter-notebook
 ```
-[![asciicast](https://asciinema.org/a/143970.png)](https://asciinema.org/a/143970)
+[![asciicast](https://asciinema.org/a/144034.png)](https://asciinema.org/a/144034)
 
 Open `code/` and start with notebook 1, `1 Set up data.ipynb`. Then run whatever notebooks interest you.
 
