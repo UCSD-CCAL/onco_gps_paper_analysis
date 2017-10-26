@@ -104,7 +104,6 @@ Requirements:
 2. [spro](https://spro.io)
 3. git
 
-
 Get the requirements:
 1. Install [Anaconda](https://youtu.be/xKGaGXmy8j4) or [Miniconda](https://conda.io/miniconda.html)
 2. Install spro
@@ -118,7 +117,7 @@ Get the requirements:
 
 In Terminal enter:
 ```
-git clone --recursive https://github.com/UCSD-CCAL/onco-gps-paper-analysis.git
+spro create -g https://github.com/UCSD-CCAL/onco_gps_paper_analysis.git
 ```
 
 ### 3. Run the Notebooks
