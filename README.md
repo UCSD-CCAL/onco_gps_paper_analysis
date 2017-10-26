@@ -86,13 +86,13 @@ __Chapter 9: Display genomic features on global Onco-GPS map__
 
 * Before trying to run any of the notebook chapters, [follow these steps](#reproduce-the-onco-gps-paper-analysis).
 
-*  To reproduce the entire analysis, run the 9 notebook chapters in sequence.
+* To reproduce the entire analysis, run the 9 notebook chapters in sequence.
 
-* If one is interested in applying the methodology to a different oncogene, one would start by generating the oncogenic signature (chapter 2) using an appropriate dataset (e.g. one generated in one's laboratory, one taken from the literature, or a relevant gene set).      
+* To apply the methodology to a different oncogene, start by generating the oncogenic signature (chapter 2) using an appropriate dataset (e.g. one generated in your laboratory, one taken from the literature, or a relevant gene set).      
 
-* If one is interested in exploring the original KRAS mutant or the global Onco-GPS presented in the article, e.g. display your favorite gene mRNA or mutations status, you would go directly to chapters 7 or 9 and modify these chapters to display the gene or feature of interest.      
+* To explore the original KRAS mutant or the global Onco-GPS presented in the article, e.g. display your favorite gene mRNA or mutations status, go directly to chapters 7 or 9 and modify these chapters to display the gene or feature of interest.      
 
-* The analysis in most chapters will run in under a couple of hours. However, chapters 4 and 6 could take a few days of computer time because they execute full annotation sweeps using all components and all states against many datasets of genomic features.
+* The analysis in most chapters will run in __under a couple of hours__. However, chapters 4 and 6 could take __a few days__ of computer time because they execute full annotation sweeps using all components and all states against many datasets of genomic features.
 
 # Reproduce the Onco-GPS paper analysis
 
