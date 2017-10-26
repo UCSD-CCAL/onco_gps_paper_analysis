@@ -21,7 +21,7 @@
 # Table of Contents
 - [Introduction](#introduction)
   - [Methodology Overview](#methodology-overview)
-  - [The 9 chapters of the Onco-GPS methodology](#the-9-chapters-of-the-onco-gps-methodology)
+  - [The 9 Chapters of The Onco-GPS Methodology](#the-9-chapters-of-the-onco-gps-methodology)
   - [Notes](#notes)
 - [Reproduce the Onco-GPS paper analysis](#reproduce-the-onco-gps-paper-analysis)
   - [Set Up Your Computer's Environment](#set-up-your-computers-environment)
