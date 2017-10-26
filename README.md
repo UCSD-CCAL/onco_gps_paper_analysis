@@ -126,8 +126,9 @@ In Terminal enter:
 
 ```sh
 cd onco-gps-paper-analysis
-spro enter
-spro install
+spro enter  # starts project environment
+spro install  # installs project dependencies
+spro data  # downloads project data too large to store on Github 
 jupyter-notebook
 ```
 [![asciicast](https://asciinema.org/a/144034.png)](https://asciinema.org/a/144034)
