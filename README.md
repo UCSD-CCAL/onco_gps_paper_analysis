@@ -110,7 +110,7 @@ Get the requirements:
 
 [![asciicast](https://asciinema.org/a/143970.png)](https://asciinema.org/a/143970)
 
-<a href="https://asciinema.org/a/144245?autoplay=1"><img src="https://asciinema.org/a/14.png" width="836"/></a>
+<a href="https://asciinema.org/a/144245?autoplay=1"><img src="https://asciinema.org/a/14.png" width="200"/></a>
 
 3. Install [git](https://git-scm.com/downloads)
 
