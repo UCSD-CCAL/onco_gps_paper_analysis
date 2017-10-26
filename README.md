@@ -101,15 +101,12 @@ Requirements:
 2. [spro](https://spro.io)
 3. git
 
-<script type="text/javascript" src="https://asciinema.org/a/143970.js" id="asciicast-143970" async></script>
+<script type="text/javascript" src="https://asciinema.org/a/144242.js" id="asciicast-144242" async></script>
 
 
 Get the requirements:
 1. Install [Anaconda](https://youtu.be/xKGaGXmy8j4) or [Miniconda](https://conda.io/miniconda.html)
 2. Install spro
-
-[![asciicast](https://asciinema.org/a/143970.png)](https://asciinema.org/a/143970)
-
 <a href="https://asciinema.org/a/144245?autoplay=1"><img src="https://asciinema.org/a/144245.png" rows=10/></a>
 
 3. Install [git](https://git-scm.com/downloads)
@@ -133,7 +130,7 @@ spro install  # installs project dependencies
 spro data  # downloads project data too large to store on Github 
 jupyter-notebook
 ```
-[![asciicast](https://asciinema.org/a/144034.png)](https://asciinema.org/a/144034)
+<a href="https://asciinema.org/a/144245?autoplay=1"><img src="https://asciinema.org/a/144245.png" rows=10/></a>
 
 Open `code/` and start with notebook 1, `1 Set up data.ipynb`. Then run whatever notebooks interest you.
 
