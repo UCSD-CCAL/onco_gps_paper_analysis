@@ -107,7 +107,7 @@ Get the requirements:
 1. Install [Anaconda](https://youtu.be/xKGaGXmy8j4) or [Miniconda](https://conda.io/miniconda.html)
 2. Install spro
 
-<a href="https://asciinema.org/a/144242?autoplay=1"><img src="https://asciinema.org/a/144266.png" rows=7/></a>
+<a href="https://asciinema.org/a/144266?autoplay=1"><img src="https://asciinema.org/a/144266.png" rows=7/></a>
 
 3. [Install git](https://git-scm.com/downloads)
 
@@ -130,7 +130,7 @@ spro install  # installs project dependencies
 spro data  # downloads project data too large to store on Github 
 jupyter-notebook
 ```
-<a href="https://asciinema.org/a/144245?autoplay=1"><img src="https://asciinema.org/a/144267.png" rows=7/></a>
+<a href="https://asciinema.org/a/144267?autoplay=1"><img src="https://asciinema.org/a/144267.png" rows=7/></a>
 
 Open `code/` and start with notebook 1, `1 Set up data.ipynb`. Then run whatever notebooks interest you.
 
