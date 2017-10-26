@@ -99,10 +99,9 @@ __Chapter 9: Display genomic features on global Onco-GPS map__
 ### 1. Set up Your Computer's Environment  
 Requirements:
 
-1. conda (package manager for [Anaconda](https://www.anaconda.com/what-is-anaconda/:w
-    ))
+1. [conda](https://conda.io/docs/)
 2. [spro](https://spro.io)
-3. git
+3. [git](https://git-scm.com/)
 
 Get the requirements:
 1. Install [Anaconda](https://youtu.be/xKGaGXmy8j4) or [Miniconda](https://conda.io/miniconda.html)
