@@ -24,6 +24,9 @@
   - [The 9 chapters of the Onco-GPS methodology](#the-9-chapters-of-the-onco-gps-methodology)
   - [Notes](#notes)
 - [Reproduce the Onco-GPS paper analysis](#reproduce-the-onco-gps-paper-analysis)
+  - [Set Up Your Computer's Environment](#set-up-your-computers-environment)
+  - [Get the Onco-GPS Shareable Project](#get-the-onco-gps-shareable-project)
+  - [Run the Notebooks](#run-the-notebooks)
 - [Feedback](#feedback)
 
 # Introduction
@@ -93,7 +96,7 @@ __Chapter 9: Display genomic features on global Onco-GPS map__
 
 # Reproduce the Onco-GPS paper analysis
 
-### 1. Set up your computer's environment  
+### 1. Set Up Your Computer's Environment  
 Requirements:
 
 1. conda (package manager for [Anaconda](https://www.anaconda.com/what-is-anaconda/:w
@@ -111,14 +114,14 @@ Get the requirements:
 3. Install [git](https://git-scm.com/downloads)
 
 
-### 2. Get the Onco-GPS NbPackage
+### 2. Get the Onco-GPS Shareable Project
 
 In Terminal enter:
 ```
 git clone --recursive https://github.com/UCSD-CCAL/onco-gps-paper-analysis.git
 ```
 
-### 3. Run the
+### 3. Run the Notebooks
 
 In Terminal enter:
 
