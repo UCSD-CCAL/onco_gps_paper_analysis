@@ -109,7 +109,7 @@ Get the requirements:
 
 <a href="https://asciinema.org/a/144242?autoplay=1"><img src="https://asciinema.org/a/144242.png" rows=10/></a>
 
-3. Install [git](https://git-scm.com/downloads)
+3. [Install git](https://git-scm.com/downloads)
 
 
 ### 2. Get the Onco-GPS Shareable Project
