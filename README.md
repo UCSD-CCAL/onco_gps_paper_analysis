@@ -101,6 +101,8 @@ Requirements:
 2. [spro](https://spro.io)
 3. git
 
+<script type="text/javascript" src="https://asciinema.org/a/143970.js" id="asciicast-143970" async></script>
+
 
 Get the requirements:
 1. Install [Anaconda](https://youtu.be/xKGaGXmy8j4) or [Miniconda](https://conda.io/miniconda.html)
