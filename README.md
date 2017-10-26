@@ -24,9 +24,9 @@
   - [The 9 Chapters of The Onco-GPS Methodology](#the-9-chapters-of-the-onco-gps-methodology)
   - [Notes](#notes)
 - [Reproduce the Onco-GPS paper analysis](#reproduce-the-onco-gps-paper-analysis)
-  - [Set up Your Computer's Environment](#1-set-up-your-computers-environment)
-  - [Get the Onco-GPS Shareable Project](#2-get-the-onco-gps-shareable-project)
-  - [Run the Notebooks](#3-run-the-notebooks)
+  - [1. Set up Your Computer's Environment](#1-set-up-your-computers-environment)
+  - [2. Get the Onco-GPS Shareable Project](#2-get-the-onco-gps-shareable-project)
+  - [3. Run the Notebooks](#3-run-the-notebooks)
 - [Feedback](#feedback)
 
 # Introduction
