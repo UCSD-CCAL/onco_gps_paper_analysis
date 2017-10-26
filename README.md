@@ -24,7 +24,7 @@
   - [The 9 Chapters of The Onco-GPS Methodology](#the-9-chapters-of-the-onco-gps-methodology)
   - [Notes](#notes)
 - [Reproduce the Onco-GPS paper analysis](#reproduce-the-onco-gps-paper-analysis)
-  - [Set Up Your Computer's Environment](#set-up-your-computers-environment)
+  - [Set up Your Computer's Environment](#set-up-your-computers-environment)
   - [Get the Onco-GPS Shareable Project](#get-the-onco-gps-shareable-project)
   - [Run the Notebooks](#run-the-notebooks)
 - [Feedback](#feedback)
@@ -96,7 +96,7 @@ __Chapter 9: Display genomic features on global Onco-GPS map__
 
 # Reproduce the Onco-GPS paper analysis
 
-### 1. Set Up Your Computer's Environment  
+### 1. Set up Your Computer's Environment  
 Requirements:
 
 1. conda (package manager for [Anaconda](https://www.anaconda.com/what-is-anaconda/:w
