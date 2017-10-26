@@ -101,13 +101,12 @@ Requirements:
 2. [spro](https://spro.io)
 3. git
 
-<script type="text/javascript" src="https://asciinema.org/a/144242.js" id="asciicast-144242" async></script>
-
 
 Get the requirements:
 1. Install [Anaconda](https://youtu.be/xKGaGXmy8j4) or [Miniconda](https://conda.io/miniconda.html)
 2. Install spro
-<a href="https://asciinema.org/a/144245?autoplay=1"><img src="https://asciinema.org/a/144245.png" rows=10/></a>
+
+<a href="https://asciinema.org/a/144242?autoplay=1"><img src="https://asciinema.org/a/144242.png" rows=10/></a>
 
 3. Install [git](https://git-scm.com/downloads)
 
