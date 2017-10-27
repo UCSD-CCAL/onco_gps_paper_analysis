@@ -137,4 +137,4 @@ Open `code/` and start with notebook 1, `1 Set up data.ipynb`. Then run whatever
 _Note: every time you want to edit or run the notebooks, you'll need to run the commands shown above._
 
 # Feedback
-If something's not working or you have questions, comments, or concerns, please [create an issue](https://github.com/UCSD-CCAL/onco-gps-paper-analysis/issues/new). We'll get back to you in one business day :smile:
+If something's not working or you have questions, comments, or concerns, please [create an issue](https://github.com/UCSD-CCAL/onco-gps-paper-analysis/issues/new). We'll get back to you within one business day :smile:
