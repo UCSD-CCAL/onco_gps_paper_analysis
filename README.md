@@ -100,12 +100,12 @@ __Chapter 9: Display genomic features on global Onco-GPS map__
 Requirements:
 
 1. [conda](https://conda.io/docs/)
-2. [spro](https://spro.io)
+2. [SPro](https://spro.io)
 3. [git](https://git-scm.com/)
 
 Get the requirements:
 1. Install [Anaconda](https://youtu.be/xKGaGXmy8j4) or [Miniconda](https://conda.io/miniconda.html)
-2. Install spro
+2. Install SPro
 
 <a href="https://asciinema.org/a/144266?autoplay=1"><img src="https://asciinema.org/a/144266.png" rows=7 width=700/></a>
 
