@@ -15,6 +15,6 @@ import seaborn as sns
 import warnings
 warnings.filterwarnings('ignore')
 
-sys.path.insert(0, '../tools')
+sys.path.insert(0, '/Users/k/Jumis/github_kwatme')
 print('Added \'../tools\' to the path.')
 from ccal import ccal
