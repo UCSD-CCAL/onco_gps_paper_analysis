@@ -128,7 +128,7 @@ cd onco-gps-paper-analysis
 spro enter  # starts project environment
 spro install  # installs project dependencies
 spro download  # downloads project data too large to store on Github 
-jupyter-notebook
+spro run notebook  # opens Jupyter Notebook
 ```
 <a href="https://asciinema.org/a/144267?autoplay=1"><img src="https://asciinema.org/a/144267.png" rows=7 width=700/></a>
 
