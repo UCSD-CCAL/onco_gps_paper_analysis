@@ -127,11 +127,9 @@ In Terminal enter:
 cd onco-gps-paper-analysis
 spro enter  # starts project environment
 spro install  # installs project dependencies
-spro download  # downloads project data too large to store on Github 
+spro download  # downloads project data too large to store on Github
 spro run notebook  # opens Jupyter Notebook
 ```
-<a href="https://asciinema.org/a/144267?autoplay=1"><img src="https://asciinema.org/a/144267.png" rows=7 width=700/></a>
-
 Open `code/` and start with notebook 1, `1 Set up data.ipynb`. Then run whatever notebooks interest you.
 
 _Note: every time you want to edit or run the notebooks, you'll need to run the commands shown above._

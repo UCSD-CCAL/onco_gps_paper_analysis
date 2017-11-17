@@ -1,18 +1,23 @@
 {
   "name": "Onco-GPS Paper Analysis",
   "description": "Shareable Project for: Decomposing Oncogenic Transcriptional Signatures to Generate Maps of Divergent Cellular States",
-  "git_url": "https://github.com/UCSD-CCAL/onco_gps_paper_analysis.git",
+  "git_url": "https://github.com/UCSD-CCAL/onco_gps_paper_analysis",
   "version": "1.0.0",
-  "keywords": [],
+  "keywords": [
+    "Shareable Project",
+    "Bioinformatics",
+    "CCAL"
+  ],
   "downloads": {
     "/": "ftp://caftpd.nci.nih.gov/pub/OCG-DCC/CTD2/Broad/CTRPv2.2_2015_pub_CancerDisc_5_1210/CTRPv2.2_2015_pub_CancerDisc_5_1210.zip",
     "/": "https://portals.broadinstitute.org/ccle_legacy/downloadFile/DefaultSystemRoot/exp_10/ds_30/CCLE_MUT_EXPR_RPPA_OncoGPS.zip?downloadff=true&fileId=27325"
   },
-  "commands": {},
+  "commands": {
+    "notebook": "jupyter notebook"
+  },
   "environment_history": [
-    "pip install --quiet ccal pyfaidx",
-    "conda install --prefix /Users/kazyra/u/environment --channel bioconda --yes --quiet rpy2",
-    "conda install --prefix /Users/kazyra/u/environment --channel conda-forge --yes --quiet r-mass",
-    "conda install --prefix /Users/kazyra/Jumis/ccal/repositories/onco_gps_paper_analysis/environment --channel conda-forge --yes --quiet jupyter"
+    "conda install --prefix PROJECT_ENVIRONMENT_DIRECTORY_PATH --channel conda-forge --yes --quiet jupyter yapf click pandas hdf5 pytables scikit-learn scipy statsmodels matplotlib seaborn plotly pycrypto bcrypt biopython rpy2 r-mass",
+    "conda install --prefix PROJECT_ENVIRONMENT_DIRECTORY_PATH --channel bioconda --yes --quiet pyfaidx",
+    "pip install --quiet pytabix"
   ]
 }
