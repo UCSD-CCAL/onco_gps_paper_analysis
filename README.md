@@ -116,7 +116,7 @@ Get the requirements:
 
 In Terminal enter:
 ```
-spro create -g https://github.com/UCSD-CCAL/onco_gps_paper_analysis.git
+spro create -g https://github.com/UCSD-CCAL/onco_gps_paper_analysis onco-gps-paper-analysis
 ```
 
 ### 3. Run the Notebooks
