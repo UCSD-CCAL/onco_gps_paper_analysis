@@ -9,8 +9,10 @@
     "CCAL"
   ],
   "downloads": {
-    "/": "ftp://caftpd.nci.nih.gov/pub/OCG-DCC/CTD2/Broad/CTRPv2.2_2015_pub_CancerDisc_5_1210/CTRPv2.2_2015_pub_CancerDisc_5_1210.zip",
-    "/": "https://portals.broadinstitute.org/ccle_legacy/downloadFile/DefaultSystemRoot/exp_10/ds_30/CCLE_MUT_EXPR_RPPA_OncoGPS.zip?downloadff=true&fileId=27325"
+    "data": [
+      "ftp://caftpd.nci.nih.gov/pub/OCG-DCC/CTD2/Broad/CTRPv2.2_2015_pub_CancerDisc_5_1210/CTRPv2.2_2015_pub_CancerDisc_5_1210.zip",
+      "https://portals.broadinstitute.org/ccle_legacy/downloadFile/DefaultSystemRoot/exp_10/ds_30/CCLE_MUT_EXPR_RPPA_OncoGPS.zip?downloadff=true&fileId=27325"
+    ]
   },
   "commands": {
     "notebook": "jupyter notebook"
