@@ -107,7 +107,7 @@ Get the requirements:
 1. Install [Anaconda](https://youtu.be/xKGaGXmy8j4) or [Miniconda](https://conda.io/miniconda.html)
 2. Install SPro
 
-<a href="https://asciinema.org/a/160691?autoplay=1"><img src="https://asciinema.org/a/160691.png" width="836"/></a>
+<a href="https://asciinema.org/a/160691?autoplay=1"><img src="https://asciinema.org/a/160691.png" width="500"/></a>
 
 3. [Install git](https://git-scm.com/downloads)
 
