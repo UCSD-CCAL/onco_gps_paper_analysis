@@ -1,11 +1,11 @@
 {
   "name": "Onco-GPS Paper Analysis",
-  "description": "Shareable Project for: Decomposing Oncogenic Transcriptional Signatures to Generate Maps of Divergent Cellular States",
+  "description": "Shareable project for: Decomposing Oncogenic Transcriptional Signatures to Generate Maps of Divergent Cellular States",
   "git_url": "https://github.com/UCSD-CCAL/onco_gps_paper_analysis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
+    "SPro",
     "Shareable Project",
-    "Bioinformatics",
     "CCAL"
   ],
   "downloads": {
