@@ -5,6 +5,7 @@ import os
 import pickle
 import re
 import sys
+import shutil
 from collections import OrderedDict
 from pprint import pprint
 
